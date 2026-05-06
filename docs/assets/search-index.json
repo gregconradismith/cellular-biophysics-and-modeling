@@ -1,0 +1,667 @@
+[
+  {
+    "title": "About",
+    "kind": "page",
+    "url": "pages/about/",
+    "date": "2012-07-29",
+    "text": "Cellular Biophysics and Modeling is a required mathematical course in William & Mary 's Neuroscience program . The course curriculum was initially developed as part of an NSF CAREER grant to this blog's author, Greg Conradi Smith . For more than a decade, Cellular Biophysics and Modeling has been taught once per academic year to 50-100 undergraduate students. Cellular Biophysics and Modeling is an integrated exposition of electrophysiology of excitable cells and introductory nonlinear dynamics. The course includes challenging readings from the primary literature and weekly homework assignments. The prerequisites are calculus and a 200-level introduction to cell and molecular biology. Topics include: the biophysics of excitable membranes, the gating of voltage- and ligand-gated ion channels"
+  },
+  {
+    "title": "Index",
+    "kind": "page",
+    "url": "pages/index/",
+    "date": "2012-07-29",
+    "text": "[archives]"
+  },
+  {
+    "title": "Lecture 1",
+    "kind": "page",
+    "url": "pages/lecture-1/",
+    "date": "2018-11-21",
+    "text": "Biophysics, dynamics, neuron doctrines, and organization of the brain Required Reading Note: For readings that are behind a paywall, see the password protected course page titled Readings . Apologia and Introduction of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells . (15 pages) The organization of the brain. Nauta WJ, Feirtag M. Sci Am. 1979 Sep; 241(3):88-111. (Read the first half, pp. 17-25) Neuroscience. The neuron doctrine, redux. Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. Science. 2005 Nov 4;310(5749):791-3. Resources (Optional) \" Polynomial functions and their graphs . \" Read the linked PDF and/or use that phrase to search for videos. A glossary of terms used in neuroanatomy . Appendix A in Comparative Vertebrate Neuroa"
+  },
+  {
+    "title": "Helps",
+    "kind": "page",
+    "url": "pages/helps/",
+    "date": "2019-04-13",
+    "text": ""
+  },
+  {
+    "title": "Phase Planes",
+    "kind": "page",
+    "url": "pages/phase-plane-analysis-101/",
+    "date": "2019-04-13",
+    "text": "These three videos provide an example of phase plane analysis. https://youtu.be/kyVmFhPqEhA https://youtu.be/ta9BfrkknEI https://youtu.be/27vgtCntDo8"
+  },
+  {
+    "title": "Lecture 2",
+    "kind": "page",
+    "url": "pages/lecture-2/",
+    "date": "2019-06-04",
+    "text": "Post-Synaptic Potentials, Qualitative Analysis, Characteristic Times Resources (Optional Reading) There is no required reading for this lecture. However, the lecture is based on Function families and characteristic times , as presented in Chapter 5 of Cellular Biophysics and Modeling: A Primer on the Systems Biology of Excitable Cells . You may wish to refer to Chapter 5 for additional help and a deeper understanding. This MIT Mathlet on graph features that may prove helpful if you are having difficulty with the qualitative analysis of functions. The free graphing software Desmos is highly recommended. Fall 2025 Slides Lecture2-(QualitativeAnalysisAndCharacteristicTimes) Download"
+  },
+  {
+    "title": "Lecture 3",
+    "kind": "page",
+    "url": "pages/lecture-3/",
+    "date": "2019-06-04",
+    "text": "Compartmental modeling, physical dimensions, phase diagrams, calcium influx experiment Required Reading Compartmental Modeling. Chapter 2 of Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells. Phase Diagrams. Chapter 3 of Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells. Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis. Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. Exp Neurol . 2013. [PubMed] [Read the YELLOW portions of this PDF] Optional Reading and Resources MIT Mathlet to explore the phase line and bifurcation diagrams. Ligands, Receptors and Rate Laws. Chapter 4 of Cellular Biophysics and Modeling: A primer on the systems biolo"
+  },
+  {
+    "title": "Lecture 4",
+    "kind": "page",
+    "url": "pages/lecture-4/",
+    "date": "2019-06-04",
+    "text": "Nernst equilibrium potentials and the GHK voltage equation Required Reading The Nernst Equilibrium Potential. Chapter 7 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Optional Reading and Resources Two-pore domain K\u207a channels regulate membrane potential of isolated human articular chondrocytes. Clark RB, Kondo C, Belke DD, Giles WR. J Physiol. 2011;589 (Pt 21):5071-89. Fall 2025 Slides Lecture4-(NernstEquilibriumPotentialAndGHKVoltageEquation) Download"
+  },
+  {
+    "title": "Lecture 5",
+    "kind": "page",
+    "url": "pages/lecture-5/",
+    "date": "2019-06-04",
+    "text": "The current balance equation for membrane voltage REQUIRED READING The Current Balance Equation. Chapter 8 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Optional Reading and Resources \"The Membrane Equation\" by David Heeger. Introduction. Chapter 1 of Ion Channels of Excitable Membranes by Bertile Hille. Briefly look at pp. 215-218 of Finkelstein and Mauro, 1963 (yellow). Notice that neuroscientists in 1963 are using ODEs and calculus to understand membrane currents and electrophysiology. (You do not have to read this article.) Fall 2025 Slides Lecture5-(RCCircuitTheoryOfPlasmaMembrane) Download"
+  },
+  {
+    "title": "Lecture 6",
+    "kind": "page",
+    "url": "pages/lecture-6/",
+    "date": "2019-06-04",
+    "text": "Goldman-Hodgkin-Katz theory Required Reading GHK Theory of Membrane Permeation. Chapter 9 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Corry, Ben. \"Understanding ion channel selectivity and gating and their role in cellular signalling.\" Molecular Biosystems 2.11 (2006): 527-535. Fall 2025 Slides Lecture6-(GHKTheoryRectification) Download Optional Reading and Resources For more on GHK current and voltage equation derivations, read pp. 445-453 from Chapter 14 of Ionic Channels of Excitable Membranes by Bertil Hille"
+  },
+  {
+    "title": "Lecture 7",
+    "kind": "page",
+    "url": "pages/lecture-7/",
+    "date": "2019-06-04",
+    "text": "Voltage-dependent currents and bistability Required Reading Voltage-Gated Ionic Currents. Chapter 10 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Regenerative Ionic Currents and Bistability. Chapter 11 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Sigworth FJ. Structural biology: Life's transistors. Nature. 2003 May 1;423(6935):21-2. [Highlighted portions of this marked-up PDF] Dolphin AC. A short history of voltage-gated calcium channels. Br J Pharmacol. 2006 Jan;147 Suppl 1(Suppl 1):S56-62. [Highlighted portions] Lipscombe D, Helton TD, Xu W. L-type calcium channels: the low down. J Neurophysiol. 2004 Nov;92(5):2633-41. [Highlighted portions] Kiehn O, Eken T. Functional role of plateau potentials in ve"
+  },
+  {
+    "title": "Lecture 8",
+    "kind": "page",
+    "url": "pages/lecture-8/",
+    "date": "2019-06-04",
+    "text": "Bifurcation diagrams Required Reading and Watching Bifurcation Diagrams of Scalar ODEs. Chapter 16 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Terman pp. 21-28 \"An introduction to dynamical systems and neuronal dynamics.\" (Introduction & One Dimensional Equations) ODE | Slope Fields ODE | Phase diagrams ODE | Bifurcation Diagram Fall 2025 Slides Lecture8-(FoldTranscriticalPitchforkBifurcation) Download Optional Reading and Resources Steve Strogatz' lecture on \"One dimensional Systems\" (Cornell Math Department) What is a saddle-node bifurcation? What is a transcritical bifurcation? What is a pitchfork bifurcation?"
+  },
+  {
+    "title": "Lecture 9",
+    "kind": "page",
+    "url": "pages/lecture-9/",
+    "date": "2019-06-04",
+    "text": "Voltage-clamp recording and the classical biophysics of the squid giant axon Required Reading Voltage-Clamp Recording. Chapter 12 of Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells. Hodgkin-Huxley Model of the Action Potential. Chapter 13 of Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells. Required Watching Lecture 9 - Part 1 - Voltage-clamp recording and the classical biophysics of the squid giant axon https://youtu.be/2XXUkmooejE Lecture 9 - Part 2 - Voltage-clamp recording and the classical biophysics of the squid giant axon https://youtu.be/nxEles983I8?si=te9AEA3FDjXWQqYn Watch this video of Jim Keener on the Dynamics of the Action Potential: The Hodgkin-Huxley Macarena. https://youtu.be/UpK_ZKpn9d4 R"
+  },
+  {
+    "title": "Lecture 10",
+    "kind": "page",
+    "url": "pages/lecture-10/",
+    "date": "2019-06-04",
+    "text": "The Morris-Lecar model and phase plane Required Reading The Morris-Lecar Model. Chapter 14 of Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells. McCormick 1998 \"Membrane properties and neurotransmitter actions\" (pp. 37-75 of \"The Synaptic Organization of the Brain,\" edited by Gordon Shepard). This book chapter is an excellent review of material we have already covered in detail. The material that is new is in the second half (pp. 43-75), the most important of which (at this time) is the description of the 10-15 most important neuronal ionic currents (see pp. 46-57). [ PDF ] Begin reading Ermentrout & Terman 2010 (pp. 49-63, that is, Sections 3.1 to 3.4). [ PDF ] This chapter of their monograph, Mathematical Foundations of Neuroscience, discusses exc"
+  },
+  {
+    "title": "Unit 1",
+    "kind": "page",
+    "url": "pages/unit-1/",
+    "date": "2019-06-04",
+    "text": ""
+  },
+  {
+    "title": "Unit 2",
+    "kind": "page",
+    "url": "pages/unit-2/",
+    "date": "2019-06-04",
+    "text": ""
+  },
+  {
+    "title": "Unit 3",
+    "kind": "page",
+    "url": "pages/unit-3/",
+    "date": "2019-06-04",
+    "text": ""
+  },
+  {
+    "title": "Resources",
+    "kind": "page",
+    "url": "pages/resources/",
+    "date": "2019-06-04",
+    "text": ""
+  },
+  {
+    "title": "Lecture 11",
+    "kind": "page",
+    "url": "pages/lecture-11/",
+    "date": "2019-06-07",
+    "text": "Phase plane analysis of 2D ODE systems Required Reading Phase Plane Analysis. Chapter 15 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Required Watching The following three videos will walk you through phase plane analysis of a 2d nonlinear system. Here is a link to phase plane graphing software used in this video: pplane (Phase Plane) Java Software Download http://math.rice.edu/~dfield/dfpp.html https://youtu.be/kyVmFhPqEhA?si=JdxduVLfOAnzS1QN https://youtu.be/ta9BfrkknEI?si=wu8ata9VDVszVkVf https://youtu.be/27vgtCntDo8?si=8Fp2D_Tvv3r4sq00 Fall 2025 Slides Lecture11-(PhasePlaneAndLinearStabilityAnalysis) Download Optional Reading and Resources Another example of determining vector fields with the help of nullclines https://youtu.be/fqK1z06a9pQ Tw"
+  },
+  {
+    "title": "Lecture 12",
+    "kind": "page",
+    "url": "pages/lecture-12/",
+    "date": "2019-06-07",
+    "text": "The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane Required Reading Linear Stability Analysis . Chapter 16 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Type II Excitability And Oscillations . Chapter 17 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Explore this MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane What would Griffin do? Depolorizing pulse: Hyperpolarizing pulse: Oscillations: Required Watching The trace-determinant diagram https://youtu.be/oEskbXrhkkk Fall 2025 Slides Lecture12-TheFitzhughNagumoModel Download Optional Reading and Resources Excitable Systems and the Fitzhugh-Nagumo Equations . Sections 11.1-11.4 (pp. 22"
+  },
+  {
+    "title": "Lecture 13",
+    "kind": "page",
+    "url": "pages/lecture-13/",
+    "date": "2019-06-07",
+    "text": "The Morris-Lecar Phase Plane - Type 1 vs 2 excitability and oscillations Required Reading Type 1 Excitability And Oscillations (SNIC and SHO bifurcations). Chapter 18 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Fall 2025 Recorded Lecture (2 parts) https://youtu.be/r_scmxnDpwc https://youtu.be/p8k5ueoHyZs Fall 2025 Slides Lecture13-(TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability) Download Further Reading Ermentrout & Terman 2010 (Chapter 3 Dynamics, especially pp. 49-63, that is, Sections 3.1 to 3.4). This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis (e.g., the Hopf bifurcation, saddle-node on a limit cycle bifurcation, and saddle h"
+  },
+  {
+    "title": "Lecture 14",
+    "kind": "page",
+    "url": "pages/lecture-14/",
+    "date": "2019-06-07",
+    "text": "Square-wave bursting and homoclinic bifurcations Required Reading Read the highlighted parts of Izhikevich 2000 (a review of neuronal bursting mechanisms). [PDF] You may be amazed at how much you understand about nonlinear dynamics of neuronal activity.... The three most important types of bursting are: Square wave bursting - also called fold/homoclinic bursting - onset is a saddle-node (fold) bifurcation, offset is a saddle homoclinic orbit bifurcation - the fast subsystem is bistable. Eliptical bursting - also called subHopf/fold cycle bursting - onset is subcritical Hopf bifurcation, offset is fold limit cycle bifurcation - the fast subsystem is bistable. Parabolic bursting - also called circle/cirle bursting - onset is SNIC bifurcation, offset is also a SNIC bifurcation - the fast subs"
+  },
+  {
+    "title": "Lecture 15",
+    "kind": "page",
+    "url": "pages/lecture-15/",
+    "date": "2019-06-07",
+    "text": "Elliptical and Parabolic Bursting, The Low-Threshold Calcium Current and PIR Bursting, Delta Oscillations Required Reading The Low-Threshold Calcium Spike . Chapter 19 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Highlighted portions of Wang et al. 1991 on the T-type calcium current and the low-threshold spike in thalamic neurons [PDF] Sections titled \"Types of Ionic currents\" and \"Summary of Intrinsic Membrane Properties\" (pp. 46-57) of David McCormick's chapter entitled \" Membrane properties and neurotransmitter actions .\" [PDF] Yellow portions of H-current: Properties of a neuronal and network pacemaker by Luthi and McCormick. [PDF] Fall 2025 Slides Lecture15(ThalamocorticalRelayNeuronsPostInhibitoryReboundLowThresholdSpike) Download Low-thres"
+  },
+  {
+    "title": "Lecture 16",
+    "kind": "page",
+    "url": "pages/lecture-16/",
+    "date": "2019-06-07",
+    "text": "Central Pattern Generators, Stomatogastric Ganglion, Half-Center Oscillators, Release vs. Escape Dynamics Required Reading Synaptic Currents. Chapter 20 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells. Read pp. 311-313 and Figure 1 of Hudson et al. 2010 Identifiable Cells in the Crustacean Stomatogastric Ganglion [PDF] . Required Watching Katie Wilkinson (SJSU) lecture on Central Pattern Generators. https://youtu.be/ZA0URG5jcdM Watch video Introduction to Central Pattern Generators: Lessons from Small Rythmic Circuits - Part 1: Variability, Compensation, Modulation, and Homeostasis by Eve Marder (Brandeis University). https://youtu.be/dGRQmndrUzA Escape Dynamics Release Dynamics Winner Takes All Dynamics Further Watching https://youtu.be/njlT59XJ_e8 "
+  },
+  {
+    "title": "Lecture 17",
+    "kind": "page",
+    "url": "pages/lecture-17/",
+    "date": "2019-06-07",
+    "text": "Network properties of the thalamus - spindles and absence seizures Required Reading von Krosigk et al. 1993 Cellular mechanisms of synchronized oscillation in the thalamus . [PDF] Steriade et al 1993 Thalamocortical oscillations in the sleeping and aroused brain. [PDF] Optional Reading and Resources Kim and McCormick 1998 Functional influence of burst and tonic mode on synaptic interactions in the thalamus . [PDF] Fall 2025 Slides Lecture17(NetworkPropertiesThalamusPart1) Download"
+  },
+  {
+    "title": "Lecture 18",
+    "kind": "page",
+    "url": "pages/lecture-18/",
+    "date": "2019-06-07",
+    "text": "EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function Required Reading Read the highlighted portions of Koch (2012) \"The origins of extracellular fields and currents.\" [PDF] Read the highlighted portions of Sherman (2007) paper on thalamic relay, drivers and modulators, etc. [PDF] Fall 2025 Slides Lecture18(EEGSensoryGatingDriversModulators) Download Further Reading and Resources Cash et al. 2009. The human K-complex represents an isolated cortical down-state. Science , 324(5930), 1084-1087. [PDF] Ghodrati et al. 2017. Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role. Progress in Neurobiology , 156, 214-255. [PDF] Uhlhaas & Singer 2010. Abnormal neural oscillations and s"
+  },
+  {
+    "title": "Lecture X1",
+    "kind": "page",
+    "url": "pages/lecture-x1/",
+    "date": "2019-06-07",
+    "text": "Basal ganglia and deep brain stimulation Required Reading First watch this 5 min video by Ann Graybiel https://youtu.be/0Qi0B_jAMmw Then read the entirety of Primer: The Basal Ganglia (Anne Graybiel, 2000) [PDF] Then watch this seminar by Ann Graybiel https://youtu.be/8KyeIiwsJZE Read highlighted portions of: Parkinsonian thalamic activity to restoring thalamic relay using deep brain stimulation: new insights from computational modeling (Meijer et al. 2011). [PDF] Read highlighted portions of: Deep brain stimulation for treatment-resistant depression (Anderson et al. 2012). [PDF]"
+  },
+  {
+    "title": "Lecture 19",
+    "kind": "page",
+    "url": "pages/lecture-19-2/",
+    "date": "2019-06-07",
+    "text": "Local field potentials, unit recordings, hippocampal place cells Required Reading The Scholarpedia article on local field potentials (highlighted portions). [PDF] The brain's navigational place and grid cell system by Keihn and Forssberg. [PDF] Place, space and memory cells by Marozzi and Jeffery. [PDF] Fall 2025 Sides Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm) Download Optional Reading and Resources You Are Here - RadioLab Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization by Kim et al. [PDF]"
+  },
+  {
+    "title": "Lecture 20",
+    "kind": "page",
+    "url": "pages/lecture-20/",
+    "date": "2019-06-07",
+    "text": "Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis Required Reading Spatial frequency analysis in vision by Oliver Braddick. [PDF] Look at Figures 1 and 2 of Do we know what the early visual system does? by Carandini et al. [PDF] Look at Figures 1 and 3 of Understanding the retinal basis of vision across species by Baden et. al. [PDF] Optional Reading Visual responses of ganglion cells by Ralph Nelson . [PDF] Color Vision: Almost Reason Enough for Having Eyes by Neitz et al. [PDF] Fall 2025 Slides Lecture20(VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis Download Further Reading and Watching A Walk-through of the Mammalian Visual System by R. Clay Reid https://youtu.be/mtPgW1ebxmE Retina"
+  },
+  {
+    "title": "Lecture 21",
+    "kind": "page",
+    "url": "pages/lecture-21/",
+    "date": "2019-06-07",
+    "text": "Inhibitory interneuron networks in cortex and cortical oscillations Required Reading For this asynchronous online class, begin by reviewing the slides posted below (there is no audio). Then read the highlighted portions of the following papers. Neurophysiological and computational principles of cortical rhythms in cognition (Wang 2010). [PDF] Abnormal neural oscillations and synchrony in schizophrenia (Uhlhaas and Singer 2010). [PDF] Fall 2025 Slides Lecture21(InhibitoryInterneuronNetworksInCortexAndCorticalOscillations) Download Further Reading Calcium channels in higher level brain function (Jones 2007). [PDF] Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice (Shin et al. 2007). [PDF] Two dynamically distinct inhibitory networks in layer 4 of the"
+  },
+  {
+    "title": "Readings",
+    "kind": "page",
+    "url": "pages/readings/",
+    "date": "2021-04-18",
+    "text": "Readings (not to be distributed) Bean, B. P. (2007). The action potential in mammalian central neurons. Nature Reviews Neuroscience , 8 (6), 451-465. [PDF] Clark RB, Kondo C, Belke DD, Giles WR. Two-pore domain K\u207a channels regulate membrane potential of isolated human articular chondrocytes. J Physiol. 2011;589 (Pt 21):5071-89. Corry, Ben. \u201cUnderstanding ion channel selectivity and gating and their role in cellular signalling.\u201d Molecular Biosystems 2.11 (2006): 527-535. Dolphin AC. A short history of voltage-gated calcium channels. Br J Pharmacol. 2006 Jan;147 Suppl 1(Suppl 1):S56-62. [Mark up] Ermentrout, G. B., & Terman, D. H. (2010) in Mathematical foundations of neuroscience (Vol. 35). Springer Science & Business Media. Chapter 3 Dynamics Fall, C.P., Marland, E.S., Wagner, J.M. and Tys"
+  },
+  {
+    "title": "The Triune Brain?",
+    "kind": "page",
+    "url": "pages/the-triune-brain/",
+    "date": "2021-04-18",
+    "text": "The following two paragraphs dismissing Paul MacLean's triune brain theory are from Comparative Vertebrate Neuroanatomy: Evolution and Adaptation by Ann B. Butler and William Hodos. PREVIOUS THEORIES OF VERTEBRATE BRAIN EVOLUTION: ADDITION OF STRUCTURES OR AREAS A number of theories assume that if organisms develop new adaptations and functions, then new structures must have been added to already functioning brains. New structures may be added, of course, but old structures may be modified as well. In fact, modification of existing structures may be more common a process than addition in other organ systems. An example of an additive theory is Paul MacLean's triune brain theory, developed in the 1960s. MacLean postulated that the human brain is composed of a hierarchy of three formations: "
+  },
+  {
+    "title": "Slides",
+    "kind": "page",
+    "url": "pages/slides/",
+    "date": "2021-04-18",
+    "text": "For students who wish to read prior to class, or to bring to class to markup, these lecture slides from previous years may be used. Lecture slides from previous years Lecture1-(DynamicPhenomena) Download Lecture2-(QualitativeAnalysisAndCharacteristicTimes) Download Lecture3-(CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions) Download Lecture4-(NernstEquilibriumPotentialAndGHKVoltageEquation) Download Lecture5-(RCCircuitTheoryOfPlasmaMembrane) Download Lecture6-(GHKTheoryRectification) Download Lecture7-(VoltageDependentCurrentsAndBistability) Download Lecture8-(FoldTranscriticalPitchforkBifurcation) Download Lecture9-(VoltageClampAndHodgkinHuxley) Download Lecture10-(IntroToMorrisLecarModel) Download Lecture11-(PhasePlaneAndLinearStabilityAnalysis) Download Lecture12-TheF"
+  },
+  {
+    "title": "Videos",
+    "kind": "page",
+    "url": "pages/videos/",
+    "date": "2021-04-18",
+    "text": "https://youtu.be/FQjgsQ5G8ug"
+  },
+  {
+    "title": "Fall 2025 Calendar",
+    "kind": "page",
+    "url": "pages/fall-2025-calendar/",
+    "date": "2025-07-25",
+    "text": "(1) Thursday, August 28 - First Day of Classes - Biophysics, dynamics, and organization of the brain Unit 1 (2) Tuesday, September 2 - Qualitative analysis and characteristic times (3) Thursday, September 4 - Compartment modeling, phase diagrams, exponential relaxation, physical dimensions (4) Tuesday, September 9 - Nernst equilibrium potential and GHK voltage equation (5) Thursday, September 11 - RC circuit theory of plasma membrane Problem Set 1 due at 11:59 pm. (6) Tuesday, September 16 - GHK current equation and rectification (7) Thursday, September 18 - Voltage-dependent currents and membrane bistability Problem Set 2 due at 11:59 pm. (8) Tuesday, September 23 - Fold, transcritical, and pitchfork bifurcations UNIT 2 (9) Thursday, September 25 - No new material / review (10) Tuesday, S"
+  },
+  {
+    "title": "Welcome to Cellular Biophysics & Modeling!",
+    "kind": "post",
+    "url": "posts/welcome-to-cellular-biophysics-modeling/",
+    "date": "2025-08-27",
+    "text": "The first day of classes for APSC 351 is Thursday, August 28, 2025, 2:00-3:20 in ISC 1127. I'm looking forward to meeting you. I have posted tentative versions of the syllabus and calendar. Subscribe to the course blog using the widget to the right to receive an email notification when new announcements are posted."
+  },
+  {
+    "title": "Syllabus",
+    "kind": "page",
+    "url": "pages/syllabus/",
+    "date": "2025-08-27",
+    "text": "CBM Syllabus Fall 2025 Download"
+  },
+  {
+    "title": "Office Hours",
+    "kind": "post",
+    "url": "posts/office-hours/",
+    "date": "2025-08-28",
+    "text": "Greg Conradi Smith's office hours are Wednesday 8-10 am. Office: ISC 0275. If I am not there, check my lab: ISC 0252. Sarah Sakly's office hours are Tuesday and Thursday 6-7 pm in ISC 0280."
+  },
+  {
+    "title": "TA Resources",
+    "kind": "page",
+    "url": "pages/ta-resources/",
+    "date": "2025-08-29",
+    "text": "Office hours are a great opportunity to ask questions, go over tricky concepts, or just get some extra practice with the material. My office hours will be held Tuesdays and Thursday, from 6 pm to 7 pm in ISC 0280 . You\u2019re welcome to drop by with anything you\u2019d like to review. If you\u2019d rather not ask on the spot\u2014or if you think of a question ahead of time\u2014you can also drop it in PollEverywhere (PollEv) using the box right here on the page. Submissions are anonymous , so you can ask whatever\u2019s on your mind without worrying. I\u2019ll pull those up during office hours so we can talk through them together. And just a reminder: no question is too small or too basic . Chances are, if you\u2019re wondering about something, other people are too\u2014so asking helps everyone. \u2728 Hope to see you there! \ud83d\udcac Got a ques"
+  },
+  {
+    "title": "Course blog and eduroam",
+    "kind": "post",
+    "url": "posts/course-blog-and-eduroam/",
+    "date": "2025-09-02",
+    "text": "The domain cellularbiophysicsandmodeling.com was being blocked because W&M Information Technology categorized it as a \"new domain.\" IT has added it to the allow list, so it should work on campus/eduroam now. If you are still having trouble accessing the course blog at https://cellularbiophysicsandmodeling.com/ try switching browsers (such as Safari, Chrome, or Firefox). You might also clear your browser\u2019s cache and cookies, then reload the page. If that does not work, try using an incognito window and/or rebooting your computer. If none of this works, please contact Information Technology itsupport@wm.edu and cc me when you do (gdsmit@wm.edu). --Greg"
+  },
+  {
+    "title": "Questions about Problem Set 1",
+    "kind": "post",
+    "url": "posts/questions-about-problem-set-1/",
+    "date": "2025-09-05",
+    "text": "A student asked: I just had a quick question about the assignment for APSC 351. I was wondering if I could just type everything out if possible since it would just be easier/more efficient for me, plus my legibility is also hard to read as well. The professor responded: Except for question 1, it is important that sketches and derivations (math) are done by hand . Practice writing legibly, because you will need to do so on the exam. Do not turn in typeset mathematics or use a word processor (except for question 1). Research shows that the kinesthetic aspect of learning mathematics is essential."
+  },
+  {
+    "title": "Will exam questions be similar to homework questions?",
+    "kind": "post",
+    "url": "posts/will-exam-questions-be-similar-to-homework-questions/",
+    "date": "2025-09-05",
+    "text": "Student: Are the problem set questions representative of what will be on the exam? Professor: Not necessarily. The problem sets are exercises designed to help you learn the material. A homework questions could require 20-30 minutes to work through. That would not be an appropriate question for an 1.5 hour in-class exam. I expect most students will need 4-5 hours to complete the homework. This assumes you have attended lecture and read the required readings carefully. The CMB Primer has many example problems worked out; often these are similar to the homework questions. Attached is an example exam - an in-class exam for unit 1 in 2015. Due to the large class size, most questions are multiple choice. Some questions require a minute of working through things on scratch paper. exam1 from 2015 "
+  },
+  {
+    "title": "One who chops their own firewood warms themself twice",
+    "kind": "post",
+    "url": "posts/one-who-chops-their-own-firewood-warms-themself-twice/",
+    "date": "2025-09-05",
+    "text": "Problem Set 1 can be found on Bb and should be turned in via Blackboard. Homework scores will be visible on Blackboard when they are available. All questions about grades/scores should be directed to Greg and NOT directed to the course TA. Simple arithmetic or data entry problems will be quickly rectified. It is highly unlikely that a HW score will be adjusted for any other reason. What is the rubric for grading? Problem set grades have two components: 0-5 points for 1 or 2 randomly selected problems. Plus 0-5 points for \"completion and presentation.\" Each individual assignment is not that important. But the accumulated scores are substantial (20% of final grade). Correct answers to the homework will be distributed when grading is complete. \"One who chops their own firewood warms themself "
+  },
+  {
+    "title": "Question about iPads for handwritten work",
+    "kind": "post",
+    "url": "posts/question-about-ipads-for-handwritten-work/",
+    "date": "2025-09-05",
+    "text": "Student: I just wanted to check in and see if it was ok for me to use my ipad to hand-write the work for the problem set? Professor: Yes! Of course. I use green engineering graph paper. But iPads are great. Save a tree!"
+  },
+  {
+    "title": "Problem Set 1 due date extended to Thursday, September 11",
+    "kind": "post",
+    "url": "posts/problem-set-1-due-date-extended-to-thursday-september-11/",
+    "date": "2025-09-06",
+    "text": "Several students have asked for an extension on the deadline for Problem Set 1. I am persuaded (by your TA Sarah Sakly among others) that a longer period of time between receiving the problem set and turning it in would be helpful for many of you. So ... Problem Set 1 is now due September 11 (Thursday evening at 11:59 pm). This will allow more opportunities to ask questions during class or office hours. I will add upcoming due dates to the calendar to help with planning. I expect that for 2 out of 3 weeks of the course there will be a problem set assigned."
+  },
+  {
+    "title": "Generative AI course policy",
+    "kind": "post",
+    "url": "posts/generative-ai-course-policy/",
+    "date": "2025-09-06",
+    "text": "As discussed in class, the course policy on generative AI essentially the same as collaboration with other students, that is, you are expected to be transparent about your methods of arriving at your homework answers. And the deliverable (what you turn in) is expected to be handwritten (paper or iPad) by you, not a photocopy or picture of someone else's final product. (1) By transparency I mean that you should acknowledge in your homework answers when and how you utilized generative AI. The easiest way to do this is on a question-by-question basis. Example: \"To answer this question, I asked ChatGPT what was meant by a `monotone' vs. 'biphasic' function. The AI response indicated that a function is monotone if it is either non-decreasing or non-increasing throughout its domain, while a biph"
+  },
+  {
+    "title": "The PolyQual Game!",
+    "kind": "page",
+    "url": "pages/the-polyqual-game/",
+    "date": "2025-09-10",
+    "text": "Polyqual (Qualitative Analysis Quiz) Polyqual (Qualitative Analysis Quiz) Two random, related polynomials are generated. Decide if their qualitative sign patterns of f, f', f'' match. Choose an answer to reveal the stair plots and symbol tables. New Pair Qualitatively Similar Qualitatively Different Score: 0 / 0 (0%) Reset Score Show stair row for sign(f) Download PNG No worries ... an exam question that involves qualitative analysis will not involve subtle differences that are difficult to see. That sometimes happens above."
+  },
+  {
+    "title": "PolyQual Game",
+    "kind": "post",
+    "url": "posts/polyqual-game/",
+    "date": "2025-09-10",
+    "text": "I made a version of The PolyQual Qame that uses JavaScript. To play, click on the link here (also in the menu bar). UN-COLLEGE (just for fun) https://youtu.be/0obMRztklqU?si=9pS2LkQrn71od3Ar That Mitchell and Webb Look is a British sketch comedy television series starring David Mitchell and Robert Webb that ran from 2006 to 2010."
+  },
+  {
+    "title": "Multiple submissions on Bb",
+    "kind": "post",
+    "url": "posts/multiple-submissions-on-bb/",
+    "date": "2025-09-12",
+    "text": "Student: As long as it's before the due date, will you allow us to resubmit assignments? Professor: The settings for PS1 allowed only 1 submission, but for no particular reason. Future problem sets should allow multiple submissions, with only the last one being graded."
+  },
+  {
+    "title": "Slides for lectures 1-5 are posted",
+    "kind": "post",
+    "url": "posts/slides-for-lectures-1-5-are-posted/",
+    "date": "2025-09-12",
+    "text": "Student: Yesterday, in class, there were two slides about \"Non-Nernstian Behavior of Vm\" that were not included in the lecture slides posted in the blog. Could you please share those two slides? Professor: Yes. In fact I've uploaded slides for Lectures 1-5 on their respective pages. Those are best if you are looking back. If you are looking ahead, the slides from a previous year can be found under Readings / Slides in the menu bar."
+  },
+  {
+    "title": "Marked up readings for Thursday are posted",
+    "kind": "post",
+    "url": "posts/marked-up-readings-for-thursday-are-posted/",
+    "date": "2025-09-16",
+    "text": "Student: I was going through the readings for next class and was having trouble finding the highlighted PDF versions of the required readings for Thursday. Professor: Thanks for the heads up! Each marked up reading is now correctly linked on the blog page for Lecture 7 Voltage-dependent currents and bistability."
+  },
+  {
+    "title": "No problem set this week",
+    "kind": "post",
+    "url": "posts/no-problem-set-this-week/",
+    "date": "2025-09-22",
+    "text": "There is no problem set this week, so you can focus on studying for the exam next Tuesday"
+  },
+  {
+    "title": "EXAM 1 Specification",
+    "kind": "post",
+    "url": "posts/exam-1-specification/",
+    "date": "2025-09-22",
+    "text": "The following PDF titled EXAM 1 Specification explains how EXAM 1 will work. You can also find it under UNIT1 in the menu bar. Exam1Specification2025 Download"
+  },
+  {
+    "title": "Lecture 13 is online + Draft of exam 2 specification",
+    "kind": "page",
+    "url": "pages/lecture-13-is-online-draft-of-exam-2-specification/",
+    "date": "2025-10-21",
+    "text": "Due to the power outage, the lecture today is online and asynchronous. You can find a 2 part video and slides on the blog page The Morris-Lecar Phase Plane \u2013 Type 1 vs 2 excitability and oscillations Remember that it is very important to keep up with the readings for this unit. The lectures are expository and represent important topics, but the lectures are not comprehensive. Below I've attached a draft specification for Exam 2. Use this to guide your close reading of the text. Required reading so far has included Chapters 12-18. Exam2Specification2025 Download"
+  },
+  {
+    "title": "White board - exam review from office hours today",
+    "kind": "post",
+    "url": "posts/white-board-exam-review-from-office-hours-today/",
+    "date": "2025-09-24",
+    "text": ""
+  },
+  {
+    "title": "Example Exam 1 from Fall 2024",
+    "kind": "post",
+    "url": "posts/example-exam-1-from-fall-2024/",
+    "date": "2025-09-27",
+    "text": "Attached is an example Exam 1 from Fall 2024, courtesy Prof. Christopher Del Negro. An answer key will not be distributed, but some of the questions can be used for study and practice. Questions 4, 6, and 17-19, are not representative of the exam that I am writing (e.g., we have not yet discussed negative feedback, we are not using Berkeley Madonna). Questions 17-19 are doable if you understand how to derive ODEs from chemical reaction schemes using mass action kinetics (discussed in Chapter 4 of the textbook). However, Chapter 4 was not required reading, so these questions are not representative of the exam I am writing. Questions 27-30 can be done without Berkeley Madonna and the concepts here are important. 2024_exam_1 Download"
+  },
+  {
+    "title": "Exam 1 is tomorrow in class",
+    "kind": "post",
+    "url": "posts/exam-1-is-tomorrow-in-class/",
+    "date": "2025-09-29",
+    "text": "Sarah and I wish you the best as you make final preparations for Exam 1. There will be no TA office hours on Tuesday, nor Professor's office hours on Wednesday. My policy is that there is a \"brown out\" for TA and professor beginning 24 hours before the exam, meaning no further questions will be taken. However, I will address a few questions that were submitted today (see below). Student: Your Fall 2015 Exam question 19 refers to currents IA and IB, which are both GHK leak currents. Both are passive, but would they also be considered restorative? (One of the answer choices is that they are both passive and restorative.) Or does restorative/regenerative categorization only apply to voltage-gated currents? Professor: A GHK current is both passive and restorative. Same for an Ohmic leakage cur"
+  },
+  {
+    "title": "No Lecture Thursday - Class is online and asynchronous",
+    "kind": "post",
+    "url": "posts/no-lecture-thursday-class-is-online-and-asynchronous/",
+    "date": "2025-10-01",
+    "text": "Unit 2 begins tomorrow (Thursday). Class will be \"online and asynchronous,\" so there is no need to come to the lecture hall. The assigned reading (two chapters) and watching (two recorded lectures) can be found on the blog page, Lecture 9: Voltage-clamp recording and the classical biophysics of the squid giant axon . Please ensure that you fully engage with and process all the material from Lecture 9 before class on Tuesday. Understanding voltage-clamp recording will be necessary to follow Lecture 10 on Tuesday. At that point, we will all take a well-deserved Fall Break."
+  },
+  {
+    "title": "R(t) = Romeo,  J(t) = Juliet - dynamic models of love affairs",
+    "kind": "post",
+    "url": "posts/rt-romeo-jt-juliet-dynamic-models-of-love-affairs/",
+    "date": "2025-10-16",
+    "text": "As we have been discussing in class, 2d nonlinear dynamics of the Morris-Lecar and Fitzhugh-Nagumo models provide a deep understanding of membrane potential excitability and oscillations, much as 1d models gave insight into membrane potential bistability. 2d linear systems are primarily of interest to neuroscientists because they allow classification of steady states (fixed points) in 2d nonlinear systems (nodes, saddles, spirals). This is the significance of the 2x2 matrix of partial derivatives that we call the \"Jacobian.\" This classification of steady states via \"linear stability analysis\" is well-summarized by the trace-determinant plane. A lighthearted review of 2d linear systems is provided by the following paper and video on dynamical models of love affairs. Romeo's love for Juliet "
+  },
+  {
+    "title": "Problem Set 3 is posted (due Thursday, October 23)",
+    "kind": "post",
+    "url": "posts/problem-set-3-is-posted-due-thursday-october-23/",
+    "date": "2025-10-16",
+    "text": "Problem Set #3 has been posted to Bb. It is due Thursday, October 23. Get started early on this one. The problem set will require several hours to complete, but it should not be terribly difficult provided you have done the assigned required readings for the last several lectures. The links for PPLANE and Java are below. http://alun.math.ncsu.edu/pplane/ https://www.java.com/en The Hodgkin-Huxley simulator can be found here: https://www.andrewkrause.org/tools-code/hodgkin-huxley-simulation-with-javascript"
+  },
+  {
+    "title": "Problem Set 3 is due Thursday, October 23 - Helpful videos",
+    "kind": "post",
+    "url": "posts/problem-set-3-is-due-thursday-october-23-helpful-videos/",
+    "date": "2025-10-21",
+    "text": "Here are two videos that will help with question 2 on Problem Set #3 (see Bb). They show how to determine direction of flow in the phase plane when one variable is a fast (activation) variable and the other is a slow (recovery) variable. Remember PS#3 is due Thursday, October 23. The problem set will require several hours to complete, but it should not be terribly difficult provided you have done the assigned required readings for the last several lectures. https://youtu.be/q47JGY4FGG4?si=cv0Tf_dhc6YGLQFW https://youtu.be/zPryxy3S9sE?si=WphV0bmkpakrHVIz"
+  },
+  {
+    "title": "Lecture 13 is online + Draft of exam 2 specification",
+    "kind": "post",
+    "url": "posts/lecture-13-is-online-draft-of-exam-2-specification/",
+    "date": "2025-10-21",
+    "text": "Due to the power outage, the lecture today is online and asynchronous. You can find a 2-part video and slides on the blog page The Morris-Lecar Phase Plane \u2013 Type 1 vs 2 excitability and oscillations . Remember that it is very important to keep up with the readings for this unit . The lectures are expository and represent important topics, but the lectures are not comprehensive. Below, I've attached a draft specification for Exam 2. Use this to guide your close reading of the text. Required reading so far has included Chapters 12-18. Exam2Specification2025 Download"
+  },
+  {
+    "title": "Exams from previous years that you can use for studying",
+    "kind": "post",
+    "url": "posts/exams-from-previous-years-that-you-can-use-for-studying/",
+    "date": "2025-10-23",
+    "text": "Unit 2 exam from 2015 Exam2Spring2015 Download Modules 3 and 4 from 2022 and 2023 cover materials similar to Unit 2 this year ExamModule3(2022) Download ExamModule4(2023) Download"
+  },
+  {
+    "title": "The sign of beta in quadratic formula",
+    "kind": "post",
+    "url": "posts/the-sign-of-beta-in-quadratic-formula/",
+    "date": "2025-10-24",
+    "text": "Student: I was wondering what sign of \u03b2 (the trace of the constant coefficient matrix A) is used when calculating eigenvalues. On page 276 of the textbook, the sign of \u03b2 is positive, but in the lecture slides posted to the class blog, the sign of \u03b2 is negative. Thanks for your help! Professor: Good catch. The sign of \u03b2 is positive in the quadratic formula (16.5) because it occurs with a negative sign in the quadratic expression for lambda (16.4). There is a typo on the lecture slide (on the right). \u2014Greg"
+  },
+  {
+    "title": "No class Tuesday / Readings for Thursday posted",
+    "kind": "post",
+    "url": "posts/no-class-tuesday-readings-for-thursday-posted/",
+    "date": "2025-10-31",
+    "text": "There will be no lecture on Tuesday (Election Day). Besides, the class did well on Exam 2. The class average was a middle B (85). If you would like to get a head start on Unit 3, the readings and watchings for lecture on Thursday have been posted. See Somatogastric ganglion, half-center oscillators, escape vs. release dynamics . I recommend watching the 10 minute video by Katie Wilkinson (SJSU) on Central Pattern Generators prior to lecture. You may also wish to look through Chapter 20 of the textbook (synaptic currents)."
+  },
+  {
+    "title": "No office hours tomorrow morning",
+    "kind": "post",
+    "url": "posts/no-office-hours-tomorrow-morning/",
+    "date": "2025-11-04",
+    "text": "There will be no office hours tomorrow (Wednesday). See you Thursday afternoon! --Greg"
+  },
+  {
+    "title": "New Course on Biomedical Materials and Devices",
+    "kind": "post",
+    "url": "posts/exam-2-grades/",
+    "date": "2025-11-06",
+    "text": ""
+  },
+  {
+    "title": "Why does increased I_app raise the voltage nullcline?",
+    "kind": "post",
+    "url": "posts/what-does-increased-iapp-raise-the-voltage-nullcline/",
+    "date": "2025-11-11",
+    "text": "In the Morris-Lecar model, increasing Iapp raises the voltage nullcline, because the vertical axis (w) is the gating variable for an outward current (IK). If you are on the voltage nullcline, and keep V fixed, increasing Iapp is balanced by increasing w. This is described carefully on p. 248-249 of the textbook (Chapter 14). A good exercise is to consider the (V,h) phase plane for post-inhibitory rebound bursting. In this case, increasing Iapp lowers the voltage nullcline, because the vertical axis (h) is the gating variable for an inward current (the low-threshold calcium current, IT). In both cases, if you are on the voltage nullcline, then Iapp = g*s*(V - E) + Iother where g is the conductance of the current of interest, s is its gating variable, and E is its reversal potential, and Iot"
+  },
+  {
+    "title": "Problem Set #4 (Optional)",
+    "kind": "post",
+    "url": "posts/problem-set-4-optional/",
+    "date": "2025-11-12",
+    "text": "For any students interested in more homework credit (that can be substituted for PS1-3 if you did not do well), you can turn in your answers for the final exam questions that were distributed in class. This assignment is not required and not doing it will not negatively impact your homework grade. However, a good score can be substituted for one of the other problem sets. If you are interested, please answer questions on a new piece of paper, scan, and upload to Bb by Tuesday midnight. --Greg ps4 Download"
+  },
+  {
+    "title": "Final Exam Example Questions",
+    "kind": "post",
+    "url": "posts/final-exam-example-questions/",
+    "date": "2025-11-13",
+    "text": "FYI, I've asked Sarah NOT to discuss the final exam answer questions (PS4 and any others I distribute) during office hours. I would like you all to focus on any questions you may have regarding the lectures and readings. Using the final exam example questions as an opportunity to think deeply and independently (of Sarah and me). Feel free to continue working in study groups."
+  },
+  {
+    "title": "Problem Set #5 (Optional)",
+    "kind": "post",
+    "url": "posts/problem-set-5-optional/",
+    "date": "2025-11-18",
+    "text": "For any students interested in more homework credit (that can be substituted for PS1-4, you can turn in your answers to the CBM Final Exam given in 2024 (see below). This assignment is not required - your homework grade will not be negatively impacted if you skip this one. However, a good score can be substituted for one of the other problem sets. If you are interested, work through the exam, then download the bubble sheet (see Assignment PS5 on Bb), fill it in, scan, and upload to Bb by next Tuesday midnight. --Greg 2024_finalExam Download ZipGrade100QuestionV2 Download"
+  },
+  {
+    "title": "Office hours start at 9 am tomorrow (Wednesday)",
+    "kind": "post",
+    "url": "posts/office-hours-start-at-9-am-tomorrow-wednesday/",
+    "date": "2025-11-18",
+    "text": "Office hours start at 9 am tomorrow (Wednesday)"
+  },
+  {
+    "title": "Course evaluations open",
+    "kind": "post",
+    "url": "posts/course-evaluations-open/",
+    "date": "2025-11-22",
+    "text": "Please take a few moments to submit an evaluation for Cellular Biophysics and Modeling. Written comments are especially encouraged. I consider them carefully."
+  },
+  {
+    "title": "Readings for Tuesday are posted",
+    "kind": "post",
+    "url": "posts/readings-for-tuesday-are-posted/",
+    "date": "2025-11-24",
+    "text": "See the blog page Inhibitory interneuron networks and cortical oscillations for the readings associated with Tuesday's online asynchronous class. Reminder that the optional problem set 5 is due tomorrow. --Greg"
+  },
+  {
+    "title": "Problem Set #1 Key",
+    "kind": "post",
+    "url": "posts/problem-set-1-key/",
+    "date": "2025-09-16",
+    "text": "Here's the key for the first problem set! Reach out with any questions. -Sarah Problem Set 1 Key T\u00e9l\u00e9charger"
+  },
+  {
+    "title": "Problem Set #2 Key",
+    "kind": "post",
+    "url": "posts/problem-set-2-key/",
+    "date": "2025-09-22",
+    "text": "Here is the key for problem set #2 -Sarah Problem_Set_2__Key T\u00e9l\u00e9charger"
+  },
+  {
+    "title": "Class Canceled 9/25/2025",
+    "kind": "post",
+    "url": "posts/class-canceled-9-25-2025/",
+    "date": "2025-09-25",
+    "text": "Class is canceled today. Please use this time to review and practice for the upcoming exam on Tuesday. I\u2019ll be available to answer any questions you may have in our usual lecture hall\u2014don\u2019t hesitate to reach out! This is a great opportunity to get as many questions answered as you\u2019d like. -Sarah S."
+  },
+  {
+    "title": "Office hours online (9/25)",
+    "kind": "post",
+    "url": "posts/office-hours-online-9-25/",
+    "date": "2025-09-25",
+    "text": "Given the review session that occured during class time today, and the expected thunderstorm at 6 pm today, office hours have been moved to online! Here is the zoom link to join: https://cwm.zoom.us/j/4840078904 In order to make sure everyone's questions gets answered, please make sure to submit all questions on polleverywhere! -Sarah"
+  },
+  {
+    "title": "Office Hours Online!",
+    "kind": "post",
+    "url": "posts/office-hours-online/",
+    "date": "2025-10-02",
+    "text": "Office hours will be held on zoom today! Please come in from 6 to 7 pm for questions, or send your questions on pollev! -Sarah Sakly https://cwm.zoom.us/my/ssakly"
+  },
+  {
+    "title": "10/21/2025",
+    "kind": "post",
+    "url": "posts/10-21-2025/",
+    "date": "2025-10-21",
+    "text": "I will be in class today to hand out your exams! There will be no lecture due to the power outage. Office hours tonight from 6 pm to 7 pm are still on! Watch out for an asynchronous lecture to cover the content from today! We will move forward with new content on thursday. Sarah"
+  },
+  {
+    "title": "Office Hours 10/23",
+    "kind": "post",
+    "url": "posts/office-hours-10-23/",
+    "date": "2025-10-23",
+    "text": "Office Hours will be from 5 pm to 7 pm today, October 23rd in ISC 0280. -Sarah"
+  },
+  {
+    "title": "Office Hours Updates",
+    "kind": "post",
+    "url": "posts/915/",
+    "date": "2025-10-25",
+    "text": "Student: Is it possible to get office hours earlier in the week instead of this thursday since we have an exam? Yes! I will be having office hours from 8 am to 10 am on Monday 10/27 as an exception! We will not be having office hours this thursday (10/30) since you'll be taking an exam during class. Also, we will now be having office hours from 5:30 pm to 7 pm Tuesday and Thursday, I will be adding an extra half an hour based on feedback! -Sarah"
+  },
+  {
+    "title": "Problem Set 3 Key",
+    "kind": "post",
+    "url": "posts/problem-set-3-key/",
+    "date": "2025-10-28",
+    "text": "Here is the problem set #3 key ps3answers-merged T\u00e9l\u00e9charger"
+  },
+  {
+    "title": "Why does increased I_app raise the voltage nullcline ? (Continued)",
+    "kind": "post",
+    "url": "posts/why-does-increased-iapp-raise-the-voltage-nullcline-continued/",
+    "date": "2025-11-12",
+    "text": "Here's is the continuation of the previous post about why increased I_app raises the voltage nullcline! Xerox Scan_11122025082404 T\u00e9l\u00e9charger"
+  },
+  {
+    "title": "Important Currents",
+    "kind": "post",
+    "url": "posts/important-currents/",
+    "date": "2025-11-12",
+    "text": "A student asked: \"What would you consider the most important currents we've covered so far\" Answer: Image_20251112_083017"
+  },
+  {
+    "title": "TA Office Hours + Review Sessions",
+    "kind": "post",
+    "url": "posts/ta-office-hours-review-sessions/",
+    "date": "2025-11-21",
+    "text": "Due to traveling, office hours will be online for the remainder of the semester. I will be starting review sessions this upcoming week. The way this will work is as follows: The schedule of lectures covered over the review session is posted below Submit all questions about the lectures covered on polleverywhere ( this makes it easier for me to see all the questions and make sure I don\u2019t miss anyone). Please also make sure that you submit questions based on what is being covered that day, and also ensure to submit those questions PRIOR to the review session. It will be far too long for me to cover all the content and detail of the course, so it is essential that you prepare ahead. Attend the review session and feel free to communicate questions (through the pollev) if they come up during th"
+  },
+  {
+    "title": "Final Exam will be posted tomorrow",
+    "kind": "post",
+    "url": "posts/final-exam-will-be-posted-tomorrow/",
+    "date": "2025-12-02",
+    "text": "I still have some finishing touches to make on the final exam. I expect that it will be posted by the end of the day tomorrow. --Greg"
+  },
+  {
+    "title": "Final Exam is posted on Blackboard",
+    "kind": "post",
+    "url": "posts/final-exam-is-posted-on-blackboard/",
+    "date": "2025-12-03",
+    "text": "The Final Exam is posted on Blackboard. Enjoy the process of demonstrating how much you have learned this semester! If anyone asks a question of me that gets an answer, I will post the both question and answer here. --Greg"
+  },
+  {
+    "title": "Typo on Final",
+    "kind": "post",
+    "url": "posts/typo-on-final/",
+    "date": "2025-12-03",
+    "text": "Student: I think there is a typo in question 51. The only stable fixed points are 1&5, but the question answers are 1&2, 1&3, 2&3, 2&4, and 3&4. Professor: You are correct. You can leave it blank. I won't grade question 51."
+  },
+  {
+    "title": "Project 3 guidance",
+    "kind": "post",
+    "url": "posts/project-3-guidance/",
+    "date": "2025-12-05",
+    "text": "Student: For project question 3, I included a relaxation term in both the E and I equations, and was able to get limit cycle oscillations. I just wanted to confirm that this does not conflict with the requirements of the question, as the originally provided equations did not include them. Professor: You are quite right! The equations should include relaxation terms, but do not. The correct equations are: CorrectedEquationsProject3 Download"
+  },
+  {
+    "title": "Question #6 typo",
+    "kind": "post",
+    "url": "posts/question-6-typo/",
+    "date": "2025-12-06",
+    "text": "Question #6 says \"The Control recording spikes faster than the recording performed in the presence of 30 \u00b5M Zn2+ ...\" but it should say \"The Control recording spikes SLOWER than the recording performed in the presence of 30 \u00b5M Zn2+ \u2026\""
+  },
+  {
+    "title": "Question #60",
+    "kind": "post",
+    "url": "posts/question-60/",
+    "date": "2025-12-07",
+    "text": "There is a problem with question #60. This question will not be graded."
+  },
+  {
+    "title": "Final Exam is due Friday at 5pm",
+    "kind": "post",
+    "url": "posts/final-exam-is-due-friday-at-5pm/",
+    "date": "2025-12-11",
+    "text": "I hope you are enjoying - at least a little bit - the process of demonstrating everything you have learned this semester. Be sure to submit your bubble sheet and project question answers as one PDF via Bb. For full credit make sure everything you submit is clearly written and labelled. If you used generative AI - as your were allowed to do - I would appreciate a few words explaining how you used it and whether or not it was helpful. I'll try to get everything graded by the end of next week. --Greg"
+  },
+  {
+    "title": "Science & Authority (APSC 453, COLL 400) is open",
+    "kind": "post",
+    "url": "posts/science-authority-apsc-453-coll-400-is-open/",
+    "date": "2026-01-19",
+    "text": "APSC 453 Science & Authority (COLL 400) is being offered this semester (Tues & Thurs 2:00-3:20). This seminar/discussion course explores the role of science as a source of knowledge, power, and public trust. The course invites students to think critically about when scientific authority deserves deference, when it should be questioned, and how dissent can be both responsible and necessary. Please forward to students who might be interested. --Greg apsc453_science+authority_onepage Download"
+  },
+  {
+    "title": "Review Session",
+    "kind": "post",
+    "url": "posts/review-session/",
+    "date": "2025-11-26",
+    "text": "Tonight's review session is cancelled, please take the time to go over the content as suggested and come with questions on monday."
+  }
+]
