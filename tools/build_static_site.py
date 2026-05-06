@@ -27,6 +27,11 @@ NS = {
     "wp": "http://wordpress.org/export/1.2/",
 }
 
+UPLOAD_ALIASES = {
+    "wp-content/uploads/2025/08/cbm-syllabus-fall-2025.pdf": "wp-content/uploads/2025/08/cbm-syllabus-fall-2025-2.pdf",
+    "wp-content/uploads/2021/04/up-and-down-states-scholarpedia-markup.pdf": "wp-content/uploads/2025/09/Up-and-down-states-Scholarpedia-MarkUp3.pdf",
+}
+
 
 @dataclass(frozen=True)
 class Entry:
@@ -149,7 +154,12 @@ def output_path(entry: Entry) -> str:
 def relative_url(from_dir: str, target: str) -> str:
     target = target or "."
     rel = os.path.relpath(target, start=from_dir or ".")
-    return "./" if rel == "." else rel.replace(os.sep, "/") + ("" if rel.endswith("/") else "/")
+    if rel == ".":
+        return "./"
+    rel = rel.replace(os.sep, "/")
+    if Path(target).suffix or rel.endswith("/"):
+        return rel
+    return rel + "/"
 
 
 def rewrite_links(content: str, from_dir: str, by_slug: dict[str, Entry]) -> str:
@@ -159,7 +169,11 @@ def rewrite_links(content: str, from_dir: str, by_slug: dict[str, Entry]) -> str
         if parsed.netloc and parsed.netloc != "cellularbiophysicsandmodeling.com":
             return match.group(0)
         path = parsed.path.strip("/")
-        if not path or path.startswith("wp-content/"):
+        if path.startswith("wp-content/uploads/"):
+            path = UPLOAD_ALIASES.get(path, path)
+            local = relative_url(from_dir, path)
+            return f"{prefix}{local}{suffix}"
+        if not path:
             return match.group(0)
         slug = path.split("/")[0]
         entry = by_slug.get(slug)
@@ -638,8 +652,14 @@ document.addEventListener("input", (event) => {
 
 def main() -> None:
     if OUT.exists():
-        shutil.rmtree(OUT)
-    OUT.mkdir()
+        for path in OUT.iterdir():
+            if path.name == "wp-content":
+                continue
+            if path.is_dir():
+                shutil.rmtree(path)
+            else:
+                path.unlink()
+    OUT.mkdir(exist_ok=True)
     metadata, entries, attachments = parse_export()
     by_slug = {entry.slug: entry for entry in entries}
     render_assets(entries, attachments)
