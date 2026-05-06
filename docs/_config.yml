@@ -1,0 +1,36 @@
+title: Cellular Biophysics and Modeling
+description: neuroscience and dynamics at William & Mary
+url: ""
+baseurl: ""
+brand_mark: CBM
+original_site: https://cellularbiophysicsandmodeling.com
+exported: Tue, 05 May 2026 23:27:34 +0000
+
+markdown: kramdown
+future: true
+permalink: /posts/:slug/
+
+collections:
+  materials:
+    output: true
+    permalink: /pages/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: materials
+    values:
+      layout: page
+      kind: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: page
+      kind: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

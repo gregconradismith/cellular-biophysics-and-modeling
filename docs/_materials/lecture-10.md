@@ -1,0 +1,30 @@
+---
+title: "Lecture 10"
+kind: "page"
+date: "1970-01-01"
+slug: "lecture-10"
+permalink: "/pages/lecture-10/"
+render_with_liquid: false
+lecture_rank: 100
+---
+
+# The Morris-Lecar model and phase plane
+
+## Required Reading
+
+1.  **The Morris-Lecar Model.** Chapter 14 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.*
+2.  McCormick 1998 "Membrane properties and neurotransmitter actions" (pp. 37-75 of "The Synaptic Organization of the Brain," edited by Gordon Shepard). This book chapter is an excellent review of material we have already covered in detail. The material that is new is in the second half (pp. 43-75), the most important of which (at this time) is the description of the 10-15 most important neuronal ionic currents (see pp. 46-57). \[<a href="../../wp-content/uploads/2021/04/mccormick-1998-membrane-p.pdf" data-type="attachment" data-id="369">PDF</a>\]
+3.  Begin reading Ermentrout & Terman 2010 (pp. 49-63, that is, Sections 3.1 to 3.4). \[<a href="../../wp-content/uploads/2021/04/2010-e-terman-mathematical_foundations_of_neuroscience_-_ch_3_-_dynamics.pdf" data-type="attachment" data-id="372">PDF</a>\] This chapter of their monograph, *Mathematical Foundations of Neuroscience,* discusses excitability and oscillations exhibited by the Morris-Lecar model, as well as phase planes, linear stability analysis, and several bifurcations that occur in ODE models with two state variables (e.g., the Hopf bifurcation, saddle-node on a limit cycle bifurcation, and saddle homoclinic bifurcation).
+
+## Fall 2025 Slides
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2025/10/Lecture10-IntroToMorrisLecarModel.pdf" id="wp-block-file--media-7676fe07-adfd-4067-a543-4723c1019659">Lecture10-(IntroToMorrisLecarModel)</a><a href="../../wp-content/uploads/2025/10/Lecture10-IntroToMorrisLecarModel.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-7676fe07-adfd-4067-a543-4723c1019659">Download</a>
+
+</div>
+
+## Optional Reading and Resources
+
+1.  The observation that the Morris-Lecar model exhibited all these dynamical phenomena originated in a classic book chapter by Rinzel & Ermentrout 1998 (see [Readings](../readings/)).
+2.  [The Morris-Lecar simulator used in class can be found at this Open Source Physics site.](https://www.compadre.org/osp/document/ServeFile.cfm?ID=12417&DocID=3122&Attachment=1)

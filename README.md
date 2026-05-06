@@ -1,27 +1,34 @@
 # Cellular Biophysics and Modeling - Online Materials
 
-This repository contains a WordPress export and a generated static version of the
-course materials.
+This repository now uses Jekyll so the course site can be edited as Markdown
+instead of generated HTML.
 
-## Static site
+## Editing
 
-Open `docs/index.html` in a browser to browse the presentable version of the
-materials. The site includes:
+- Course pages live in `docs/_materials/`.
+- Course updates live in `docs/_posts/`.
+- Site layouts live in `docs/_layouts/`.
+- CSS and JavaScript live in `docs/assets/`.
+- Uploaded PDFs and media remain in `docs/wp-content/uploads/`.
 
-- A course landing page
-- Static pages for lectures, readings, slides, videos, syllabus, calendar, and
-  other course materials
-- A course updates archive generated from WordPress posts
-- Lightweight filtering on the page and post index views
+Edit the Markdown files and push to `main`. The GitHub Actions workflow in
+`.github/workflows/jekyll.yml` builds the Jekyll site and deploys it to GitHub
+Pages.
 
-Media and PDF links still point to the original WordPress upload URLs; the export
-contains references to those files, not the file contents themselves.
+## Local Preview
 
-## Regenerate
+If Ruby dependencies are installed locally, preferably with Ruby 3.x:
 
 ```sh
-sage -python tools/build_static_site.py
+cd docs
+bundle config --local path vendor/bundle
+bundle install
+bundle exec jekyll serve
 ```
 
-The generator reads `cellularbiophysicsandmodeling.WordPress.2026-05-05.xml` and
-rewrites `docs/`.
+Then open the local URL printed by Jekyll.
+
+## Migration Helper
+
+`tools/convert_static_html_to_jekyll.py` was used for the one-time conversion
+from the generated HTML export into Markdown source files.

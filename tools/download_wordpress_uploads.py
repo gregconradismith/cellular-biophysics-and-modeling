@@ -11,10 +11,11 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPORT = ROOT / "cellularbiophysicsandmodeling.WordPress.2026-05-05.xml"
+EXPORT = ROOT / "tmp/apsc453scienceampauthority.WordPress.2026-05-06.xml"
 OUT = ROOT / "docs"
+SITE_HOSTS = ("scienceauthority.wordpress.com", "science-authority.com")
 UPLOAD_RE = re.compile(
-    r"https?://cellularbiophysicsandmodeling\.com/wp-content/uploads/[^\"'<>\s)\]]+",
+    r"https?://(?:scienceauthority\.wordpress\.com|science-authority\.com)/wp-content/uploads/[^\"'<>\s)\]]+",
     re.IGNORECASE,
 )
 
