@@ -7,6 +7,24 @@ permalink: "/pages/readings/"
 render_with_liquid: false
 ---
 
+## Lecture 1
+
+[Conradi Smith, G. *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. Apologia and Introduction.](https://doi.org/10.1017/9780511793905)
+
+[Nauta WJ, Feirtag M. The organization of the brain. *Sci Am.* 1979 Sep;241(3):88-111.](https://doi.org/10.1038/scientificamerican0979-88) [\[PDF\]](../../wp-content/uploads/2025/08/nautaandfeirtag1979-the_organization_of_the_brain.pdf)
+
+[Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. Neuroscience. The neuron doctrine, redux. *Science.* 2005 Nov 4;310(5749):791-3.](https://doi.org/10.1126/science.1114394)
+
+[Polynomial functions and their graphs.](../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf)
+
+[Butler AB, Hodos W. *Comparative Vertebrate Neuroanatomy: Evolution and Adaptation*, Second Edition. Appendix A: A glossary of terms used in neuroanatomy.](https://doi.org/10.1002/0471733849) [\[PDF\]](../../wp-content/uploads/2021/04/butlerhodosappendixneuroanatomyterms.pdf)
+
+[Tyson JJ. Bringing cartoons to life. *Nature.* 2007 Feb 22;445(7130):823.](https://doi.org/10.1038/445823a)
+
+[Fall CP, Marland ES, Wagner JM, Tyson JJ, eds. *Computational Cell Biology*.](https://doi.org/10.1007/b97701)
+
+- Chapter 1 Dynamic Phenomena in Cells. [\[PDF\]](../../wp-content/uploads/2021/04/falletalch11.pdf)
+
 ## Readings (not to be distributed)
 
 [Bean, B. P. (2007). The action potential in mammalian central neurons. *Nature Reviews Neuroscience*, *8*(6), 451-465.](https://www.nature.com/articles/nrn2148) [\[PDF\]](../../wp-content/uploads/2021/04/beananatomyofactionpotential.pdf)[](https://pubmed.ncbi.nlm.nih.gov/21911614/)
