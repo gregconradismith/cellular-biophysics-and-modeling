@@ -12,8 +12,8 @@ lecture_rank: 120
 
 ## Required Reading
 
-- **Linear Stability Analysis**. Chapter 16 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.
-- <span style="color: var(--color-text);">**Type II Excitability And Oscillations**. Chapter 17 of </span>*Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
+- **Linear Stability Analysis**. Chapter 16 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
+- <span style="color: var(--color-text);">**Type II Excitability And Oscillations**. Chapter 17 of </span>*Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
 - Explore this **MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane**. [\[Mathlet\]](http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/)
 
 ------------------------------------------------------------------------

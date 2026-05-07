@@ -12,8 +12,8 @@ lecture_rank: 80
 
 ## Required Reading and Watching
 
-1.  **Bifurcation Diagrams of Scalar ODEs.** Chapter 16 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.
-2.  Terman pp. 21-28 "An introduction to dynamical systems and neuronal dynamics." (Introduction & One Dimensional Equations)
+1.  **Bifurcation Diagrams of Scalar ODEs.** Chapter 16 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
+2.  Terman pp. 21-28 **An introduction to dynamical systems and neuronal dynamics** (Introduction & One Dimensional Equations). [\[PDF\]](../readings/)
 3.  **ODE | Slope Fields.** [\[YouTube\]](http://youtu.be/MI2xCwBekX4)
 4.  **ODE | Phase diagrams.** [\[YouTube\]](http://youtu.be/swt-let4pCI)
 5.  **ODE | Bifurcation Diagram.** [\[YouTube\]](http://youtu.be/cC2w2z_i2DA)

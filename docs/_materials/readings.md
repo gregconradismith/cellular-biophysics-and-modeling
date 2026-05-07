@@ -9,21 +9,215 @@ render_with_liquid: false
 
 ## Lecture 1
 
-[Conradi Smith, G. *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. Apologia and Introduction.](https://doi.org/10.1017/9780511793905)
+Conradi Smith, G. **Apologia and Introduction** of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
 
-[Nauta WJ, Feirtag M. The organization of the brain. *Sci Am.* 1979 Sep;241(3):88-111.](https://doi.org/10.1038/scientificamerican0979-88) [\[PDF\]](../../wp-content/uploads/2025/08/nautaandfeirtag1979-the_organization_of_the_brain.pdf)
+Nauta WJ, Feirtag M. **The organization of the brain.** *Sci Am.* 1979 Sep;241(3):88-111. [\[DOI\]](https://doi.org/10.1038/scientificamerican0979-88) [\[PDF\]](../../wp-content/uploads/2025/08/nautaandfeirtag1979-the_organization_of_the_brain.pdf)
 
-[Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. Neuroscience. The neuron doctrine, redux. *Science.* 2005 Nov 4;310(5749):791-3.](https://doi.org/10.1126/science.1114394)
+Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. **Neuroscience. The neuron doctrine, redux.** *Science.* 2005 Nov 4;310(5749):791-3. [\[DOI\]](https://doi.org/10.1126/science.1114394)
 
-[Polynomial functions and their graphs.](../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf)
+**Polynomial functions and their graphs.** [\[PDF\]](../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf)
 
-[Butler AB, Hodos W. *Comparative Vertebrate Neuroanatomy: Evolution and Adaptation*, Second Edition. Appendix A: A glossary of terms used in neuroanatomy.](https://doi.org/10.1002/0471733849) [\[PDF\]](../../wp-content/uploads/2021/04/butlerhodosappendixneuroanatomyterms.pdf)
+Butler AB, Hodos W. **A glossary of terms used in neuroanatomy.** Appendix A in *Comparative Vertebrate Neuroanatomy: Evolution and Adaptation*, Second Edition. [\[DOI\]](https://doi.org/10.1002/0471733849) [\[PDF\]](../../wp-content/uploads/2021/04/butlerhodosappendixneuroanatomyterms.pdf)
 
-[Tyson JJ. Bringing cartoons to life. *Nature.* 2007 Feb 22;445(7130):823.](https://doi.org/10.1038/445823a)
+Tyson JJ. **Bringing cartoons to life.** *Nature.* 2007 Feb 22;445(7130):823. [\[DOI\]](https://doi.org/10.1038/445823a)
 
-[Fall CP, Marland ES, Wagner JM, Tyson JJ, eds. *Computational Cell Biology*.](https://doi.org/10.1007/b97701)
+Fall CP, Marland ES, Wagner JM, Tyson JJ, eds. *Computational Cell Biology*. [\[DOI\]](https://doi.org/10.1007/b97701)
 
 - Chapter 1 Dynamic Phenomena in Cells. [\[PDF\]](../../wp-content/uploads/2021/04/falletalch11.pdf)
+
+## Lecture 2
+
+Conradi Smith, G. **Function families and characteristic times.** Chapter 5 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+**MIT Mathlet on graph features.** [\[Mathlet\]](http://mathlets.org/mathlets/graph-features/)
+
+**Desmos.** [\[Software\]](https://www.desmos.com)
+
+## Lecture 3
+
+Conradi Smith, G. **Compartmental Modeling.** Chapter 2 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Conradi Smith, G. **Phase Diagrams.** Chapter 3 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. **Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.** *Exp Neurol.* 2013. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/23142186/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf)
+
+**MIT Mathlet to explore the phase line and bifurcation diagrams.** [\[Mathlet\]](http://mathlets.org/mathlets/phase-lines/)
+
+Conradi Smith, G. **Ligands, Receptors and Rate Laws.** Chapter 4 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+## Lecture 4
+
+Conradi Smith, G. **The Nernst Equilibrium Potential.** Chapter 7 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Clark RB, Kondo C, Belke DD, Giles WR. **Two-pore domain K+ channels regulate membrane potential of isolated human articular chondrocytes.** *J Physiol.* 2011;589 (Pt 21):5071-89. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/21911614/)
+
+## Lecture 5
+
+Conradi Smith, G. **The Current Balance Equation.** Chapter 8 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Heeger, D. **The Membrane Equation.** [\[PDF\]](../../wp-content/uploads/2021/04/themembraneequationdavidheeger.pdf)
+
+Hille, B. **Introduction.** Chapter 1 of *Ion Channels of Excitable Membranes*. [\[PDF\]](../../wp-content/uploads/2021/04/hille-chapter1-introduction-ionicchannelsofexcitablemembranes-best.pdf)
+
+Finkelstein, A., and Mauro, A. **Equivalent circuits as related to ionic systems.** *Biophysical Journal* 3.3 (1963): 215-237. [\[PDF\]](../../wp-content/uploads/2021/04/finkelstein-1963-equivalent.pdf)
+
+## Lecture 6
+
+Conradi Smith, G. **GHK Theory of Membrane Permeation.** Chapter 9 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Corry, B. **Understanding ion channel selectivity and gating and their role in cellular signalling.** *Molecular Biosystems* 2.11 (2006): 527-535. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/17216034/) [\[PDF\]](../../wp-content/uploads/2021/04/corry-2006-understanding-ion-channel-selectivity-and-gating-and-their-role-in-cellular-signalling.pdf)
+
+Hille, B. **Selective Permeability: Independence.** Chapter 14 of *Ion Channels of Excitable Membranes*. [\[PDF\]](../../wp-content/uploads/2021/04/hille-ch14.pdf)
+
+## Lecture 7
+
+Conradi Smith, G. **Voltage-Gated Ionic Currents.** Chapter 10 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Conradi Smith, G. **Regenerative Ionic Currents and Bistability.** Chapter 11 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Sigworth FJ. **Structural biology: Life's transistors.** *Nature.* 2003 May 1;423(6935):21-2. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/12721605/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/sigworth-2003-lifestransistors.pdf)
+
+Dolphin AC. **A short history of voltage-gated calcium channels.** *Br J Pharmacol.* 2006 Jan;147 Suppl 1(Suppl 1):S56-62. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/16402121/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/dolphin-2009-a-short-hi.pdf)
+
+Lipscombe D, Helton TD, Xu W. **L-type calcium channels: the low down.** *J Neurophysiol.* 2004 Nov;92(5):2633-41. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/15486420/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/lipscombe-2004-l-type-cal.pdf)
+
+Kiehn O, Eken T. **Functional role of plateau potentials in vertebrate motor neurons.** *Curr Opin Neurobiol.* 1998 Dec;8(6):746-52. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/9914232/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/curropinneurobiol1998kiehnmarkup.pdf)
+
+Wilson, C. **Up and down states.** Scholarpedia. [\[Article\]](http://www.scholarpedia.org/article/Up_and_down_states) [\[Highlighted PDF\]](../../wp-content/uploads/2025/09/Up-and-down-states-Scholarpedia-MarkUp3.pdf)
+
+## Lecture 8
+
+Conradi Smith, G. **Bifurcation Diagrams of Scalar ODEs.** Chapter 16 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Terman. **An introduction to dynamical systems and neuronal dynamics.** Introduction & One Dimensional Equations, pp. 21-28. [\[PDF\]](../../wp-content/uploads/2021/04/2004-t-terman-an_introduction_to_dynamical_systems_and_neuronal_dynamics.pdf)
+
+**ODE | Slope Fields.** [\[YouTube\]](http://youtu.be/MI2xCwBekX4)
+
+**ODE | Phase diagrams.** [\[YouTube\]](http://youtu.be/swt-let4pCI)
+
+**ODE | Bifurcation Diagram.** [\[YouTube\]](http://youtu.be/cC2w2z_i2DA)
+
+**Steve Strogatz' lecture on "One dimensional Systems"** (Cornell Math Department). [\[YouTube\]](https://www.youtube.com/watch?v=YNIm2Op7UPg)
+
+**What is a saddle-node bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=t0KQFOEPY6Q)
+
+**What is a transcritical bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=CH8Jj-3La28)
+
+**What is a pitchfork bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=VMEw6DWrqm0)
+
+## Lecture 11
+
+Conradi Smith, G. **Phase Plane Analysis.** Chapter 15 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+**pplane.** [\[Software\]](http://math.rice.edu/~dfield/dfpp.html)
+
+**MIT Mathlet on Vector Fields.** [\[Mathlet\]](http://mathlets.org/mathlets/vector-fields/)
+
+## Lecture 12
+
+Conradi Smith, G. **Linear Stability Analysis.** Chapter 16 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Conradi Smith, G. **Type II Excitability And Oscillations.** Chapter 17 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+**MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane.** [\[Mathlet\]](http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/)
+
+Edelstein-Keshet, L., and Segel, L. **Excitable Systems and the Fitzhugh-Nagumo Equations.** Sections 11.1-11.4 of *A Primer on Mathematical Models in Biology*. [\[PDF\]](../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf)
+
+Fitzhugh. **Fitzhugh's classic paper** (1961). [\[PDF\]](../../wp-content/uploads/2025/10/Fitzhugh61.pdf)
+
+## Lecture 13
+
+Conradi Smith, G. **Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).** Chapter 18 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Ermentrout & Terman 2010. **Chapter 3 Dynamics**, especially pp. 49-63, Sections 3.1 to 3.4. [\[PDF\]](../../wp-content/uploads/2021/04/2010-e-terman-mathematical_foundations_of_neuroscience_-_ch_3_-_dynamics.pdf)
+
+## Lecture 14
+
+Izhikevich 2000. **Neural excitability, spiking and bursting.** [\[PDF\]](../../wp-content/uploads/2025/10/Izhikevich-2000-Neural-exc-Markup.pdf)
+
+Bertram et al. 2007. **Metabolic and electrical oscillations: partners in controlling pulsatile insulin secretion.** [\[PDF\]](../../wp-content/uploads/2025/10/2007-B-Satin-Metabolic_and_electrical_oscillations_partners_in_controlling_pulsatile_insulin_secretion_MarkUp.pdf)
+
+Tabak et al. 2000. **Modeling of spontaneous activity in developing spinal cord.** [\[PDF\]](../../wp-content/uploads/2025/10/2000-T-Rinzel-Modeling_of_spontaneous_activity_in_developing_spinal_cord-MarkUp.pdf)
+
+## Lecture 15
+
+Conradi Smith, G. **The Low-Threshold Calcium Spike.** Chapter 19 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Wang et al. 1991. **T-type calcium current and the low-threshold spike in thalamic neurons.** [\[PDF\]](../../wp-content/uploads/2025/10/Wang-1991-LTS-Markup.pdf)
+
+McCormick. **Membrane properties and neurotransmitter actions.** [\[PDF\]](../../wp-content/uploads/2021/04/mccormick-1998-membrane-p.pdf)
+
+Luthi and McCormick. **H-current: Properties of a neuronal and network pacemaker.** [\[PDF\]](../../wp-content/uploads/2025/10/1998-L-McCormick-H-current_properties_of_a_neuronal_and_network_pacemaker-MarkUp.pdf)
+
+## Lecture 16
+
+Conradi Smith, G. **Synaptic Currents.** Chapter 20 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+
+Hudson et al. 2010. **Identifiable Cells in the Crustacean Stomatogastric Ganglion.** [\[PDF\]](../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf)
+
+**Scholarpedia article on "Stomatogastric Ganglion."** [\[Article\]](http://www.scholarpedia.org/article/Stomatogastric_ganglion)
+
+**Gross Dissection of the Stomach of the Lobster, Homarus Americanus.** [\[JoVE\]](http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus)
+
+**Homarus Americanus Stomatogastric Nervous System Dissection.** [\[JoVE\]](http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection)
+
+## Lecture 17
+
+von Krosigk et al. 1993. **Cellular mechanisms of synchronized oscillation in the thalamus.** [\[PDF\]](../../wp-content/uploads/2025/10/von-Krosigk-1993-Cellular-m.pdf)
+
+Steriade et al. 1993. **Thalamocortical oscillations in the sleeping and aroused brain.** [\[PDF\]](../../wp-content/uploads/2025/10/Steriade-1993-Thalamocor.pdf)
+
+Kim and McCormick 1998. **Functional influence of burst and tonic mode on synaptic interactions in the thalamus.** [\[PDF\]](../../wp-content/uploads/2025/10/1998-K-McCormick-The_functional_influence_of_burst_and_tonic_firing_mode_on_synaptic_interactions_in_the_thalamus.pdf)
+
+## Lecture 18
+
+Koch 2012. **The origins of extracellular fields and currents.** [\[PDF\]](../../wp-content/uploads/2025/11/2012-B-Koch-The_origin_of_extracellular_fields_and_currents_—_EEG_ECoG_LFP_and_spikes-MarkUp.pdf)
+
+Sherman 2007. **Thalamic relay, drivers and modulators.** [\[PDF\]](../../wp-content/uploads/2025/11/Sherman-2007-The-thalam-MarkUp.pdf)
+
+Cash et al. 2009. **The human K-complex represents an isolated cortical down-state.** *Science*, 324(5930), 1084-1087. [\[PDF\]](../../wp-content/uploads/2025/11/CashEtal2009KComplexes.pdf)
+
+Ghodrati et al. 2017. **Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.** *Progress in Neurobiology*, 156, 214-255. [\[PDF\]](../../wp-content/uploads/2025/11/GhodratiEtal2017LGNReview.pdf)
+
+Uhlhaas & Singer 2010. **Abnormal neural oscillations and synchrony in schizophrenia.** *Nature Reviews Neuroscience*, 11(2), 100-113. [\[PDF\]](../../wp-content/uploads/2025/11/2010-U-Singer-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf)
+
+## Lecture 19
+
+**Local field potentials.** Scholarpedia. [\[Highlighted PDF\]](../../wp-content/uploads/2025/11/Local-field-potential-Scholarpedia-MarkUp.pdf)
+
+Keihn and Forssberg. **The brain's navigational place and grid cell system.** [\[PDF\]](../../wp-content/uploads/2025/11/KeihnForssbert2014-_The_Brains_Navigational_Place_and_Grid_Cell_System.pdf)
+
+Marozzi and Jeffery. **Place, space and memory cells.** [\[PDF\]](../../wp-content/uploads/2025/11/MarozziJeffery2012-Place_space_and_memory_cells.pdf)
+
+**You Are Here - RadioLab.** [\[RadioLab\]](http://www.radiolab.org/story/110165-you-are-here/)
+
+Kim et al. **Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization.** [\[PDF\]](../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf)
+
+## Lecture 20
+
+Braddick, O. **Spatial frequency analysis in vision.** [\[PDF\]](../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf)
+
+Carandini et al. **Do we know what the early visual system does?** [\[PDF\]](../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf)
+
+Baden et al. **Understanding the retinal basis of vision across species.** [\[PDF\]](../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf)
+
+Nelson, R. **Visual responses of ganglion cells.** [\[PDF\]](../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf)
+
+Neitz et al. **Color Vision: Almost Reason Enough for Having Eyes.** [\[PDF\]](../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf)
+
+## Lecture 21
+
+Wang 2010. **Neurophysiological and computational principles of cortical rhythms in cognition.** [\[PDF\]](../../wp-content/uploads/2025/11/Wang2010-Neurophysiological_and_Computational_Principles_of_Cortical_Rhythms_in_Cognition-MarkUp.pdf)
+
+Uhlhaas and Singer 2010. **Abnormal neural oscillations and synchrony in schizophrenia.** [\[PDF\]](../../wp-content/uploads/2025/11/UhlhaasSinger2010-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf)
+
+Jones 2007. **Calcium channels in higher level brain function.** [\[PDF\]](../../wp-content/uploads/2025/11/Jones-2007-Calcium.pdf)
+
+Shin et al. 2007. **Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice.** [\[PDF\]](../../wp-content/uploads/2025/11/ShinEtal2007-Gamma-band_deficiency_and_abnormal_thalamocortical_activity_in_PQ-type_channel_mutant_mice-MarkUp.pdf)
+
+Beierlein et al. 2003. **Two dynamically distinct inhibitory networks in layer 4 of the neocortex.** [\[PDF\]](../../wp-content/uploads/2025/11/BeiereleinEtal2003-Connors-Two_dynamically_distinct_inhibitory_networks_in_layer_4_of_the_neocortex-MarkUp.pdf)
+
+Grillner et al. 2005. **Microcircuits in action - from CPGs to neocortex.** [\[PDF\]](../../wp-content/uploads/2025/11/GrillnerEtal2005-Microcircuits_in_action-from_CPGs_to_neocortex-MarkUp.pdf)
 
 ## Readings (not to be distributed)
 

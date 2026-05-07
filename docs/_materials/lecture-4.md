@@ -12,7 +12,7 @@ lecture_rank: 40
 
 ## Required Reading
 
-1.  **The Nernst Equilibrium Potential.**  Chapter 7 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
+1.  **The Nernst Equilibrium Potential.**  Chapter 7 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
 
 ## Optional Reading and Resources
 
