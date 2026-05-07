@@ -12,9 +12,9 @@ lecture_rank: 20
 
 ## Resources (Optional Reading)
 
-- There is no required reading for this lecture.  However, the lecture is based on **[Function families and characteristic times](https://doi-org.proxy.wm.edu/10.1017/9780511793905)**, as presented in Chapter 5 of *Cellular Biophysics and Modeling: A Primer on the Systems Biology of Excitable* *Cells*. You may wish to refer to Chapter 5 for additional help and a deeper understanding.
-- This** <a href="http://mathlets.org/mathlets/graph-features/" target="_blank" rel="noopener">MIT Mathlet on graph features</a>** that may prove helpful if you are having difficulty with the qualitative analysis of functions.
-- The free graphing software **[Desmos](https://www.desmos.com)** is highly recommended.
+- There is no required reading for this lecture.  However, the lecture is based on **Function families and characteristic times**, as presented in Chapter 5 of *Cellular Biophysics and Modeling: A Primer on the Systems Biology of Excitable Cells*. You may wish to refer to Chapter 5 for additional help and a deeper understanding. [\[DOI\]](https://doi.org/10.1017/9780511793905)
+- This **MIT Mathlet on graph features** may prove helpful if you are having difficulty with the qualitative analysis of functions. [\[Mathlet\]](http://mathlets.org/mathlets/graph-features/)
+- The free graphing software **Desmos** is highly recommended. [\[Software\]](https://www.desmos.com)
 
 ## Fall 2025 Slides
 

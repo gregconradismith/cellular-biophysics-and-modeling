@@ -40,4 +40,4 @@ https://youtu.be/p8k5ueoHyZs
 
 ## Further Reading
 
-- Ermentrout & Terman 2010 (Chapter 3 Dynamics, especially pp. 49-63, that is, Sections 3.1 to 3.4). This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis (e.g., the Hopf bifurcation, saddle-node on a limit cycle bifurcation, and saddle homoclinic bifurcation). <a href="../readings/" data-type="page" data-id="208">[Readings]</a>
+- Ermentrout & Terman 2010 (Chapter 3 Dynamics, especially pp. 49-63, that is, Sections 3.1 to 3.4). This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis (e.g., the Hopf bifurcation, saddle-node on a limit cycle bifurcation, and saddle homoclinic bifurcation). [\[Readings\]](../readings/)

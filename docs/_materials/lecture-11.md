@@ -16,7 +16,7 @@ lecture_rank: 110
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to phase plane graphing software used in this video: <span style="color: var(--color-text)"><a href="http://pplane%20(Phase%20Plane)%20Java%20Software%20Download%20http://math.rice.edu/~dfield/dfpp.html" target="_blank" rel="noopener">pplane (Phase Plane) Java Software Download http://math.rice.edu/~dfield/dfpp.html</a></span>
+The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: **pplane**. [\[Software\]](http://math.rice.edu/~dfield/dfpp.html)
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -72,7 +72,7 @@ https://youtu.be/9yh9DmNqdk4
 </div>
 </figure>
 
--  Here is a link to phase plane graphing software: <span style="color: var(--color-text)"><a href="http://pplane%20(Phase%20Plane)%20Java%20Software%20Download%20http://math.rice.edu/~dfield/dfpp.html" target="_blank" rel="noopener">pplane (Phase Plane) Java Software Download http://math.rice.edu/~dfield/dfpp.html</a></span>
+-  Here is a link to phase plane graphing software: **pplane**. [\[Software\]](http://math.rice.edu/~dfield/dfpp.html)
 
 Alternatively, if you have any trouble running Java on your computer, you may use any other web based phase plane tool you can find.
 
@@ -84,7 +84,7 @@ https://youtu.be/UCpMao94iFg
 </div>
 </figure>
 
-- <a href="http://mathlets.org/mathlets/vector-fields/" target="_blank" rel="noopener">MIT Mathlet on Vector Fields http://mathlets.org/mathlets/vector-fields/</a>
+- **MIT Mathlet on Vector Fields.** [\[Mathlet\]](http://mathlets.org/mathlets/vector-fields/)
 
 Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b, ... , e.
 

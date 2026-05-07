@@ -14,11 +14,11 @@ lecture_rank: 30
 
 1.  **Compartmental Modeling.** Chapter 2 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.*
 2.  **Phase Diagrams.** Chapter 3 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.*
-3.  Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis. Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. *Exp Neurol*. 2013. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/23142186/)  <a href="../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf" data-type="attachment" data-id="275">[Read the YELLOW portions of this PDF]</a>
+3.  **Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.** Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. *Exp Neurol*. 2013. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/23142186/) [\[Highlighted PDF\]](../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf)
 
 ## Optional Reading and Resources
 
-1.  [MIT Mathlet to explore the phase line and bifurcation diagrams.](http://mathlets.org/mathlets/phase-lines/)
+1.  **MIT Mathlet to explore the phase line and bifurcation diagrams.** [\[Mathlet\]](http://mathlets.org/mathlets/phase-lines/)
 2.  **Ligands, Receptors and Rate Laws.**  Chapter 4 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
 
 ## Fall 2025 Slides

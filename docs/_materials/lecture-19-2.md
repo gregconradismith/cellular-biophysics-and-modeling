@@ -12,9 +12,9 @@ lecture_rank: 191
 
 ## Required Reading
 
-- The Scholarpedia article on **local field potentials** (highlighted portions). <a href="../../wp-content/uploads/2025/11/Local-field-potential-Scholarpedia-MarkUp.pdf" data-type="attachment" data-id="1049">[PDF]</a>
-- **The brain's navigational place and grid cell system** by Keihn and Forssberg. <a href="../../wp-content/uploads/2025/11/KeihnForssbert2014-_The_Brains_Navigational_Place_and_Grid_Cell_System.pdf" data-type="attachment" data-id="1050">[PDF]</a>
-- **Place, space and memory cells** by Marozzi and Jeffery. <a href="../../wp-content/uploads/2025/11/MarozziJeffery2012-Place_space_and_memory_cells.pdf" data-type="attachment" data-id="1051">[PDF]</a>
+- The Scholarpedia article on **local field potentials** (highlighted portions). [\[PDF\]](../../wp-content/uploads/2025/11/Local-field-potential-Scholarpedia-MarkUp.pdf)
+- **The brain's navigational place and grid cell system** by Keihn and Forssberg. [\[PDF\]](../../wp-content/uploads/2025/11/KeihnForssbert2014-_The_Brains_Navigational_Place_and_Grid_Cell_System.pdf)
+- **Place, space and memory cells** by Marozzi and Jeffery. [\[PDF\]](../../wp-content/uploads/2025/11/MarozziJeffery2012-Place_space_and_memory_cells.pdf)
 
 ## Fall 2025 Sides
 
@@ -26,5 +26,5 @@ lecture_rank: 191
 
 Optional Reading and Resources
 
-- <span style="color: var(--color-text);"><a href="http://www.radiolab.org/story/110165-you-are-here/" target="_blank" rel="noopener">You Are Here - RadioLab</a> </span>
-- **Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization** by Kim et al. <a href="../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf" data-type="attachment" data-id="1048">[PDF]</a>
+- <span style="color: var(--color-text);">**You Are Here - RadioLab.** [\[RadioLab\]](http://www.radiolab.org/story/110165-you-are-here/) </span>
+- **Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization** by Kim et al. [\[PDF\]](../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf)

@@ -12,14 +12,14 @@ lecture_rank: 200
 
 ## Required Reading
 
-- **Spatial frequency analysis in vision** by Oliver Braddick. <a href="../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf" data-type="attachment" data-id="1100">[PDF]</a>
-- Look at Figures 1 and 2 of **Do we know what the early visual system does?** by Carandini et al. <a href="../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf" data-type="attachment" data-id="1102">[PDF]</a>
-- Look at Figures 1 and 3 of **Understanding the retinal basis of vision across species** by Baden et. al. <a href="../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf" data-type="attachment" data-id="1101">[PDF]</a>
+- **Spatial frequency analysis in vision** by Oliver Braddick. [\[PDF\]](../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf)
+- Look at Figures 1 and 2 of **Do we know what the early visual system does?** by Carandini et al. [\[PDF\]](../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf)
+- Look at Figures 1 and 3 of **Understanding the retinal basis of vision across species** by Baden et. al. [\[PDF\]](../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf)
 
 ## Optional Reading
 
-- <span style="color: var(--color-text);">**Visual responses of ganglion cells** by Ralph Nelson</span>. <a href="../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf" data-type="attachment" data-id="1068">[PDF]</a>
-- **Color Vision: Almost Reason Enough for Having Eyes** by Neitz et al. <a href="../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf" data-type="attachment" data-id="1105">[PDF]</a>
+- <span style="color: var(--color-text);">**Visual responses of ganglion cells** by Ralph Nelson</span>. [\[PDF\]](../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf)
+- **Color Vision: Almost Reason Enough for Having Eyes** by Neitz et al. [\[PDF\]](../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf)
 
 ## Fall 2025 Slides
 

@@ -14,7 +14,7 @@ lecture_rank: 120
 
 - **Linear Stability Analysis**. Chapter 16 of Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.
 - <span style="color: var(--color-text);">**Type II Excitability And Oscillations**. Chapter 17 of </span>*Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
-- Explore this <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/" target="_blank" rel="noopener"><strong>MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane</strong></a>
+- Explore this **MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane**. [\[Mathlet\]](http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/)
 
 ------------------------------------------------------------------------
 
@@ -66,5 +66,5 @@ https://youtu.be/oEskbXrhkkk
 
 ## Optional Reading and Resources 
 
-- *Excitable Systems and the Fitzhugh-Nagumo Equations*. Sections 11.1-11.4 (pp. 227-241) of *A Primer on Mathematical Models in Biology* by Leah Edelstein-Keshet and Lee Segel. <a href="../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf" data-type="attachment" data-id="794">[PDF]</a>
-- Fitzhugh's classic paper (1961). <a href="../../wp-content/uploads/2025/10/Fitzhugh61.pdf" data-type="attachment" data-id="795">[PDF]</a>
+- **Excitable Systems and the Fitzhugh-Nagumo Equations**. Sections 11.1-11.4 (pp. 227-241) of *A Primer on Mathematical Models in Biology* by Leah Edelstein-Keshet and Lee Segel. [\[PDF\]](../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf)
+- **Fitzhugh's classic paper** (1961). [\[PDF\]](../../wp-content/uploads/2025/10/Fitzhugh61.pdf)

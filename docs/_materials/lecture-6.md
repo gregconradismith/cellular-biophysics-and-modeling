@@ -13,7 +13,7 @@ lecture_rank: 60
 ## Required Reading
 
 1.  **GHK Theory of Membrane Permeation.** Chapter 9 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
-2.  [Corry, Ben. "Understanding ion channel selectivity and gating and their role in cellular signalling." *Molecular Biosystems* 2.11 (2006): 527-535.](https://pubmed.ncbi.nlm.nih.gov/17216034/)
+2.  Corry, Ben. **Understanding ion channel selectivity and gating and their role in cellular signalling.** *Molecular Biosystems* 2.11 (2006): 527-535. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/17216034/)
 
 ## Fall 2025 Slides
 

@@ -13,7 +13,7 @@ lecture_rank: 160
 ## Required Reading
 
 - **Synaptic Currents.**  Chapter 20 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.*
-- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 **Identifiable Cells in the Crustacean Stomatogastric Ganglion** <a href="../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf" data-type="attachment" data-id="938">[PDF]</a>.
+- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 **Identifiable Cells in the Crustacean Stomatogastric Ganglion**. [\[PDF\]](../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf)
 
 ## <span style="color: var(--color-text);">Required Watching</span>
 
@@ -69,6 +69,6 @@ https://youtu.be/njlT59XJ_e8
 
 ## Optional Reading and Resources
 
-- <a href="http://www.scholarpedia.org/article/Stomatogastric_ganglion" target="_blank" rel="noopener">Scholarpedia article on "Stomatogastric Ganglion"</a>
-- <a href="http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus" target="_blank" rel="noopener">Gross Dissection of the Stomach of the Lobster, Homarus Americanus</a>
-- <a href="http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection" target="_blank" rel="noopener">Homarus Americanus Stomatogastric Nervous System Dissection</a>
+- **Scholarpedia article on "Stomatogastric Ganglion."** [\[Article\]](http://www.scholarpedia.org/article/Stomatogastric_ganglion)
+- **Gross Dissection of the Stomach of the Lobster, Homarus Americanus.** [\[JoVE\]](http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus)
+- **Homarus Americanus Stomatogastric Nervous System Dissection.** [\[JoVE\]](http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection)
