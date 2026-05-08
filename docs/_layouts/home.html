@@ -5,9 +5,8 @@ layout: default
 {% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">William &amp; Mary neuroscience course materials</p>
         <h1>{{ site.title | escape }}</h1>
-        <p>{{ site.description | escape }}. A static, browsable edition of the course site exported from WordPress.</p>
+        <p>{{ site.description | escape }}.</p>
         <div class="hero-actions">
           <a class="button primary" href="{{ '/pages/fall-2025-calendar/' | relative_url }}">View overview</a>
           <a class="button" href="{{ '/pages/' | relative_url }}">Browse materials</a>
