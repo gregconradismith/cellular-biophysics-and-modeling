@@ -15,20 +15,3 @@ Edit the Markdown files and push to `main`. The GitHub Actions workflow in
 `.github/workflows/jekyll.yml` builds the Jekyll site and deploys it to GitHub
 Pages.
 
-## Local Preview
-
-If Ruby dependencies are installed locally, preferably with Ruby 3.x:
-
-```sh
-cd docs
-bundle config --local path vendor/bundle
-bundle install
-bundle exec jekyll serve
-```
-
-Then open the local URL printed by Jekyll.
-
-## Migration Helper
-
-`tools/convert_static_html_to_jekyll.py` was used for the one-time conversion
-from the generated HTML export into Markdown source files.
