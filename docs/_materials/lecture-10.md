@@ -28,3 +28,17 @@ lecture_rank: 100
 
 1.  The observation that the Morris-Lecar model exhibited all these dynamical phenomena originated in a classic book chapter by Rinzel & Ermentrout 1998 (see [Readings](../readings/)).
 2.  [The Morris-Lecar simulator used in class can be found at this Open Source Physics site.](https://www.compadre.org/osp/document/ServeFile.cfm?ID=12417&DocID=3122&Attachment=1)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture10_Vdep_bistable.pdf" id="wp-block-file--lecture-10-2024-lecture10-vdep-bistable">Lecture 10 2024 slides: Voltage Dependence and Bistability</a><a href="../../wp-content/uploads/2024/10/Lecture10_Vdep_bistable.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-10-2024-lecture10-vdep-bistable">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture10_problemSet.pdf" id="wp-block-file--lecture-10-2024-lecture10-problemset">Lecture 10 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture10_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-10-2024-lecture10-problemset">Download</a>
+
+</div>

@@ -68,3 +68,29 @@ https://youtu.be/oEskbXrhkkk
 
 - **Excitable Systems and the Fitzhugh-Nagumo Equations**. Sections 11.1-11.4 (pp. 227-241) of *A Primer on Mathematical Models in Biology* by Leah Edelstein-Keshet and Lee Segel. [\[PDF\]](../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf)
 - **Fitzhugh's classic paper** (1961). [\[PDF\]](../../wp-content/uploads/2025/10/Fitzhugh61.pdf)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-1-morrislecar">Lecture 12 2024 slides part 1: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-1-morrislecar">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-2-morrislecar">Lecture 12 2024 slides part 2: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-2-morrislecar">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-3-morrislecar">Lecture 12 2024 slides part 3: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-3-morrislecar">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf" id="wp-block-file--lecture-12-2024-lecture12-problemset">Lecture 12 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-problemset">Download</a>
+
+</div>

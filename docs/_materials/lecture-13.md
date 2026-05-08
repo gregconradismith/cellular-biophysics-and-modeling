@@ -41,3 +41,17 @@ https://youtu.be/p8k5ueoHyZs
 ## Further Reading
 
 - Ermentrout & Terman 2010. **Chapter 3 Dynamics**, especially pp. 49-63, Sections 3.1 to 3.4. This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis. [\[Readings\]](../readings/)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" id="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems</a><a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf" id="wp-block-file--lecture-13-2024-lecture13-problemset">Lecture 13 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-13-2024-lecture13-problemset">Download</a>
+
+</div>

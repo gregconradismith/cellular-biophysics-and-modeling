@@ -27,3 +27,17 @@ lecture_rank: 50
 <a href="../../wp-content/uploads/2025/09/Lecture5-RCCircuitTheoryOfPlasmaMembrane.pdf" id="wp-block-file--media-0896ea7f-62b9-4445-9253-0cfddedd1e50">Lecture5-(RCCircuitTheoryOfPlasmaMembrane)</a><a href="../../wp-content/uploads/2025/09/Lecture5-RCCircuitTheoryOfPlasmaMembrane.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-0896ea7f-62b9-4445-9253-0cfddedd1e50">Download</a>
 
 </div>
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture5_LiinearStabilityBifurcations.pdf" id="wp-block-file--lecture-5-2024-lecture5-liinearstabilitybifurcations">Lecture 5 2024 slides: Linear Stability and Bifurcations</a><a href="../../wp-content/uploads/2024/09/Lecture5_LiinearStabilityBifurcations.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-5-2024-lecture5-liinearstabilitybifurcations">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture5_problemSet.pdf" id="wp-block-file--lecture-5-2024-lecture5-problemset">Lecture 5 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture5_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-5-2024-lecture5-problemset">Download</a>
+
+</div>

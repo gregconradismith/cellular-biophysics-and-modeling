@@ -28,3 +28,23 @@ lecture_rank: 140
 <a href="../../wp-content/uploads/2025/10/Lecture14MorrisLecarSquareWaveBursting.pdf" id="wp-block-file--media-1e3a41a6-028b-426a-bb08-cc55489939f8">Lecture14(MorrisLecarSquareWaveBursting)</a><a href="../../wp-content/uploads/2025/10/Lecture14MorrisLecarSquareWaveBursting.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-1e3a41a6-028b-426a-bb08-cc55489939f8">Download</a>
 
 </div>
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture14-(FitzhughNagumo).pdf" id="wp-block-file--lecture-14-2024-lecture14-fitzhughnagumo">Lecture 14 2024 slides: FitzHugh-Nagumo</a><a href="../../wp-content/uploads/2024/10/Lecture14-(FitzhughNagumo).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-14-2024-lecture14-fitzhughnagumo">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture14-problemSet.pdf" id="wp-block-file--lecture-14-2024-lecture14-problemset">Lecture 14 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture14-problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-14-2024-lecture14-problemset">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/HindmarshRose2D.png" id="wp-block-file--lecture-14-2024-hindmarshrose2d">Hindmarsh-Rose 2D figure</a><a href="../../wp-content/uploads/2024/10/HindmarshRose2D.png" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-14-2024-hindmarshrose2d">Download</a>
+
+</div>

@@ -68,3 +68,17 @@ http://www.youtube.com/watch?v=1SJzwT8v2AU
 3.  Hille Chapter 2 "Classical biophysics of the squid giant axon" (long, but worth the effort)
 4.  [Bean, B. P. (2007). The action potential in mammalian central neurons. *Nature Reviews Neuroscience*, *8*(6), 451-465. ](//www.nature.com/articles/nrn2148)
 5.  "The Hodgkin-Huxley model" by Nelson and Rinzel. This is Ch 4 of "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System" by James M. Bower and David Beeman
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf" id="wp-block-file--lecture-9-2024-lecture9-vgated-currents">Lecture 9 2024 slides: Voltage-Gated Currents</a><a href="../../wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-9-2024-lecture9-vgated-currents">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/10/Lecture9_problemSet.pdf" id="wp-block-file--lecture-9-2024-lecture9-problemset">Lecture 9 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture9_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-9-2024-lecture9-problemset">Download</a>
+
+</div>

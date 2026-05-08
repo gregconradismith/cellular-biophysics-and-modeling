@@ -32,3 +32,23 @@ lecture_rank: 80
 2.  **What is a saddle-node bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=t0KQFOEPY6Q)
 3.  **What is a transcritical bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=CH8Jj-3La28)
 4.  **What is a pitchfork bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=VMEw6DWrqm0)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture8_GHK.pdf" id="wp-block-file--lecture-8-2024-lecture8-ghk">Lecture 8 2024 slides: GHK</a><a href="../../wp-content/uploads/2024/09/Lecture8_GHK.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-8-2024-lecture8-ghk">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture8_problemSet.pdf" id="wp-block-file--lecture-8-2024-lecture8-problemset">Lecture 8 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture8_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-8-2024-lecture8-problemset">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/GHK-derivation.pdf" id="wp-block-file--lecture-8-2024-ghk-derivation">GHK derivation</a><a href="../../wp-content/uploads/2024/09/GHK-derivation.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-8-2024-ghk-derivation">Download</a>
+
+</div>

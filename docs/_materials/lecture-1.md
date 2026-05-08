@@ -35,3 +35,17 @@ Note: For readings that are behind a paywall, see the password protected course 
 <a href="../../wp-content/uploads/2025/09/Lecture1-DynamicPhenomena.pdf" id="wp-block-file--media-e446007e-2c21-4526-81b5-10d294528e1e">Lecture1-(DynamicPhenomena)</a><a href="../../wp-content/uploads/2025/09/Lecture1-DynamicPhenomena.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-e446007e-2c21-4526-81b5-10d294528e1e">Download</a>
 
 </div>
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture1_2024_NeuronDoctrineDynamics.pdf" id="wp-block-file--lecture-1-2024-slides">Lecture 1 2024 slides: Neuron Doctrine and Dynamics</a><a href="../../wp-content/uploads/2024/09/Lecture1_2024_NeuronDoctrineDynamics.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-1-2024-slides">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture1_problemSet.pdf" id="wp-block-file--lecture-1-2024-problem-set">Lecture 1 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture1_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-1-2024-problem-set">Download</a>
+
+</div>

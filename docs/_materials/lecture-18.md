@@ -30,3 +30,11 @@ Cash et al. 2009. **The human K-complex represents an isolated cortical down-sta
 Ghodrati et al. 2017. **Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.** *Progress in Neurobiology*, 156, 214-255. [\[PDF\]](../../wp-content/uploads/2025/11/GhodratiEtal2017LGNReview.pdf)
 
 Uhlhaas & Singer 2010. **Abnormal neural oscillations and synchrony in schizophrenia.** *Nature Reviews Neuroscience*, 11(2), 100-113. [\[PDF\]](../../wp-content/uploads/2025/11/2010-U-Singer-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf" id="wp-block-file--lecture-18-2024-lecture18-lts">Lecture 18 2024 slides: Low-Threshold Spikes</a><a href="../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-18-2024-lecture18-lts">Download</a>
+
+</div>

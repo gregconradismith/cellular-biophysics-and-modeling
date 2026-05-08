@@ -32,3 +32,17 @@ lecture_rank: 150
 <a href="../../wp-content/uploads/2025/10/HandoutLowThresholdSpikePhasePlane.pdf" id="wp-block-file--media-fbc145f3-9c94-4c70-bca4-4ebd59b90068">HandoutLowThresholdSpikePhasePlane</a><a href="../../wp-content/uploads/2025/10/HandoutLowThresholdSpikePhasePlane.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-fbc145f3-9c94-4c70-bca4-4ebd59b90068">Download</a>
 
 </div>
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/11/Lecture15-(MorrisLecar2types).pdf" id="wp-block-file--lecture-15-2024-lecture15-morrislecar2types">Lecture 15 2024 slides: Morris-Lecar Type 1 and Type 2</a><a href="../../wp-content/uploads/2024/11/Lecture15-(MorrisLecar2types).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-15-2024-lecture15-morrislecar2types">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/11/Lecture15-problemSet.pdf" id="wp-block-file--lecture-15-2024-lecture15-problemset">Lecture 15 2024 problem set</a><a href="../../wp-content/uploads/2024/11/Lecture15-problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-15-2024-lecture15-problemset">Download</a>
+
+</div>

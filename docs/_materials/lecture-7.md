@@ -31,3 +31,17 @@ lecture_rank: 70
 ## Optional Reading and Resources
 
 1.  None yet.
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf" id="wp-block-file--lecture-7-2024-lecture7-currentbalancepassiveneuronode">Lecture 7 2024 slides: Current Balance and Passive Neuron ODE</a><a href="../../wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-7-2024-lecture7-currentbalancepassiveneuronode">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture7_problemSet.pdf" id="wp-block-file--lecture-7-2024-lecture7-problemset">Lecture 7 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture7_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-7-2024-lecture7-problemset">Download</a>
+
+</div>

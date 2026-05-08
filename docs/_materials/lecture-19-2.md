@@ -28,3 +28,11 @@ Optional Reading and Resources
 
 - <span style="color: var(--color-text);">**You Are Here - RadioLab.** [\[RadioLab\]](http://www.radiolab.org/story/110165-you-are-here/) </span>
 - **Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization** by Kim et al. [\[PDF\]](../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf)
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf" id="wp-block-file--lecture-19-2024-lecture19-synapsesthalamocortical">Lecture 19 2024 slides: Synapses and Thalamocortical Networks</a><a href="../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-19-2024-lecture19-synapsesthalamocortical">Download</a>
+
+</div>

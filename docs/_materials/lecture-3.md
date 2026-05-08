@@ -28,3 +28,17 @@ lecture_rank: 30
 <a href="../../wp-content/uploads/2025/09/Lecture3-CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions.pdf" id="wp-block-file--media-18af207f-2538-4ac0-bf9b-6b09ad057ed7">Lecture3-(CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions)</a><a href="../../wp-content/uploads/2025/09/Lecture3-CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-18af207f-2538-4ac0-bf9b-6b09ad057ed7">Download</a>
 
 </div>
+
+## Fall 2024 Materials
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture3_2024_LigandsReceptorsRateLaws.pdf" id="wp-block-file--lecture-3-2024-lecture3-2024-ligandsreceptorsratelaws">Lecture 3 2024 slides: Ligands, Receptors, and Rate Laws</a><a href="../../wp-content/uploads/2024/09/Lecture3_2024_LigandsReceptorsRateLaws.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-3-2024-lecture3-2024-ligandsreceptorsratelaws">Download</a>
+
+</div>
+
+<div class="wp-block-file">
+
+<a href="../../wp-content/uploads/2024/09/Lecture3_problemSet.pdf" id="wp-block-file--lecture-3-2024-lecture3-problemset">Lecture 3 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture3_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-3-2024-lecture3-problemset">Download</a>
+
+</div>
