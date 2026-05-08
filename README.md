@@ -11,7 +11,4 @@ instead of generated HTML.
 - CSS and JavaScript live in `docs/assets/`.
 - Uploaded PDFs and media remain in `docs/wp-content/uploads/`.
 
-Edit the Markdown files and push to `main`. The GitHub Actions workflow in
-`.github/workflows/jekyll.yml` builds the Jekyll site and deploys it to GitHub
-Pages.
 
