@@ -12,7 +12,7 @@ lecture_rank: 130
 
 ## Required Reading
 
-- **Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).** Chapter 18 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
+- <strong>Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).</strong> Chapter 18 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
 ## Fall 2025 Recorded Lecture (2 parts)
 
@@ -40,7 +40,7 @@ https://youtu.be/p8k5ueoHyZs
 
 ## Further Reading
 
-- Ermentrout & Terman 2010. **Chapter 3 Dynamics**, especially pp. 49-63, Sections 3.1 to 3.4. This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis. [\[Readings\]](../readings/)
+- Ermentrout & Terman 2010. <strong>Chapter 3 Dynamics</strong>, especially pp. 49-63, Sections 3.1 to 3.4. This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis. <a href="../readings/">Readings</a>
 
 ## Fall 2024 Materials
 

@@ -12,14 +12,14 @@ lecture_rank: 140
 
 ## Required Reading
 
-- <span style="color: var(--color-text);">Read the highlighted parts of **Izhikevich 2000** (a review of neuronal bursting mechanisms). [\[PDF\]](../../wp-content/uploads/2025/10/Izhikevich-2000-Neural-exc-Markup.pdf)</span>\
+- <span style="color: var(--color-text);">Read the highlighted parts of <strong>Izhikevich 2000</strong> (a review of neuronal bursting mechanisms). <a href="../../wp-content/uploads/2025/10/Izhikevich-2000-Neural-exc-Markup.pdf">PDF</a></span>\
   \
   <span style="color: var(--color-text);">You may be amazed at how much you understand about nonlinear dynamics of neuronal activity.... The three most important types of bursting are:</span>\
-  - <span style="color: var(--color-text);">**Square wave bursting** - also called **fold/homoclinic bursting** - onset is a saddle-node (fold) bifurcation, offset is a saddle homoclinic orbit bifurcation - the fast subsystem is bistable.  </span>
-  - <span style="color: var(--color-text);">**Eliptical bursting** - also called **subHopf/fold cycle bursting** - onset is subcritical Hopf bifurcation, offset is fold limit cycle bifurcation - the fast subsystem is bistable.  </span>
-  - <span style="color: var(--color-text);">**Parabolic bursting** - also called **circle/cirle bursting** - onset is SNIC bifurcation, offset is also a SNIC bifurcation - the fast subsystem is not bistable</span>\
-- The highlighted portions of **Bertram et al. 2007** on the control of insulin secretion by pancreatic beta-cells through metabolic and electrical oscillations. [\[PDF\]](../../wp-content/uploads/2025/10/2007-B-Satin-Metabolic_and_electrical_oscillations_partners_in_controlling_pulsatile_insulin_secretion_MarkUp.pdf)\
-- Highlighted portions of **Tabak et al. 2000** on network bursting in embryonic chick spinal cord. [\[PDF\]](../../wp-content/uploads/2025/10/2000-T-Rinzel-Modeling_of_spontaneous_activity_in_developing_spinal_cord-MarkUp.pdf)
+  - <span style="color: var(--color-text);"><strong>Square wave bursting</strong> - also called <strong>fold/homoclinic bursting</strong> - onset is a saddle-node (fold) bifurcation, offset is a saddle homoclinic orbit bifurcation - the fast subsystem is bistable.  </span>
+  - <span style="color: var(--color-text);"><strong>Eliptical bursting</strong> - also called <strong>subHopf/fold cycle bursting</strong> - onset is subcritical Hopf bifurcation, offset is fold limit cycle bifurcation - the fast subsystem is bistable.  </span>
+  - <span style="color: var(--color-text);"><strong>Parabolic bursting</strong> - also called <strong>circle/cirle bursting</strong> - onset is SNIC bifurcation, offset is also a SNIC bifurcation - the fast subsystem is not bistable</span>\
+- The highlighted portions of <strong>Bertram et al. 2007</strong> on the control of insulin secretion by pancreatic beta-cells through metabolic and electrical oscillations. <a href="../../wp-content/uploads/2025/10/2007-B-Satin-Metabolic_and_electrical_oscillations_partners_in_controlling_pulsatile_insulin_secretion_MarkUp.pdf">PDF</a>\
+- Highlighted portions of <strong>Tabak et al. 2000</strong> on network bursting in embryonic chick spinal cord. <a href="../../wp-content/uploads/2025/10/2000-T-Rinzel-Modeling_of_spontaneous_activity_in_developing_spinal_cord-MarkUp.pdf">PDF</a>
 
 ## Fall 2025 Slides
 

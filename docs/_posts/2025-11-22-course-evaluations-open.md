@@ -8,6 +8,3 @@ render_with_liquid: false
 ---
 
 Please take a few moments to submit an evaluation for Cellular Biophysics and Modeling. Written comments are especially encouraged. I consider them carefully.
-
-
-

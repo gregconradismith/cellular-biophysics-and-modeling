@@ -7,7 +7,7 @@ permalink: "/posts/exam-1-specification/"
 render_with_liquid: false
 ---
 
-The following PDF titled **<a href="./" data-type="page" data-id="673">EXAM 1 Specification</a>** explains how EXAM 1 will work. You can also find it under UNIT1 in the menu bar.
+The following PDF titled <strong><a href="./" data-type="page" data-id="673">EXAM 1 Specification</a></strong> explains how EXAM 1 will work. You can also find it under UNIT1 in the menu bar.
 
 <div class="wp-block-file">
 

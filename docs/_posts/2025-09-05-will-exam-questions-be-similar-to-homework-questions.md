@@ -9,7 +9,7 @@ render_with_liquid: false
 
 Student: Are the problem set questions representative of what will be on the exam?
 
-Professor: Not necessarily. The problem sets are **exercises** designed to **help you learn** the material. A homework questions could require 20-30 minutes to work through. That would not be an appropriate question for an 1.5 hour in-class exam.
+Professor: Not necessarily. The problem sets are <strong>exercises</strong> designed to <strong>help you learn</strong> the material. A homework questions could require 20-30 minutes to work through. That would not be an appropriate question for an 1.5 hour in-class exam.
 
 I expect most students will need 4-5 hours to complete the homework. This assumes you have attended lecture and read the required readings carefully. The CMB Primer has many example problems worked out; often these are similar to the homework questions.
 

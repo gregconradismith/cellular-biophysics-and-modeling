@@ -13,7 +13,7 @@ A good exercise is to consider the (V,h) phase plane for post-inhibitory rebound
 
 In both cases, if you are on the voltage nullcline, then
 
-Iapp = g\*s\*(V - E) + Iother
+Iapp = g\<em>s\</em>(V - E) + Iother
 
 where g is the conductance of the current of interest, s is its gating variable, and E is its reversal potential, and Iother represents any other membrane currents (which will depend on V but not s). Rearrange the above equation as follows,
 
@@ -23,6 +23,6 @@ and calculate the derivative of s as a function of Iapp,
 
 ds/dIapp = 1/(g\*(V-E)).
 
-This equation shows that when Iapp is increased (depolarizing), the voltage nullcline goes "up" (in the direction of increasing s) **provided** V\>E, that is, when the current g\*(V-E) is positive (outward). Of course, if Iapp is decreased (hyperpolarizing), then the nullcline goes down.
+This equation shows that when Iapp is increased (depolarizing), the voltage nullcline goes "up" (in the direction of increasing s) <strong>provided</strong> V\>E, that is, when the current g\*(V-E) is positive (outward). Of course, if Iapp is decreased (hyperpolarizing), then the nullcline goes down.
 
 If V\<E (inward current), ds/dIapp is negative, meaning that s decreases when Iapp increases. And the reverse: s increases when Iapp decreases.

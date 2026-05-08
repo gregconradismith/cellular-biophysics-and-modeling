@@ -12,21 +12,21 @@ lecture_rank: 10
 
 ## Required Reading
 
-Note: For readings that are behind a paywall, see the password protected course page titled [**Readings**](../readings/).
+Note: For readings that are behind a paywall, see the password protected course page titled <a href="../readings/"><strong>Readings</strong></a>.
 
-1.  **Apologia and Introduction** of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells*.  (15 pages) [\[DOI\]](https://doi.org/10.1017/9780511793905)
-2.  **The organization of the brain.** Nauta WJ, Feirtag M. *Sci Am.* 1979 Sep; 241(3):88-111. (Read the first half, pp. 17-25) [\[DOI\]](https://doi.org/10.1038/scientificamerican0979-88)
-3.  **Neuroscience. The neuron doctrine, redux.** Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. *Science.* 2005 Nov 4;310(5749):791-3. [\[DOI\]](https://doi.org/10.1126/science.1114394)
+1.  <strong>Apologia and Introduction</strong> of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>.  (15 pages) <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+2.  <strong>The organization of the brain.</strong> Nauta WJ, Feirtag M. <em>Sci Am.</em> 1979 Sep; 241(3):88-111. (Read the first half, pp. 17-25) <a href="https://doi.org/10.1038/scientificamerican0979-88">DOI</a>
+3.  <strong>Neuroscience. The neuron doctrine, redux.</strong> Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. <em>Science.</em> 2005 Nov 4;310(5749):791-3. <a href="https://doi.org/10.1126/science.1114394">DOI</a>
 
 ## Resources (Optional)
 
-1.  **Polynomial functions and their graphs.**  Read the linked PDF and/or use that phrase to search for videos. [\[PDF\]](../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf "polynomial-functions-and-their-graphs")
-2.  **A glossary of terms used in neuroanatomy.** Appendix A in *Comparative Vertebrate Neuroanatomy: Evolution and Adaptation*, Second Edition, by Ann B. Butler and William Hodos. [\[DOI\]](https://doi.org/10.1002/0471733849 "ButlerHodosAppendixNeuroanatomyTerms")
+1.  <strong>Polynomial functions and their graphs.</strong>  Read the linked PDF and/or use that phrase to search for videos. <a href="../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf">PDF</a>
+2.  <strong>A glossary of terms used in neuroanatomy.</strong> Appendix A in <em>Comparative Vertebrate Neuroanatomy: Evolution and Adaptation</em>, Second Edition, by Ann B. Butler and William Hodos. <a href="https://doi.org/10.1002/0471733849">DOI</a>
 
 ## Futher Reading (Optional)
 
-1.  **Bringing cartoons to life.** Tyson JJ. *Nature*. 2007 Feb 22;445(7130):823. [\[DOI\]](https://doi.org/10.1038/445823a)
-2.  **Dynamic phenomena in cell biology and neuroscience.** Sections 1.1 and 1.2 (pages 3-11) of *Computational Cell Biology*. Fall, C.P., Marland, E.S., Wagner, J.M. and Tyson, J.J. (Eds.) Springer. 2002. [\[DOI\]](https://doi.org/10.1007/b97701) [\[Amazon\]](http://a.co/d/eREvmgT) [\[PDF\]](../readings/)
+1.  <strong>Bringing cartoons to life.</strong> Tyson JJ. <em>Nature</em>. 2007 Feb 22;445(7130):823. <a href="https://doi.org/10.1038/445823a">DOI</a>
+2.  <strong>Dynamic phenomena in cell biology and neuroscience.</strong> Sections 1.1 and 1.2 (pages 3-11) of <em>Computational Cell Biology</em>. Fall, C.P., Marland, E.S., Wagner, J.M. and Tyson, J.J. (Eds.) Springer. 2002. <a href="https://doi.org/10.1007/b97701">DOI</a> <a href="http://a.co/d/eREvmgT">Amazon</a> <a href="../readings/">PDF</a>
 
 ## Fall 2025 Slides
 

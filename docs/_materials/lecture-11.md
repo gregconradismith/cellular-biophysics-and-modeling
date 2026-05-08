@@ -12,11 +12,11 @@ lecture_rank: 110
 
 ## Required Reading
 
-- **Phase Plane Analysis.** Chapter 15 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
+- <strong>Phase Plane Analysis.</strong> Chapter 15 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: **pplane**. [\[Software\]](http://math.rice.edu/~dfield/dfpp.html)
+The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">Software</a>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -56,7 +56,7 @@ https://youtu.be/fqK1z06a9pQ
 </div>
 </figure>
 
-- *Two dimensional linear systems* by Steve Strogatz
+- <em>Two dimensional linear systems</em> by Steve Strogatz
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -64,7 +64,7 @@ https://youtu.be/QrHRaA93Nrg
 </div>
 </figure>
 
--  *Two dimensional nonlinear systems and fixed points* by Steve Strogatz
+-  <em>Two dimensional nonlinear systems and fixed points</em> by Steve Strogatz
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -72,7 +72,7 @@ https://youtu.be/9yh9DmNqdk4
 </div>
 </figure>
 
--  Here is a link to phase plane graphing software: **pplane**. [\[Software\]](http://math.rice.edu/~dfield/dfpp.html)
+-  Here is a link to phase plane graphing software: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">Software</a>
 
 Alternatively, if you have any trouble running Java on your computer, you may use any other web based phase plane tool you can find.
 
@@ -84,15 +84,15 @@ https://youtu.be/UCpMao94iFg
 </div>
 </figure>
 
-- **MIT Mathlet on Vector Fields.** [\[Mathlet\]](http://mathlets.org/mathlets/vector-fields/)
+- <strong>MIT Mathlet on Vector Fields.</strong> <a href="http://mathlets.org/mathlets/vector-fields/">Mathlet</a>
 
-Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b, ... , e.
+Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b,..., e.
 
-For more information on *phase plane methods and qualitative solutions* see Chapter 5 of Edelstein-Keshet & Segel.
+For more information on <em>phase plane methods and qualitative solutions</em> see Chapter 5 of Edelstein-Keshet & Segel.
 
-For more information on *phase plane analysis* see Sections 7.1-7.5 by Edelstein-Keshet & Segel.
+For more information on <em>phase plane analysis</em> see Sections 7.1-7.5 by Edelstein-Keshet & Segel.
 
-*Phase plane analysis in five easy steps* is a very brief overview of how to approach phase plane analysis of 2D autonomous nonlinear ODEs. Follow this procedure when doing Problem Set 5.
+<em>Phase plane analysis in five easy steps</em> is a very brief overview of how to approach phase plane analysis of 2D autonomous nonlinear ODEs. Follow this procedure when doing Problem Set 5.
 
 ## Fall 2024 Materials
 

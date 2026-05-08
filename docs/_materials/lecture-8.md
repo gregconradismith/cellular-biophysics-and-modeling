@@ -12,11 +12,11 @@ lecture_rank: 80
 
 ## Required Reading and Watching
 
-1.  **Bifurcation Diagrams of Scalar ODEs.** Chapter 16 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
-2.  Terman pp. 21-28 **An introduction to dynamical systems and neuronal dynamics** (Introduction & One Dimensional Equations). [\[PDF\]](../readings/)
-3.  **ODE | Slope Fields.** [\[YouTube\]](http://youtu.be/MI2xCwBekX4)
-4.  **ODE | Phase diagrams.** [\[YouTube\]](http://youtu.be/swt-let4pCI)
-5.  **ODE | Bifurcation Diagram.** [\[YouTube\]](http://youtu.be/cC2w2z_i2DA)
+1.  <strong>Bifurcation Diagrams of Scalar ODEs.</strong> Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+2.  Terman pp. 21-28 <strong>An introduction to dynamical systems and neuronal dynamics</strong> (Introduction & One Dimensional Equations). <a href="../readings/">PDF</a>
+3.  <strong>ODE | Slope Fields.</strong> <a href="http://youtu.be/MI2xCwBekX4">YouTube</a>
+4.  <strong>ODE | Phase diagrams.</strong> <a href="http://youtu.be/swt-let4pCI">YouTube</a>
+5.  <strong>ODE | Bifurcation Diagram.</strong> <a href="http://youtu.be/cC2w2z_i2DA">YouTube</a>
 
 ## Fall 2025 Slides
 
@@ -28,10 +28,10 @@ lecture_rank: 80
 
 ## Optional Reading and Resources
 
-1.  **Steve Strogatz' lecture on "One dimensional Systems"** (Cornell Math Department). [\[YouTube\]](https://www.youtube.com/watch?v=YNIm2Op7UPg)
-2.  **What is a saddle-node bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=t0KQFOEPY6Q)
-3.  **What is a transcritical bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=CH8Jj-3La28)
-4.  **What is a pitchfork bifurcation?** [\[YouTube\]](https://www.youtube.com/watch?v=VMEw6DWrqm0)
+1.  <strong>Steve Strogatz' lecture on "One dimensional Systems"</strong> (Cornell Math Department). <a href="https://www.youtube.com/watch?v=YNIm2Op7UPg">YouTube</a>
+2.  <strong>What is a saddle-node bifurcation?</strong> <a href="https://www.youtube.com/watch?v=t0KQFOEPY6Q">YouTube</a>
+3.  <strong>What is a transcritical bifurcation?</strong> <a href="https://www.youtube.com/watch?v=CH8Jj-3La28">YouTube</a>
+4.  <strong>What is a pitchfork bifurcation?</strong> <a href="https://www.youtube.com/watch?v=VMEw6DWrqm0">YouTube</a>
 
 ## Fall 2024 Materials
 

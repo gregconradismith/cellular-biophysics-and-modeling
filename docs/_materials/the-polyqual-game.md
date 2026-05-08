@@ -18,15 +18,11 @@ render_with_liquid: false
   &lt;meta charset=&quot;utf-8&quot; /&gt;
   &lt;title&gt;Polyqual (Qualitative Analysis Quiz)&lt;/title&gt;
   &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
-  &lt;style&gt;
-    :root { --pad: 14px; --bg: #0b0c10; --card: #121319; --ink: #e8ecf1; --muted:#9aa4b2; }
+  &lt;style&gt;:root { --pad: 14px; --bg: #0b0c10; --card: #121319; --ink: #e8ecf1; --muted:#9aa4b2; }
     * { box-sizing: border-box; }
-    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
-    .wrap { max-width: 980px; margin: 24px auto; padding: 0 14px; }
-    .card { background:var(--card); border:1px solid #22242d; border-radius:18px; padding: var(--pad); box-shadow: 0 12px 30px rgba(0,0,0,.35); position: relative; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }.wrap { max-width: 980px; margin: 24px auto; padding: 0 14px; }.card { background:var(--card); border:1px solid #22242d; border-radius:18px; padding: var(--pad); box-shadow: 0 12px 30px rgba(0,0,0,.35); position: relative; }
     h1 { margin: 0 0 8px; font-weight: 700; letter-spacing:.2px; }
-    p  { margin: 0 0 16px; color: var(--muted); }
-    .row { display:flex; gap:10px; flex-wrap:wrap; margin: 10px 0 6px; align-items:center; position: relative; z-index: 2; }
+    p  { margin: 0 0 16px; color: var(--muted); }.row { display:flex; gap:10px; flex-wrap:wrap; margin: 10px 0 6px; align-items:center; position: relative; z-index: 2; }
     button, label { font-size: 15px; }
     button {
       background:#1c1f2a; color:var(--ink); border:1px solid #2a2f3a; padding:10px 14px; border-radius:12px; cursor:pointer;
@@ -34,16 +30,8 @@ render_with_liquid: false
     }
     button:hover { filter: brightness(1.08); }
     button:active { transform: translateY(1px); }
-    button[disabled] { opacity: .6; cursor: not-allowed; }
-    canvas { width:100%; height:auto; background:#0f1117; border-radius:14px; border:1px solid #22242d; display:block; position: relative; z-index: 1; }
-    .grid { display:grid; grid-template-columns:1fr; gap:10px; }
-    .status { min-height: 24px; margin-top: 8px; }
-    .codes { display:flex; gap:14px; margin-top:8px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
-    .hidden { display: none !important; }
-    .spacer { flex: 1 1 auto; }
-    .score { font-weight: 600; letter-spacing: .2px; }
-    .score small { color: var(--muted); font-weight: 500; }
+    button[disabled] { opacity:.6; cursor: not-allowed; }
+    canvas { width:100%; height:auto; background:#0f1117; border-radius:14px; border:1px solid #22242d; display:block; position: relative; z-index: 1; }.grid { display:grid; grid-template-columns:1fr; gap:10px; }.status { min-height: 24px; margin-top: 8px; }.codes { display:flex; gap:14px; margin-top:8px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }.hidden { display: none !important; }.spacer { flex: 1 1 auto; }.score { font-weight: 600; letter-spacing:.2px; }.score small { color: var(--muted); font-weight: 500; }
   &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
@@ -104,7 +92,7 @@ function polyder(coeffs) {
   for (let i=0;i&lt;n-1;i++) d[i] = coeffs[i]*(n-1-i);
   return d;
 }
-function sign(v) { return v&gt;0 ? 1 : v&lt;0 ? -1 : 0; }
+function sign(v) { return v&gt;0 ? 1: v&lt;0 ? -1: 0; }
 function mapSignToChar(v) { return v===-1?&#x27;-&#x27;:(v===0?&#x27;x&#x27;:&#x27;+&#x27;); }
 const sameShape = (a,b)=&gt; a.length===b.length &amp;&amp; a.every((ch,i)=&gt;ch===b[i]);
 
@@ -165,9 +153,9 @@ function decideVerdict(round, useF) {
   const sameDPrime  = sameShape(round.blueRows[2], round.redRows[2]);
   if (useF) {
     const sameF = sameShape(round.blueRows[0], round.redRows[0]);
-    return (sameF &amp;&amp; samePrime &amp;&amp; sameDPrime) ? &#x27;qualitatively similar&#x27; : &#x27;qualitatively different&#x27;;
+    return (sameF &amp;&amp; samePrime &amp;&amp; sameDPrime) ? &#x27;qualitatively similar&#x27;: &#x27;qualitatively different&#x27;;
   } else {
-    return (samePrime &amp;&amp; sameDPrime) ? &#x27;qualitatively similar&#x27; : &#x27;qualitatively different&#x27;;
+    return (samePrime &amp;&amp; sameDPrime) ? &#x27;qualitatively similar&#x27;: &#x27;qualitatively different&#x27;;
   }
 }
 
@@ -178,7 +166,7 @@ function drawCurves(ctx, X, y1, y2) {
 
   // compute bounds
   const all = y1.concat(y2);
-  const ymax = Math.max(0, ...all), ymin = Math.min(0, ...all);
+  const ymax = Math.max(0,...all), ymin = Math.min(0,...all);
   const pad = 0.08*(ymax - ymin || 1);
   const yhi = ymax + pad, ylo = ymin - pad;
 
@@ -218,7 +206,7 @@ function drawStairs(ctx, X, s1, s2, label) {
   const spread = usableH * 0.38;    // distance of ±1 from the zero line
 
   const toX = t =&gt; ((t+1)/2)*(W-24) + 12;
-  const toY = v =&gt; (v===1) ? (mid - spread) : (v===-1 ? (mid + spread) : mid);
+  const toY = v =&gt; (v===1) ? (mid - spread): (v===-1 ? (mid + spread): mid);
 
   // dashed green zero line at y = mid
   ctx.save();
@@ -274,7 +262,7 @@ window.revealed = false; // make accessible in inline handlers
 let correctCount = 0;
 let totalCount = 0;
 
-function pct(a, b) { return b ? Math.round((a/b)*100) : 0; }
+function pct(a, b) { return b ? Math.round((a/b)*100): 0; }
 function updateScore() {
   scoreEl.innerHTML = `Score: ${correctCount} / ${totalCount} &lt;small&gt;(${pct(correctCount,totalCount)}%)&lt;/small&gt;`;
 }
@@ -359,8 +347,7 @@ function handleGuess(guess) {
   updateScore();
 
   round._lastGuessResult = correct
-    ? &#x27;✅ Correct&#x27;
-    : `❌ Incorrect — it is ${currentVerdict}.`;
+    ? &#x27;✅ Correct&#x27;: `❌ Incorrect — it is ${currentVerdict}.`;
 
   window.revealed = true;
   render();
@@ -376,12 +363,12 @@ function downloadPNG() {
   // Compose plot + stairs into a single image
   const w = plotEl.width;
   const hPlot = plotEl.height;
-  const hStairs = stairsEl.classList.contains(&#x27;hidden&#x27;) ? 0 : stairsEl.height;
+  const hStairs = stairsEl.classList.contains(&#x27;hidden&#x27;) ? 0: stairsEl.height;
   const gap = 8;
 
   const out = document.createElement(&#x27;canvas&#x27;);
   out.width = w;
-  out.height = hPlot + (hStairs ? gap + hStairs : 0);
+  out.height = hPlot + (hStairs ? gap + hStairs: 0);
 
   const octx = out.getContext(&#x27;2d&#x27;);
 
@@ -417,5 +404,5 @@ window.addEventListener(&#x27;keydown&#x27;, (e) =&gt; {
 &lt;!-- /wp:html --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;No worries ... an exam question that involves qualitative analysis will not involve subtle differences that are difficult to see.  That sometimes happens above.  &lt;/p&gt;
+&lt;p&gt;No worries... an exam question that involves qualitative analysis will not involve subtle differences that are difficult to see.  That sometimes happens above.  &lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;"></iframe>

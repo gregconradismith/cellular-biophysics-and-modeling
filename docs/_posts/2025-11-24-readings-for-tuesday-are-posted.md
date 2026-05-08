@@ -7,7 +7,7 @@ permalink: "/posts/readings-for-tuesday-are-posted/"
 render_with_liquid: false
 ---
 
-See the blog page **<a href="../../pages/lecture-21/" data-type="page" data-id="192">Inhibitory interneuron networks and cortical oscillations</a>** for the readings associated with Tuesday's online asynchronous class.\
+See the blog page <strong><a href="../../pages/lecture-21/" data-type="page" data-id="192">Inhibitory interneuron networks and cortical oscillations</a></strong> for the readings associated with Tuesday's online asynchronous class.\
 \
 Reminder that the optional problem set 5 is due tomorrow.
 

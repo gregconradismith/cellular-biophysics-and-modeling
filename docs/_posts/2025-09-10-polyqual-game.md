@@ -7,7 +7,7 @@ permalink: "/posts/polyqual-game/"
 render_with_liquid: false
 ---
 
-I made a version of [The PolyQual Qame](../../pages/the-polyqual-game/) that uses JavaScript. To play, click on the link [here](../../pages/the-polyqual-game/) (also in the menu bar).
+I made a version of <a href="../../pages/the-polyqual-game/">The PolyQual Qame</a> that uses JavaScript. To play, click on the link <a href="../../pages/the-polyqual-game/">here</a> (also in the menu bar).
 
 ## UN-COLLEGE (just for fun)
 
@@ -17,4 +17,4 @@ https://youtu.be/0obMRztklqU?si=9pS2LkQrn71od3Ar
 </div>
 </figure>
 
-**That Mitchell and Webb Look** is a British sketch comedy television series starring David Mitchell and Robert Webb that ran from 2006 to 2010.
+<strong>That Mitchell and Webb Look</strong> is a British sketch comedy television series starring David Mitchell and Robert Webb that ran from 2006 to 2010.

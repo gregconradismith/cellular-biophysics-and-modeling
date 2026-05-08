@@ -12,8 +12,8 @@ lecture_rank: 90
 
 ## Required Reading
 
-1.  **Voltage-Clamp Recording.** Chapter 12 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.*
-2.  **Hodgkin-Huxley Model of the Action Potential.** Chapter 13 of *Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.*
+1.  <strong>Voltage-Clamp Recording.</strong> Chapter 12 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em>
+2.  <strong>Hodgkin-Huxley Model of the Action Potential.</strong> Chapter 13 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em>
 
 ## Required Watching
 
@@ -45,11 +45,11 @@ https://youtu.be/UpK_ZKpn9d4
 
 The following mathematics lectures discuss concepts from linear algebra that will be used in future lectures. You are not expected to already know linear algebra, but these lectures will complement what I say about this subject.
 
-1.  [WildLinAlg5: Change of coordinates and determinants](http://www.youtube.com/watch?v=pXzoF2HlAps) \[START AT 29:34\]
+1.  <a href="http://www.youtube.com/watch?v=pXzoF2HlAps">WildLinAlg5: Change of coordinates and determinants</a> \[START AT 29:34\]
 
 http://www.youtube.com/watch?v=pXzoF2HlAps
 
-1.  [WildLinAlg6: Applications of 2x2 matrices](http://www.youtube.com/watch?v=1SJzwT8v2AU)
+1.  <a href="http://www.youtube.com/watch?v=1SJzwT8v2AU">WildLinAlg6: Applications of 2x2 matrices</a>
 
 http://www.youtube.com/watch?v=1SJzwT8v2AU
 
@@ -63,10 +63,10 @@ http://www.youtube.com/watch?v=1SJzwT8v2AU
 
 ## Optional Reading and Resources
 
-1.  [Peering into the black box. An interview with Bertill Hille, a Sounds Physiological podcast by Liz Adler, Executive Editor of the Journal of General Physiology.](https://player.fm/series/sounds-physiological/peering-into-the-black-box-bertil-hille)  
-2.  [Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." *Nature neuroscience* 3.11 (2000): 1165-1165.](https://www.nature.com/articles/nn1100_1165) (short, easy read)
+1.  <a href="https://player.fm/series/sounds-physiological/peering-into-the-black-box-bertil-hille">Peering into the black box. An interview with Bertill Hille, a Sounds Physiological podcast by Liz Adler, Executive Editor of the Journal of General Physiology.</a>  
+2.  <a href="https://www.nature.com/articles/nn1100_1165">Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." <em>Nature neuroscience</em> 3.11 (2000): 1165-1165.</a> (short, easy read)
 3.  Hille Chapter 2 "Classical biophysics of the squid giant axon" (long, but worth the effort)
-4.  [Bean, B. P. (2007). The action potential in mammalian central neurons. *Nature Reviews Neuroscience*, *8*(6), 451-465. ](//www.nature.com/articles/nrn2148)
+4.  <a href="//www.nature.com/articles/nrn2148">Bean, B. P. (2007). The action potential in mammalian central neurons. <em>Nature Reviews Neuroscience</em>, <em>8</em>(6), 451-465. </a>
 5.  "The Hodgkin-Huxley model" by Nelson and Rinzel. This is Ch 4 of "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System" by James M. Bower and David Beeman
 
 ## Fall 2024 Materials

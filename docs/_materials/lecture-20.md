@@ -12,14 +12,14 @@ lecture_rank: 200
 
 ## Required Reading
 
-- **Spatial frequency analysis in vision** by Oliver Braddick. [\[PDF\]](../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf)
-- Look at Figures 1 and 2 of **Do we know what the early visual system does?** by Carandini et al. [\[PDF\]](../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf)
-- Look at Figures 1 and 3 of **Understanding the retinal basis of vision across species** by Baden et. al. [\[PDF\]](../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf)
+- <strong>Spatial frequency analysis in vision</strong> by Oliver Braddick. <a href="../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf">PDF</a>
+- Look at Figures 1 and 2 of <strong>Do we know what the early visual system does?</strong> by Carandini et al. <a href="../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf">PDF</a>
+- Look at Figures 1 and 3 of <strong>Understanding the retinal basis of vision across species</strong> by Baden et. al. <a href="../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf">PDF</a>
 
 ## Optional Reading
 
-- <span style="color: var(--color-text);">**Visual responses of ganglion cells** by Ralph Nelson</span>. [\[PDF\]](../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf)
-- **Color Vision: Almost Reason Enough for Having Eyes** by Neitz et al. [\[PDF\]](../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf)
+- <span style="color: var(--color-text);"><strong>Visual responses of ganglion cells</strong> by Ralph Nelson</span>. <a href="../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf">PDF</a>
+- <strong>Color Vision: Almost Reason Enough for Having Eyes</strong> by Neitz et al. <a href="../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf">PDF</a>
 
 ## Fall 2025 Slides
 
@@ -31,7 +31,7 @@ lecture_rank: 200
 
 ## Further Reading and Watching
 
-- *A Walk-through of the Mammalian Visual System* by R. Clay Reid
+- <em>A Walk-through of the Mammalian Visual System</em> by R. Clay Reid
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -39,7 +39,7 @@ https://youtu.be/mtPgW1ebxmE
 </div>
 </figure>
 
-- *Retinal Direction Selectivity Is Reversed by Visual Stimulation* by Michal Rivlin-Etzion and Marla Feller
+- <em>Retinal Direction Selectivity Is Reversed by Visual Stimulation</em> by Michal Rivlin-Etzion and Marla Feller
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -47,7 +47,7 @@ https://youtu.be/AC9nSsFd-J4
 </div>
 </figure>
 
-- *Visual Attention and Consciousness* by Christoff Koch
+- <em>Visual Attention and Consciousness</em> by Christoff Koch
 
 ## Fall 2024 Materials
 

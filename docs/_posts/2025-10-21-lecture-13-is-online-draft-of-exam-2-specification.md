@@ -10,7 +10,7 @@ lecture_rank: 131
 
 Due to the power outage, the lecture today is online and asynchronous. You can find a 2-part video and slides on the blog page <a href="../../pages/lecture-13/" data-type="page" data-id="161">The Morris-Lecar Phase Plane – Type 1 vs 2 excitability and oscillations</a>.
 
-**Remember that it is very important to keep up with the readings for this unit**. The lectures are expository and represent important topics, but the lectures are not comprehensive. Below, I've attached a draft specification for Exam 2. Use this to guide your close reading of the text. **Required reading so far has included Chapters 12-18.**
+<strong>Remember that it is very important to keep up with the readings for this unit</strong>. The lectures are expository and represent important topics, but the lectures are not comprehensive. Below, I've attached a draft specification for Exam 2. Use this to guide your close reading of the text. <strong>Required reading so far has included Chapters 12-18.</strong>
 
 <div class="wp-block-file">
 

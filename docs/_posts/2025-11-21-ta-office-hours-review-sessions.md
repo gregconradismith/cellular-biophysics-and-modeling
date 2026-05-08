@@ -21,11 +21,11 @@ https://cwm.zoom.us/my/ssakly
 </div>
 </figure>
 
-**SCHEDULE:**
+<strong>SCHEDULE:</strong>
 
-**Tuesday 25th : 5:30 PM to 7:00 PM:**
+<strong>Tuesday 25th: 5:30 PM to 7:00 PM:</strong>
 
-*Lectures 1 to 7:*
+<em>Lectures 1 to 7:</em>
 
 1.  Biophysics, dynamics, and organization of the brain
 2.  Qualitative analysis and characteristic times
@@ -35,9 +35,9 @@ https://cwm.zoom.us/my/ssakly
 6.  GHK current equation and rectification
 7.  Voltage- dependent currents and membrane bistability
 
-**Wednesday 26th: 6:30 PM to 8:00 PM:**
+<strong>Wednesday 26th: 6:30 PM to 8:00 PM:</strong>
 
-*Lectures 8 - 14*
+<em>Lectures 8 - 14</em>
 
 1.  Fold, transcritical and pitchfork bifurcations
 2.  Voltage clamp recording and Hodgkin-Huxley equations
@@ -47,9 +47,9 @@ https://cwm.zoom.us/my/ssakly
 6.  The Morris- Lecar phase plane, type 2 and type 1 oscilaltions and excitability
 7.  Square Wave electrical bursting and homoclinic bifurcations
 
-**Monday 2nd : 6:00 PM to 7:00 PM**
+<strong>Monday 2nd: 6:00 PM to 7:00 PM</strong>
 
-*Lecture 15 to 21:*
+<em>Lecture 15 to 21:</em>
 
 1.  Elliptical and Parabolic bursting, the low threshold calcium current and PIR bursting delta oscillations
 2.  Somatogastric ganglion, half-center oscillators, escape vs. release dynamics

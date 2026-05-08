@@ -12,12 +12,12 @@ lecture_rank: 160
 
 ## Required Reading
 
-- **Synaptic Currents.**  Chapter 20 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
-- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 **Identifiable Cells in the Crustacean Stomatogastric Ganglion**. [\[PDF\]](../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf)
+- <strong>Synaptic Currents.</strong>  Chapter 20 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 <strong>Identifiable Cells in the Crustacean Stomatogastric Ganglion</strong>. <a href="../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf">PDF</a>
 
 ## <span style="color: var(--color-text);">Required Watching</span>
 
-- Katie Wilkinson (SJSU) lecture on **Central Pattern Generators.**
+- Katie Wilkinson (SJSU) lecture on <strong>Central Pattern Generators.</strong>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -25,7 +25,7 @@ https://youtu.be/ZA0URG5jcdM
 </div>
 </figure>
 
-- Watch video **Introduction to Central Pattern Generators: Lessons from Small Rythmic Circuits - Part 1: Variability, Compensation, Modulation, and Homeostasis** by Eve Marder (Brandeis University).
+- Watch video <strong>Introduction to Central Pattern Generators: Lessons from Small Rythmic Circuits - Part 1: Variability, Compensation, Modulation, and Homeostasis</strong> by Eve Marder (Brandeis University).
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -69,9 +69,9 @@ https://youtu.be/njlT59XJ_e8
 
 ## Optional Reading and Resources
 
-- **Scholarpedia article on "Stomatogastric Ganglion."** [\[Article\]](http://www.scholarpedia.org/article/Stomatogastric_ganglion)
-- **Gross Dissection of the Stomach of the Lobster, Homarus Americanus.** [\[JoVE\]](http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus)
-- **Homarus Americanus Stomatogastric Nervous System Dissection.** [\[JoVE\]](http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection)
+- <strong>Scholarpedia article on "Stomatogastric Ganglion."</strong> <a href="http://www.scholarpedia.org/article/Stomatogastric_ganglion">Article</a>
+- <strong>Gross Dissection of the Stomach of the Lobster, Homarus Americanus.</strong> <a href="http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus">JoVE</a>
+- <strong>Homarus Americanus Stomatogastric Nervous System Dissection.</strong> <a href="http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection">JoVE</a>
 
 ## Fall 2024 Materials
 

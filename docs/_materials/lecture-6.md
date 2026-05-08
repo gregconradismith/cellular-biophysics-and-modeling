@@ -12,8 +12,8 @@ lecture_rank: 60
 
 ## Required Reading
 
-1.  **GHK Theory of Membrane Permeation.** Chapter 9 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
-2.  Corry, Ben. **Understanding ion channel selectivity and gating and their role in cellular signalling.** *Molecular Biosystems* 2.11 (2006): 527-535. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/17216034/)
+1.  <strong>GHK Theory of Membrane Permeation.</strong> Chapter 9 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+2.  Corry, Ben. <strong>Understanding ion channel selectivity and gating and their role in cellular signalling.</strong> <em>Molecular Biosystems</em> 2.11 (2006): 527-535. <a href="https://pubmed.ncbi.nlm.nih.gov/17216034/">PubMed</a>
 
 ## Fall 2025 Slides
 
@@ -25,7 +25,7 @@ lecture_rank: 60
 
 ## Optional Reading and Resources
 
-1.  For more on GHK current and voltage equation derivations, read pp. 445-453 from Chapter 14, **Selective Permeability: Independence**, of *Ionic Channels of Excitable Membranes* by Bertil Hille. [\[PDF\]](../readings/)
+1.  For more on GHK current and voltage equation derivations, read pp. 445-453 from Chapter 14, <strong>Selective Permeability: Independence</strong>, of <em>Ionic Channels of Excitable Membranes</em> by Bertil Hille. <a href="../readings/">PDF</a>
 
 ## Fall 2024 Materials
 

@@ -7,9 +7,9 @@ permalink: "/posts/problem-set-3-is-due-thursday-october-23-helpful-videos/"
 render_with_liquid: false
 ---
 
-Here are two videos that will help with question 2 on Problem Set \#3 (see Bb). **They show how to determine direction of flow in the phase plane when one variable is a fast (activation) variable and the other is a slow (recovery) variable.**\
+Here are two videos that will help with question 2 on Problem Set \#3 (see Bb). <strong>They show how to determine direction of flow in the phase plane when one variable is a fast (activation) variable and the other is a slow (recovery) variable.</strong>\
 \
-Remember **PS#3 is due Thursday, October 23.** The problem set will require several hours to complete, but it should not be terribly difficult **provided you have done the assigned required readings** for the last several lectures.
+Remember <strong>PS#3 is due Thursday, October 23.</strong> The problem set will require several hours to complete, but it should not be terribly difficult <strong>provided you have done the assigned required readings</strong> for the last several lectures.
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">

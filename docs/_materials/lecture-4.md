@@ -12,11 +12,11 @@ lecture_rank: 40
 
 ## Required Reading
 
-1.  **The Nernst Equilibrium Potential.**  Chapter 7 of *Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.* [\[DOI\]](https://doi.org/10.1017/9780511793905)
+1.  <strong>The Nernst Equilibrium Potential.</strong>  Chapter 7 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
 ## Optional Reading and Resources
 
-1.  **Two-pore domain K⁺ channels regulate membrane potential of isolated human articular chondrocytes.** Clark RB, Kondo C, Belke DD, Giles WR. *J Physiol.* 2011;589 (Pt 21):5071-89. [\[PubMed\]](https://pubmed.ncbi.nlm.nih.gov/21911614/)
+1.  <strong>Two-pore domain K⁺ channels regulate membrane potential of isolated human articular chondrocytes.</strong> Clark RB, Kondo C, Belke DD, Giles WR. <em>J Physiol.</em> 2011;589 (Pt 21):5071-89. <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">PubMed</a>
 
 ## Fall 2025 Slides
 
