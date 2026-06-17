@@ -5,6 +5,7 @@ date: "1970-01-01"
 slug: "calendar"
 permalink: "/pages/calendar/"
 render_with_liquid: false
+layout: calendar
 ---
 
 ## Unit 1
