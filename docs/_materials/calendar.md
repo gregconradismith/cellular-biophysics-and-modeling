@@ -7,65 +7,36 @@ permalink: "/pages/calendar/"
 render_with_liquid: false
 ---
 
-This overview lists the major course topics, assignments, and exams in sequence.
-
 ## Unit 1
 
-1. <a href="../lecture-1/">Biophysics, dynamics, and organization of the brain</a>
-2. <a href="../lecture-2/">Qualitative analysis and characteristic times</a>
-3. <a href="../lecture-3/">Compartment modeling, phase diagrams, exponential relaxation, physical dimensions</a>
-4. <a href="../lecture-4/">Nernst equilibrium potential and GHK voltage equation</a>
-5. <a href="../lecture-5/">RC circuit theory of plasma membrane</a>
-
-<strong>Problem Set 1</strong>
-
-6. <a href="../lecture-6/">GHK current equation and rectification</a>
-7. <a href="../lecture-7/">Voltage-dependent currents and membrane bistability</a>
-
-<strong>Problem Set 2</strong>
-
-8. <a href="../lecture-8/">Fold, transcritical, and pitchfork bifurcations</a>
+- <a href="../lecture-1/">Lecture 1: Biophysics, dynamics, neuron doctrines, and organization of the brain</a>
+- <a href="../lecture-2/">Lecture 2: Post-Synaptic Potentials, Qualitative Analysis, Characteristic Times</a>
+- <a href="../lecture-3/">Lecture 3: Compartmental modeling, physical dimensions, phase diagrams, calcium influx experiment</a>
+- <a href="../lecture-4/">Lecture 4: Nernst equilibrium potentials and the GHK voltage equation</a>
+- <a href="../lecture-5/">Lecture 5: The current balance equation for membrane voltage</a>
+- <a href="../lecture-6/">Lecture 6: Goldman-Hodgkin-Katz theory</a>
+- <a href="../lecture-7/">Lecture 7: Voltage-dependent currents and bistability</a>
+- <a href="../lecture-8/">Lecture 8: Bifurcation diagrams</a>
 
 ## Unit 2
 
-9. No new material / review
-
-<strong>Exam 1: Lectures 1 through 8</strong>
-
-<a href="../../posts/exam-1-specification/">Exam 1 specification</a>
-
-10. <a href="../lecture-9/">Voltage-clamp recording and Hodgkin-Huxley equations</a>
-11. <a href="../lecture-10/">The Morris-Lecar model and phase plane</a>
-12. <a href="../lecture-11/">Phase plane analysis of 2D ODE systems</a>
-13. <a href="../lecture-12/">The FitzHugh-Nagumo model, phase plane, and linear stability analysis</a>
-14. <a href="../lecture-13/">The Morris-Lecar phase plane, type 2 and type 1 oscillations and excitability</a>
-15. <a href="../lecture-14/">Square-wave electrical bursting and homoclinic bifurcations</a>
-
-<strong>Problem Set 3</strong>
-
-16. <a href="../lecture-15/">Elliptical and parabolic bursting, the low-threshold calcium current, PIR bursting, and delta oscillations</a>
-
-<strong>Exam 2</strong>
+- <a href="../lecture-9/">Lecture 9: Voltage-clamp recording and the classical biophysics of the squid giant axon</a>
+- <a href="../lecture-10/">Lecture 10: The Morris-Lecar model and phase plane</a>
+- <a href="../lecture-11/">Lecture 11: Phase plane analysis of 2D ODE systems</a>
+- <a href="../lecture-12/">Lecture 12: The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane</a>
+- <a href="../lecture-13/">Lecture 13: The Morris-Lecar Phase Plane - Type 1 vs 2 excitability and oscillations</a>
+- <a href="../lecture-14/">Lecture 14: Square-wave bursting and homoclinic bifurcations</a>
+- <a href="../lecture-15/">Lecture 15: Elliptical and Parabolic Bursting, The Low-Threshold Calcium Current and PIR Bursting, Delta Oscillations</a>
 
 ## Unit 3
 
-17. No class
-18. <a href="../lecture-16/">Somatogastric ganglion, half-center oscillators, escape vs. release dynamics</a>
-19. <a href="../lecture-17/">Network properties of the thalamus</a>
-20. <a href="../lecture-18/">EEG and sensory gating</a>
-21. <a href="../lecture-19-2/">Local field potentials, hippocampal place cells, theta rhythm</a>
+- <a href="../lecture-16/">Lecture 16: Central Pattern Generators, Stomatogastric Ganglion, Half-Center Oscillators, Release vs. Escape Dynamics</a>
+- <a href="../lecture-17/">Lecture 17: Network properties of the thalamus - spindles and absence seizures</a>
+- <a href="../lecture-18/">Lecture 18: EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function</a>
+- <a href="../lecture-19-2/">Lecture 19: Local field potentials, unit recordings, hippocampal place cells</a>
+- <a href="../lecture-20/">Lecture 20: Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis</a>
+- <a href="../lecture-21/">Lecture 21: Inhibitory interneuron networks in cortex and cortical oscillations</a>
 
-<strong>Problem Set 4</strong> (optional)
+## Additional Lecture
 
-22. <a href="../lecture-20/">Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis</a>
-23. <a href="../lecture-21/">Inhibitory interneuron networks and cortical oscillations</a>
-
-<strong>Problem Set 5</strong> (optional)
-
-24. Last class
-
-<strong>Take-home final exam distributed</strong>
-
-25. No class; work on the final exam.
-
-<strong>Take-home final exam submission deadline</strong>
+- <a href="../lecture-x1/">Lecture X1: Basal ganglia and deep brain stimulation</a>
