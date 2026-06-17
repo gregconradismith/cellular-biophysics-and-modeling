@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
+    <article class="content-page lectures-page">
+      <div class="page-kicker">{{ page.kind | default: "Page" | capitalize }}</div>
+      <h1>{{ page.title | escape }}</h1>
+      <div class="lecture-index">
+        {% for item in lectures %}
+          {% assign lecture_title = item.title %}
+          {% if item.content contains "<h1" %}
+            {% assign lecture_title = item.content | split: "</h1>" | first | strip_html | normalize_whitespace %}
+          {% elsif item.content contains "<h2" %}
+            {% assign lecture_title = item.content | split: "</h2>" | first | strip_html | normalize_whitespace %}
+          {% endif %}
+        <article class="lecture-index-item">
+          <div class="lecture-index-number">{{ forloop.index }}</div>
+          <div class="lecture-index-body">
+            <p class="eyebrow">{{ item.title | escape }}</p>
+            <h2><a href="{{ item.url | relative_url }}">{{ lecture_title | escape }}</a></h2>
+            <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 30 }}</p>
+            <a class="lecture-index-link" href="{{ item.url | relative_url }}">Description and materials</a>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </article>
