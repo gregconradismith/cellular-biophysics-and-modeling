@@ -17,7 +17,6 @@ layout: default
           <div class="lecture-index-body">
             <p class="eyebrow">{{ item.title | escape }}</p>
             <h2><a href="{{ item.url | relative_url }}">{{ lecture_title | escape }}</a></h2>
-            <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 30 }}</p>
           </div>
         </article>
         {% endfor %}
