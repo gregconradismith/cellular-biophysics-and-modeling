@@ -219,6 +219,44 @@ main { min-height: 70vh; }
   padding: clamp(20px, 4vw, 44px);
   box-shadow: var(--shadow);
 }
+.lecture-nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 22px 0;
+}
+.lecture-nav-top { margin-top: -4px; }
+.lecture-nav-button {
+  display: flex;
+  min-height: 68px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3px;
+  padding: 12px 14px;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  color: var(--ink);
+  text-decoration: none;
+}
+.lecture-nav-button span {
+  color: var(--accent-2);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.lecture-nav-button strong {
+  overflow-wrap: anywhere;
+  line-height: 1.2;
+}
+.lecture-nav-button.next { text-align: right; }
+.lecture-nav-button:hover { background: var(--soft); }
+.lecture-nav-button.disabled {
+  border-color: var(--line);
+  color: var(--muted);
+}
+.lecture-nav-button.disabled span { color: var(--muted); }
 .wp-content h1, .wp-content h2, .wp-content h3 { line-height: 1.15; margin-top: 1.5em; }
 .wp-content h1:first-child, .wp-content h2:first-child, .wp-content h3:first-child { margin-top: 0; }
 .wp-content p, .wp-content li { max-width: 78ch; }
@@ -287,5 +325,7 @@ main { min-height: 70vh; }
   .hero, .two-column { grid-template-columns: 1fr; }
   .hero { min-height: 0; }
   .hero img { order: -1; max-height: 340px; }
+  .lecture-nav { grid-template-columns: 1fr; }
+  .lecture-nav-button.next { text-align: left; }
   .site-footer { flex-direction: column; }
 }

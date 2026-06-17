@@ -1,10 +1,54 @@
 ---
 layout: default
 ---
+{% if page.lecture_rank %}
+  {% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
+  {% assign previous_lecture = nil %}
+  {% assign next_lecture = nil %}
+  {% assign found_current = false %}
+  {% for lecture in lectures %}
+    {% if found_current and next_lecture == nil %}
+      {% assign next_lecture = lecture %}
+    {% endif %}
+    {% if lecture.url == page.url %}
+      {% assign found_current = true %}
+    {% elsif found_current == false %}
+      {% assign previous_lecture = lecture %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
     <article class="content-page">
       <div class="page-kicker">{{ page.kind | default: "Page" | capitalize }}{% if page.kind == "post" and page.date %} &middot; {{ page.date | date: "%b %-d, %Y" }}{% endif %}</div>
       <h1>{{ page.title | escape }}</h1>
+      {% if page.lecture_rank %}
+      <nav class="lecture-nav lecture-nav-top" aria-label="Lecture navigation">
+        {% if previous_lecture %}
+        <a class="lecture-nav-button previous" href="{{ previous_lecture.url | relative_url }}"><span>Previous</span><strong>{{ previous_lecture.title | escape }}</strong></a>
+        {% else %}
+        <span class="lecture-nav-button previous disabled"><span>Previous</span><strong>Start of sequence</strong></span>
+        {% endif %}
+        {% if next_lecture %}
+        <a class="lecture-nav-button next" href="{{ next_lecture.url | relative_url }}"><span>Next</span><strong>{{ next_lecture.title | escape }}</strong></a>
+        {% else %}
+        <span class="lecture-nav-button next disabled"><span>Next</span><strong>End of sequence</strong></span>
+        {% endif %}
+      </nav>
+      {% endif %}
       <div class="wp-content">
 {{ content }}
       </div>
+      {% if page.lecture_rank %}
+      <nav class="lecture-nav lecture-nav-bottom" aria-label="Lecture navigation">
+        {% if previous_lecture %}
+        <a class="lecture-nav-button previous" href="{{ previous_lecture.url | relative_url }}"><span>Previous</span><strong>{{ previous_lecture.title | escape }}</strong></a>
+        {% else %}
+        <span class="lecture-nav-button previous disabled"><span>Previous</span><strong>Start of sequence</strong></span>
+        {% endif %}
+        {% if next_lecture %}
+        <a class="lecture-nav-button next" href="{{ next_lecture.url | relative_url }}"><span>Next</span><strong>{{ next_lecture.title | escape }}</strong></a>
+        {% else %}
+        <span class="lecture-nav-button next disabled"><span>Next</span><strong>End of sequence</strong></span>
+        {% endif %}
+      </nav>
+      {% endif %}
     </article>
