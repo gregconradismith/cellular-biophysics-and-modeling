@@ -1,11 +1,11 @@
 ---
-title: "Lecture X1"
+title: "Lecture 22"
 kind: "page"
 date: "1970-01-01"
-slug: "lecture-x1"
-permalink: "/pages/lecture-x1/"
+slug: "lecture-22"
+permalink: "/pages/lecture-22/"
 render_with_liquid: false
-lecture_rank: 901
+lecture_rank: 220
 ---
 
 # Basal ganglia and deep brain stimulation
