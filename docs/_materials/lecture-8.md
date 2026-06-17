@@ -35,6 +35,18 @@ lecture_rank: 80
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Saddle-node bifurcation</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gfR4_l5HV8" title="DelNegroLecture05 SaddleNodeBifurcation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Transcritical bifurcation</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XASCX1RL6LA" title="DelNegroLecture05 TranscriticalBifurcation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Supercritical pitchfork bifurcation</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqGN1DC1cL0" title="DelNegroLecture05 SupercriticalPitchforkBifurcation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/09/Lecture8_GHK.pdf" id="wp-block-file--lecture-8-2024-lecture8-ghk">Lecture 8 2024 slides: GHK</a><a href="../../wp-content/uploads/2024/09/Lecture8_GHK.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-8-2024-lecture8-ghk">Download</a>

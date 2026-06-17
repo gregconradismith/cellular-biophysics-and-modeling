@@ -96,6 +96,10 @@ For more information on <em>phase plane analysis</em> see Sections 7.1-7.5 by Ed
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Phase plane analysis tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZQwe-gmuqk" title="DelNegroLecture13 PhasePlaneAnalysisTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf" id="wp-block-file--lecture-11-2024-lecture11-1-voltageclamphh">Lecture 11 2024 slides part 1: Voltage Clamp and Hodgkin-Huxley</a><a href="../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-lecture11-1-voltageclamphh">Download</a>

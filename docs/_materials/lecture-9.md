@@ -71,6 +71,10 @@ http://www.youtube.com/watch?v=1SJzwT8v2AU
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Hodgkin-Huxley tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpOZ5zYPxy8" title="DelNegroLecture11 HodgkinHuxleyTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf" id="wp-block-file--lecture-9-2024-lecture9-vgated-currents">Lecture 9 2024 slides: Voltage-Gated Currents</a><a href="../../wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-9-2024-lecture9-vgated-currents">Download</a>

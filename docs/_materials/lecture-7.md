@@ -34,6 +34,10 @@ lecture_rank: 70
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Voltage-dependent currents tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdm1IWTksss" title="DelNegroLecture09 VoltageDependentCurrentsTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf" id="wp-block-file--lecture-7-2024-lecture7-currentbalancepassiveneuronode">Lecture 7 2024 slides: Current Balance and Passive Neuron ODE</a><a href="../../wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-7-2024-lecture7-currentbalancepassiveneuronode">Download</a>

@@ -35,6 +35,22 @@ lecture_rank: 150
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Elliptic and parabolic bursting tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxYRX6NdftI" title="DelNegroLecture17 EllipticParabolicBurstingTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Low-threshold calcium spikes tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-N0MuwE9Ug" title="DelNegroLecture18 LowThresholdCalciumSpikesTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Low-threshold calcium spikes full lecture</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jaY_4IzMAB0" title="DelNegroLecture18 LowThresholdCalciumSpikesFullLecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Low-threshold calcium spikes board demo</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_J4w14n2GSk" title="DelNegroLecture18 LowThresholdCalciumSpikesBoardDemo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/11/Lecture15-(MorrisLecar2types).pdf" id="wp-block-file--lecture-15-2024-lecture15-morrislecar2types">Lecture 15 2024 slides: Morris-Lecar Type 1 and Type 2</a><a href="../../wp-content/uploads/2024/11/Lecture15-(MorrisLecar2types).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-15-2024-lecture15-morrislecar2types">Download</a>

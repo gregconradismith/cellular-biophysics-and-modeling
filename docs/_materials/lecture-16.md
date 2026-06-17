@@ -75,6 +75,14 @@ https://youtu.be/njlT59XJ_e8
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Escape and release in LTS-capable neurons</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zK8Re4Ix_jI" title="DelNegroLecture20 EscapeReleaseLTSCapableNeurons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p><strong>Fall 2024 mini-lecture: Central pattern generators and horse gaits</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZ2aD0azUK8" title="DelNegroLecture20 CentralPatternGeneratorsHorseGaits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf" id="wp-block-file--lecture-16-2024-lecture16-newbifsbursting">Lecture 16 2024 slides: New Bifurcations and Bursting</a><a href="../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-16-2024-lecture16-newbifsbursting">Download</a>

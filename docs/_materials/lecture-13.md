@@ -44,6 +44,10 @@ https://youtu.be/p8k5ueoHyZs
 
 ## Fall 2024 Materials
 
+<p><strong>Fall 2024 mini-lecture: Morris-Lecar type 1 excitability tutorial</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KmCsgUlrLso" title="DelNegroLecture15 MorrisLecarType1ExcitabilityTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class="wp-block-file">
 
 <a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" id="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems</a><a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Download</a>
