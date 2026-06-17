@@ -13,17 +13,11 @@ layout: default
           {% elsif item.content contains "<h2" %}
             {% assign lecture_title = item.content | split: "</h2>" | first | strip_html | normalize_whitespace %}
           {% endif %}
-        <article class="lecture-index-item{% if item.slug == 'lecture-1' %} is-reduced{% endif %}">
-          {% unless item.slug == "lecture-1" %}
-          <div class="lecture-index-number">{{ forloop.index }}</div>
-          {% endunless %}
+        <article class="lecture-index-item">
           <div class="lecture-index-body">
             <p class="eyebrow">{{ item.title | escape }}</p>
             <h2><a href="{{ item.url | relative_url }}">{{ lecture_title | escape }}</a></h2>
             <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 30 }}</p>
-            {% unless item.slug == "lecture-1" %}
-            <a class="lecture-index-link" href="{{ item.url | relative_url }}">Description and materials</a>
-            {% endunless %}
           </div>
         </article>
         {% endfor %}

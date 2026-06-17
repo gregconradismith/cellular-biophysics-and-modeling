@@ -177,25 +177,13 @@ main { min-height: 70vh; }
 }
 .lecture-index-item {
   display: grid;
-  grid-template-columns: 54px minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 18px;
   padding: clamp(18px, 3vw, 26px);
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 8px;
   box-shadow: 0 8px 22px rgba(28, 31, 34, .05);
-}
-.lecture-index-item.is-reduced {
-  grid-template-columns: minmax(0, 1fr);
-}
-.lecture-index-number {
-  display: grid;
-  place-items: center;
-  width: 42px;
-  height: 42px;
-  background: var(--soft);
-  color: var(--accent-2);
-  font-weight: 800;
 }
 .lecture-index-body h2 {
   margin: 0 0 8px;
@@ -305,7 +293,6 @@ main { min-height: 70vh; }
   .site-header { position: static; align-items: flex-start; flex-direction: column; }
   nav { justify-content: flex-start; }
   .hero, .two-column { grid-template-columns: 1fr; }
-  .lecture-index-item { grid-template-columns: 1fr; }
   .hero { min-height: 0; }
   .hero img { order: -1; max-height: 340px; }
   .site-footer { flex-direction: column; }
