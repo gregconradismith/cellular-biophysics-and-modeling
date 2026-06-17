@@ -185,6 +185,9 @@ main { min-height: 70vh; }
   border-radius: 8px;
   box-shadow: 0 8px 22px rgba(28, 31, 34, .05);
 }
+.lecture-index-item.is-reduced {
+  grid-template-columns: minmax(0, 1fr);
+}
 .lecture-index-number {
   display: grid;
   place-items: center;
