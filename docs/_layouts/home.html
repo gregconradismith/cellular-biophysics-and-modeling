@@ -1,56 +1,25 @@
 ---
 layout: default
 ---
-{% assign featured_slugs = "about,fall-2025-calendar,syllabus,readings,slides,videos,the-polyqual-game" | split: "," %}
-{% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
     <section class="hero">
       <div class="hero-copy">
         <h1>{{ site.title | escape }}</h1>
         <p>{{ site.description | escape }}.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="{{ '/pages/fall-2025-calendar/' | relative_url }}">View overview</a>
-          <a class="button" href="{{ '/pages/' | relative_url }}">Browse materials</a>
-        </div>
+        <nav class="hero-nav" aria-label="Course pages">
+          <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
+          <a href="{{ '/pages/calendar/' | relative_url }}">Calendar</a>
+          <a href="{{ '/pages/lectures/' | relative_url }}">Lectures</a>
+        </nav>
       </div>
       <img src="{{ '/wp-content/uploads/2018/11/cbpprimergraphicrectangle-001.jpeg' | relative_url }}" alt="Cellular Biophysics and Modeling primer artwork">
     </section>
 
     <section class="section">
       <div class="section-heading">
-        <p class="eyebrow">Core course pages</p>
-        <h2>Start here</h2>
+        <p class="eyebrow">Recent posts</p>
+        <h2>Course updates</h2>
       </div>
       <div class="card-grid">
-        {% for slug in featured_slugs %}
-          {% assign item = site.materials | where: "slug", slug | first %}
-          {% if item %}
-        <article class="card feature">
-          <p class="eyebrow">Course material</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
-        </article>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </section>
-
-    <section class="section two-column">
-      <div>
-        <div class="section-heading">
-          <p class="eyebrow">{{ lectures | size }} lecture pages</p>
-          <h2>Lecture sequence</h2>
-        </div>
-        <ol class="link-list">
-          {% for item in lectures %}
-          <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a><span>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 14 }}</span></li>
-          {% endfor %}
-        </ol>
-      </div>
-      <aside class="updates-panel">
-        <div class="section-heading">
-          <p class="eyebrow">Recent posts</p>
-          <h2>Course updates</h2>
-        </div>
         {% for item in site.posts limit: 6 %}
         <article class="card">
           <p class="eyebrow">{{ item.date | date: "%b %-d, %Y" }}</p>
@@ -58,5 +27,5 @@ layout: default
           <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
         </article>
         {% endfor %}
-      </aside>
+      </div>
     </section>

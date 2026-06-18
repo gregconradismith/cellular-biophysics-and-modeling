@@ -86,19 +86,19 @@ main { min-height: 70vh; }
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
 }
-.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
-.button {
-  display: inline-flex;
-  min-height: 44px;
-  align-items: center;
-  justify-content: center;
-  padding: 10px 16px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
-  text-decoration: none;
-  font-weight: 700;
+.hero-nav {
+  justify-content: flex-start;
+  gap: 16px;
+  margin-top: 28px;
 }
-.button.primary { background: var(--accent); color: white; }
+.hero-nav a {
+  padding: 0 0 4px;
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-size: 18px;
+  font-weight: 800;
+}
+.hero-nav a:hover { color: var(--ink); }
 .section, .listing {
   padding: clamp(34px, 6vw, 70px) clamp(18px, 4vw, 56px);
 }
