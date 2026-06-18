@@ -2,10 +2,13 @@
 layout: default
 ---
     <section class="hero home-hero">
-      <div class="hero-banner" role="img" aria-label="Cellular Biophysics and Modeling primer artwork"></div>
+      <div class="hero-banner" role="img" aria-label="Cellular Biophysics and Modeling primer artwork">
+        <div class="hero-banner-copy">
+          <h1>{{ site.title | escape }}</h1>
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
       <div class="hero-copy">
-        <h1>{{ site.title | escape }}</h1>
-        <p>{{ site.description | escape }}</p>
         <nav class="hero-nav" aria-label="Course pages">
           <a href="{{ '/pages/about/' | relative_url }}">About</a>
           <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
