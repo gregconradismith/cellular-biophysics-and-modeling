@@ -10,14 +10,14 @@ layout: calendar
 
 ## Unit 1
 
-### Week 1
+### Week 0
 
 - Thursday, August 27<br>
   <a href="../lecture-1/">Biophysics, dynamics, neuron doctrines, and organization of the brain (Lecture 1)</a>
 
 ---
 
-### Week 2
+### Week 1
 
 - Tuesday, September 01<br>
   <a href="../lecture-2/">Post-Synaptic Potentials, Qualitative Analysis, Characteristic Times (Lecture 2)</a>
@@ -26,7 +26,7 @@ layout: calendar
 
 ---
 
-### Week 3
+### Week 2
 
 - Tuesday, September 08<br>
   <a href="../lecture-4/">Nernst equilibrium potentials and the GHK voltage equation (Lecture 4)</a>
@@ -35,7 +35,7 @@ layout: calendar
 
 ---
 
-### Week 4
+### Week 3
 
 - Tuesday, September 15<br>
   <a href="../lecture-5/">The current balance equation for membrane voltage (Lecture 5)</a>
@@ -44,7 +44,7 @@ layout: calendar
 
 ---
 
-### Week 5
+### Week 4
 
 - Tuesday, September 22<br>
   <a href="../lecture-7/">Voltage-dependent currents and bistability (Lecture 7)</a>
@@ -55,7 +55,7 @@ layout: calendar
 
 ## Unit 2
 
-### Week 6
+### Week 5
 
 - Tuesday, September 29<br>
   <a href="../lecture-9/">Voltage-clamp recording and the classical biophysics of the squid giant axon (Lecture 9)</a>
@@ -64,7 +64,7 @@ layout: calendar
 
 ---
 
-### Week 7
+### Week 6
 
 - Tuesday, October 06<br>
   <a href="../lecture-11/">Phase plane analysis of 2D ODE systems (Lecture 11)</a>
@@ -73,7 +73,7 @@ layout: calendar
 
 ---
 
-### Week 8
+### Week 7
 
 - Tuesday, October 13<br>
   <a href="../lecture-12/">The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane (Lecture 12)</a>
@@ -82,7 +82,7 @@ layout: calendar
 
 ---
 
-### Week 9
+### Week 8
 
 - Tuesday, October 20<br>
   <a href="../lecture-13/">The Morris-Lecar Phase Plane - Type 1 vs 2 excitability and oscillations (Lecture 13)</a>
@@ -93,7 +93,7 @@ layout: calendar
 
 ## Unit 3
 
-### Week 10
+### Week 9
 
 - Tuesday, October 27<br>
   <a href="../lecture-15/">Elliptical and Parabolic Bursting, The Low-Threshold Calcium Current and PIR Bursting, Delta Oscillations (Lecture 15)</a>
@@ -102,7 +102,7 @@ layout: calendar
 
 ---
 
-### Week 11
+### Week 10
 
 - Tuesday, November 03<br>
   <span class="calendar-note">No class, Election Day</span>
@@ -111,7 +111,7 @@ layout: calendar
 
 ---
 
-### Week 12
+### Week 11
 
 - Tuesday, November 10<br>
   <span class="calendar-note">To be determined</span>
@@ -120,7 +120,7 @@ layout: calendar
 
 ---
 
-### Week 13
+### Week 12
 
 - Tuesday, November 17<br>
   <a href="../lecture-19-2/">Local field potentials, unit recordings, hippocampal place cells (Lecture 19)</a>
@@ -129,7 +129,7 @@ layout: calendar
 
 ---
 
-### Week 14
+### Week 13
 
 - Tuesday, November 24<br>
   <a href="../lecture-21/">Inhibitory interneuron networks in cortex and cortical oscillations (Lecture 21)</a>
@@ -138,7 +138,7 @@ layout: calendar
 
 ---
 
-### Week 15
+### Week 14
 
 - Tuesday, December 01<br>
   <a href="../lecture-22/">Basal ganglia and deep brain stimulation (Lecture 22)</a>
