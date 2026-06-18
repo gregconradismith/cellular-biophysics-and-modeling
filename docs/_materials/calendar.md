@@ -69,7 +69,7 @@ layout: calendar
 - Tuesday, October 06<br>
   <a href="../lecture-11/">Phase plane analysis of 2D ODE systems (Lecture 11)</a>
 - Thursday, October 08<br>
-  No class, Fall Break
+  <span class="calendar-note">No class, Fall Break</span>
 
 ---
 
@@ -105,7 +105,7 @@ layout: calendar
 ### Week 11
 
 - Tuesday, November 03<br>
-  No class, Election Day
+  <span class="calendar-note">No class, Election Day</span>
 - Thursday, November 05<br>
   <a href="../lecture-17/">Network properties of the thalamus - spindles and absence seizures (Lecture 17)</a>
 
@@ -134,7 +134,7 @@ layout: calendar
 - Tuesday, November 24<br>
   <a href="../lecture-21/">Inhibitory interneuron networks in cortex and cortical oscillations (Lecture 21)</a>
 - Thursday, November 26<br>
-  No class, Thanksgiving Break
+  <span class="calendar-note">No class, Thanksgiving Break</span>
 
 ---
 
