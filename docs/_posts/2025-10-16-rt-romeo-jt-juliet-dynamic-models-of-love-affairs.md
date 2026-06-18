@@ -7,11 +7,11 @@ permalink: "/posts/rt-romeo-jt-juliet-dynamic-models-of-love-affairs/"
 render_with_liquid: false
 ---
 
-As we have been discussing in class, 2d nonlinear dynamics of the Morris-Lecar and Fitzhugh-Nagumo models provide a deep understanding of membrane potential excitability and oscillations, much as 1d models gave insight into membrane potential bistability.\
-\
-2d linear systems are primarily of interest to neuroscientists because they allow classification of steady states (fixed points) in 2d nonlinear systems (nodes, saddles, spirals). This is the significance of the 2x2 matrix of partial derivatives that we call the "Jacobian." This classification of steady states via "linear stability analysis" is well-summarized by the trace-determinant plane.\
-\
-A lighthearted review of 2d linear systems is provided by the following paper and video on dynamical models of love affairs. Romeo's love for Juliet is given by R(t), and Juliet's love for Romeo is given by J(t). The pair (R,J) is the state space for a 2d linear system.:-)
+Two-dimensional nonlinear dynamics of the Morris-Lecar and Fitzhugh-Nagumo models provide a deep understanding of membrane potential excitability and oscillations, much as one-dimensional models give insight into membrane potential bistability.
+
+Two-dimensional linear systems are useful because they allow classification of steady states, or fixed points, in nonlinear systems: nodes, saddles, spirals, and related cases. This is the significance of the 2x2 matrix of partial derivatives called the Jacobian. The classification of steady states by linear stability analysis is summarized by the trace-determinant plane.
+
+A lighthearted review of two-dimensional linear systems is provided by the following paper and video on dynamical models of love affairs. Romeo's love for Juliet is given by \(R(t)\), and Juliet's love for Romeo is given by \(J(t)\). The pair \((R,J)\) is the state space for a two-dimensional linear system.
 
 <div class="wp-block-file">
 
