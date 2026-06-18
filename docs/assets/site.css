@@ -399,6 +399,19 @@ main { min-height: 70vh; }
   background: #f8f7f3;
   border: 1px solid var(--line);
 }
+.philosophy-quote {
+  margin: 30px 0;
+  padding: clamp(22px, 4vw, 36px);
+  background: var(--soft);
+  border-left: 6px solid var(--accent);
+}
+.philosophy-quote blockquote {
+  margin: 0;
+  color: var(--accent);
+  font-size: clamp(28px, 4vw, 46px);
+  font-weight: 800;
+  line-height: 1.12;
+}
 .wp-block-file__button, .wp-element-button {
   display: inline-flex;
   margin-left: 10px;
