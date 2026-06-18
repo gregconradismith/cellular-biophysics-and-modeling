@@ -200,6 +200,31 @@ main { min-height: 70vh; }
 }
 .link-list a { color: var(--ink); font-weight: 800; text-decoration: none; }
 .link-list span { grid-column: 2; color: var(--muted); font-size: 15px; }
+.post-list {
+  display: grid;
+  gap: 0;
+  max-width: 980px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.post-list li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 18px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.post-list a {
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
+}
+.post-list span {
+  color: var(--muted);
+  font-size: 14px;
+  white-space: nowrap;
+}
 .lectures-page {
   width: min(1080px, calc(100% - 36px));
 }

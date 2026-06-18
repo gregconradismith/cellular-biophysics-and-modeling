@@ -20,13 +20,12 @@ layout: default
         <p class="eyebrow">Recent posts</p>
         <h2>Course updates</h2>
       </div>
-      <div class="card-grid">
-        {% for item in site.posts limit: 6 %}
-        <article class="card">
-          <p class="eyebrow">{{ item.date | date: "%b %-d, %Y" }}</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
-        </article>
+      <ol class="post-list">
+        {% for item in site.posts %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
         {% endfor %}
-      </div>
+      </ol>
     </section>
