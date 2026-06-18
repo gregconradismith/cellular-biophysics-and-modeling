@@ -9,6 +9,7 @@
   <script src="{{ '/assets/site.js' | relative_url }}" defer></script>
 </head>
 <body>
+  {% unless page.hide_header %}
   <header class="site-header">
     <a class="brand" href="{{ '/' | relative_url }}">
       <span class="brand-mark">{{ site.brand_mark | default: site.title | slice: 0, 3 | escape }}</span>
@@ -20,6 +21,7 @@
       <a href="{{ '/pages/lectures/' | relative_url }}">Lectures</a>
     </nav>
   </header>
+  {% endunless %}
   <main>
 {{ content }}
   </main>

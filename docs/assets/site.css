@@ -86,19 +86,44 @@ main { min-height: 70vh; }
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
 }
+.home-hero {
+  display: block;
+  min-height: 0;
+  padding: 0;
+}
+.hero-banner {
+  min-height: clamp(220px, 34vw, 430px);
+  background:
+    linear-gradient(180deg, rgba(23, 25, 28, .06), rgba(23, 25, 28, .06)),
+    url("../wp-content/uploads/2018/11/cbpprimergraphicrectangle-001.jpeg") center / cover no-repeat;
+  border-bottom: 1px solid var(--line);
+}
+.home-hero .hero-copy {
+  padding: clamp(30px, 5vw, 60px) clamp(18px, 4vw, 56px) clamp(34px, 5vw, 64px);
+}
 .hero-nav {
   justify-content: flex-start;
-  gap: 16px;
+  gap: 14px;
   margin-top: 28px;
 }
 .hero-nav a {
-  padding: 0 0 4px;
-  color: var(--accent);
-  border-bottom-color: var(--accent);
-  font-size: 18px;
+  display: inline-flex;
+  min-height: 56px;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 22px;
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  color: white;
+  font-size: clamp(20px, 2.4vw, 28px);
   font-weight: 800;
 }
-.hero-nav a:hover { color: var(--ink); }
+.hero-nav a:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: white;
+}
 .section, .listing {
   padding: clamp(34px, 6vw, 70px) clamp(18px, 4vw, 56px);
 }
