@@ -212,6 +212,15 @@ main { min-height: 70vh; }
   text-transform: uppercase;
 }
 .calendar-page .wp-content h2:first-child { margin-top: 0; }
+.calendar-page .wp-content h3 {
+  margin: 4px 0 -8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
 .calendar-page .wp-content ul {
   display: grid;
   gap: 12px;
