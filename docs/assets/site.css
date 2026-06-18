@@ -141,6 +141,9 @@ main { min-height: 70vh; }
   line-height: 1.08;
 }
 .section-heading p:not(.eyebrow) { max-width: 780px; color: var(--muted); }
+.home-announcements .section-heading {
+  text-align: center;
+}
 .eyebrow {
   margin: 0 0 8px;
   color: var(--accent-2);
@@ -204,7 +207,7 @@ main { min-height: 70vh; }
   display: grid;
   gap: 0;
   max-width: 980px;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style: none;
 }
