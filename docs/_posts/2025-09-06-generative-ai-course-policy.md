@@ -7,20 +7,12 @@ permalink: "/posts/generative-ai-course-policy/"
 render_with_liquid: false
 ---
 
-As discussed in class, the course policy on generative AI essentially the same as collaboration with other students, that is, you are expected to be <strong>transparent about your methods</strong> of arriving at your homework answers. And the deliverable (what you turn in) is expected to be handwritten (paper or iPad) by you, not a photocopy or picture of someone else's final product.
+The course policy on generative AI is essentially the same as the policy on collaboration with other students: you are expected to be <strong>transparent about your methods</strong> of arriving at your homework answers. The deliverable is expected to be handwritten by you, either on paper or a tablet, not a photocopy or picture of someone else's final product.
 
-\(1\) By <strong>transparency</strong> I mean that you should acknowledge in your homework answers when and how you utilized generative AI. The easiest way to do this is on a question-by-question basis.\
-\
-Example: "To answer this question, I asked ChatGPT what was meant by a \`monotone' vs. 'biphasic' function. <em>The AI response indicated that a function is monotone if it is either non-decreasing or non-increasing throughout its domain, while a biphasic function has two distinct phases of response: it increases in one range of the input, but then decreases in another (or vice versa).</em> Given this, I graphed \$f(x)=x\*exp(-x)\$ in Desmos and concluded that this function is biphasic.
+By <strong>transparency</strong>, I mean that you should acknowledge in your homework answers when and how you used generative AI. The easiest way to do this is on a question-by-question basis.
 
-\(2\) Remember that assignments are EXERCISES designed to help you learn and consolidate the course material. Overuse of generative AI will short-circuit this process.
+Example: "To answer this question, I asked ChatGPT what was meant by a `monotone' vs. `biphasic' function. The AI response indicated that a function is monotone if it is either non-decreasing or non-increasing throughout its domain, while a biphasic function has two distinct phases of response. Given this, I graphed \(f(x)=x exp(-x)\) in Desmos and concluded that this function is biphasic."
 
-\(3\) Please share with me any novel or interesting ways of using generative AI.
+Remember that assignments are exercises designed to help you learn and consolidate the course material. Overuse of generative AI will short-circuit this process.
 
-## UN-COLLEGE: AI and the illusion of personhood
-
-When sharing my personal perspective on AI and society, I mentioned an unpublished essay that I wrote this summer. If you are interested, you can find the essay here (2000 words).
-
-<https://substack.com/home/post/p-166414951>
-
-I'd be delighted to read your comments, which you can leave through Substack. Note: The phrase <strong>UN-COLLEGE</strong> indicates an item or activity that is NOT part of the course material and, consequently, you should consider completely optional and/or decorative. UN-COLLEGE topics will not resurface on an exam. Engagement or disengagement on UN-COLLEGE matters will not affect your grades in any way. On the other hand, I hope my soapbox moments will be educational. At a minimum, they will give you a sense of the concerns and approach taken in my COLL 400 courses <a href="https://apsc450computationalneuroscience.com">APSC 450 Computational Neuroscience</a> and <a href="https://science-authority.com">APSC 453 Science & Authority</a>.
+Please share any novel or interesting ways of using generative AI that support genuine learning.
