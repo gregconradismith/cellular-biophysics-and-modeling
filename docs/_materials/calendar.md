@@ -25,7 +25,7 @@ layout: calendar
 - Tuesday, September 08<br>
   <a href="../lecture-4/">Nernst equilibrium potentials and the GHK voltage equation (Lecture 4)</a>
 - Thursday, September 10<br>
-  To be determined
+  <span class="calendar-note">To be determined</span>
 
 ---
 
@@ -62,7 +62,7 @@ layout: calendar
 - Tuesday, October 13<br>
   <a href="../lecture-12/">The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane (Lecture 12)</a>
 - Thursday, October 15<br>
-  To be determined
+  <span class="calendar-note">To be determined</span>
 
 ---
 
@@ -93,7 +93,7 @@ layout: calendar
 ---
 
 - Tuesday, November 10<br>
-  To be determined
+  <span class="calendar-note">To be determined</span>
 - Thursday, November 12<br>
   <a href="../lecture-18/">EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function (Lecture 18)</a>
 
@@ -116,4 +116,4 @@ layout: calendar
 - Tuesday, December 01<br>
   <a href="../lecture-22/">Basal ganglia and deep brain stimulation (Lecture 22)</a>
 - Thursday, December 03<br>
-  To be determined
+  <span class="calendar-note">To be determined</span>

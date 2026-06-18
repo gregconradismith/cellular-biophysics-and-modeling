@@ -240,6 +240,10 @@ main { min-height: 70vh; }
   color: var(--ink);
   text-decoration: none;
 }
+.calendar-page .calendar-note {
+  color: var(--ink);
+  font-style: italic;
+}
 .calendar-page .wp-content hr {
   width: 100%;
   margin: 4px 0;
