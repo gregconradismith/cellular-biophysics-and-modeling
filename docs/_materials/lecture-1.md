@@ -12,7 +12,7 @@ lecture_rank: 10
 
 ## Required Reading
 
-Note: For readings that are behind a paywall, see the password protected course page titled <a href="../readings/"><strong>Readings</strong></a>.
+Note: Copyright requires some readings to remain behind a paywall.  When this is the case, the link will direct you to the publisher, and you will find the article PDF in the electronic course packet (the location will be announced in class).
 
 1.  <strong>Apologia and Introduction</strong> of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>.  (15 pages) <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 2.  <strong>The organization of the brain.</strong> Nauta WJ, Feirtag M. <em>Sci Am.</em> 1979 Sep; 241(3):88-111. (Read the first half, pp. 17-25) <a href="https://doi.org/10.1038/scientificamerican0979-88">DOI</a>

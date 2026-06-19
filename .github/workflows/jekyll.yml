@@ -44,6 +44,11 @@ jobs:
         working-directory: docs
         run: bundle exec jekyll build --destination ../_site --baseurl "${{ steps.pages.outputs.base_path }}"
 
+      - name: Remove private artifacts from Pages output
+        run: |
+          find _site -type f -iname "*.pdf" -delete
+          rm -f _site/HANDOFF.md
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

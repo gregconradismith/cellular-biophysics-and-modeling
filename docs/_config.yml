@@ -32,5 +32,8 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - HANDOFF.md
   - vendor
   - README.md
+  - "wp-content/uploads/**/*.pdf"
+  - "wp-content/uploads/**/*.PDF"
