@@ -49,6 +49,14 @@ jobs:
           find _site -type f -iname "*.pdf" -delete
           rm -f _site/HANDOFF.md
 
+      - name: Restore public Lecture 6 PDFs
+        run: |
+          mkdir -p _site/wp-content/uploads/2025/09 _site/wp-content/uploads/2024/09
+          cp docs/wp-content/uploads/2025/09/Lecture6-GHKTheoryRectification.pdf _site/wp-content/uploads/2025/09/
+          cp docs/wp-content/uploads/2024/09/Lecture6_NernstKchannelsGHK.pdf _site/wp-content/uploads/2024/09/
+          cp docs/wp-content/uploads/2024/09/Lecture6_problemSet.pdf _site/wp-content/uploads/2024/09/
+          cp docs/wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf _site/wp-content/uploads/2024/09/
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

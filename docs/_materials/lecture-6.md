@@ -17,11 +17,7 @@ lecture_rank: 60
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/09/Lecture6-GHKTheoryRectification.pdf" id="wp-block-file--media-b1dd4320-2f79-4f9f-9bd6-a2c523bf209a">Lecture6-(GHKTheoryRectification)</a><a href="../../wp-content/uploads/2025/09/Lecture6-GHKTheoryRectification.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-b1dd4320-2f79-4f9f-9bd6-a2c523bf209a">Download</a>
-
-</div>
+[Lecture6-(GHKTheoryRectification)](../../wp-content/uploads/2025/09/Lecture6-GHKTheoryRectification.pdf)
 
 ## Optional Reading and Resources
 
@@ -29,20 +25,8 @@ lecture_rank: 60
 
 ## Fall 2024 Materials
 
-<div class="wp-block-file">
+[Lecture 6 2024 slides: Nernst, K Channels, and GHK](../../wp-content/uploads/2024/09/Lecture6_NernstKchannelsGHK.pdf)
 
-<a href="../../wp-content/uploads/2024/09/Lecture6_NernstKchannelsGHK.pdf" id="wp-block-file--lecture-6-2024-lecture6-nernstkchannelsghk">Lecture 6 2024 slides: Nernst, K Channels, and GHK</a><a href="../../wp-content/uploads/2024/09/Lecture6_NernstKchannelsGHK.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-6-2024-lecture6-nernstkchannelsghk">Download</a>
+[Lecture 6 2024 problem set](../../wp-content/uploads/2024/09/Lecture6_problemSet.pdf)
 
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/09/Lecture6_problemSet.pdf" id="wp-block-file--lecture-6-2024-lecture6-problemset">Lecture 6 2024 problem set</a><a href="../../wp-content/uploads/2024/09/Lecture6_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-6-2024-lecture6-problemset">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf" id="wp-block-file--lecture-6-2024-nernst-equilibrium-potential">Nernst equilibrium potential</a><a href="../../wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-6-2024-nernst-equilibrium-potential">Download</a>
-
-</div>
+[Nernst equilibrium potential](../../wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf)
