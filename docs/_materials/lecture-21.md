@@ -22,11 +22,7 @@ For this asynchronous online class, begin by reviewing the slides posted below (
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/11/Lecture21InhibitoryInterneuronNetworksInCortexAndCorticalOscillations.pdf" id="wp-block-file--media-fe5d6a6a-c1d9-4fb8-bd50-ca6e10f00075">Lecture21(InhibitoryInterneuronNetworksInCortexAndCorticalOscillations)</a><a href="../../wp-content/uploads/2025/11/Lecture21InhibitoryInterneuronNetworksInCortexAndCorticalOscillations.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-fe5d6a6a-c1d9-4fb8-bd50-ca6e10f00075">Download</a>
-
-</div>
+- [Lecture21(InhibitoryInterneuronNetworksInCortexAndCorticalOscillations)](../../wp-content/uploads/2025/11/Lecture21InhibitoryInterneuronNetworksInCortexAndCorticalOscillations.pdf)
 
 ## Further Reading
 

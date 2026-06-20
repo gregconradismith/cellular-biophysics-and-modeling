@@ -71,14 +71,6 @@ lecture_rank: 160
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ2aD0azUK8" title="DelNegroLecture20 CentralPatternGeneratorsHorseGaits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-file">
+- [Lecture 16 2024 slides: New Bifurcations and Bursting](<../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf>)
 
-<a href="../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf" id="wp-block-file--lecture-16-2024-lecture16-newbifsbursting">Lecture 16 2024 slides: New Bifurcations and Bursting</a><a href="../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-16-2024-lecture16-newbifsbursting">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/11/Lecture16-problemSet.pdf" id="wp-block-file--lecture-16-2024-lecture16-problemset">Lecture 16 2024 problem set</a><a href="../../wp-content/uploads/2024/11/Lecture16-problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-16-2024-lecture16-problemset">Download</a>
-
-</div>
+- [Lecture 16 2024 problem set](../../wp-content/uploads/2024/11/Lecture16-problemSet.pdf)

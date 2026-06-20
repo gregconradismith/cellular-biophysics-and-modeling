@@ -16,7 +16,7 @@ lecture_rank: 110
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
+- The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyVmFhPqEhA" title="Phase plane analysis of a nonlinear system, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -28,11 +28,7 @@ The following three videos will walk you through phase plane analysis of a 2d no
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/10/Lecture11-PhasePlaneAndLinearStabilityAnalysis.pdf" id="wp-block-file--media-89eb7b40-0d43-4696-9671-e6cd2d21609d">Lecture11-(PhasePlaneAndLinearStabilityAnalysis)</a><a href="../../wp-content/uploads/2025/10/Lecture11-PhasePlaneAndLinearStabilityAnalysis.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-89eb7b40-0d43-4696-9671-e6cd2d21609d">Download</a>
-
-</div>
+- [Lecture11-(PhasePlaneAndLinearStabilityAnalysis)](../../wp-content/uploads/2025/10/Lecture11-PhasePlaneAndLinearStabilityAnalysis.pdf)
 
 ## Optional Reading and Resources
 
@@ -72,32 +68,12 @@ For more information on <em>phase plane analysis</em> see Sections 7.1-7.5 by Ed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TZQwe-gmuqk" title="DelNegroLecture13 PhasePlaneAnalysisTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-file">
+- [Lecture 11 2024 slides part 1: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf)
 
-<a href="../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf" id="wp-block-file--lecture-11-2024-lecture11-1-voltageclamphh">Lecture 11 2024 slides part 1: Voltage Clamp and Hodgkin-Huxley</a><a href="../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-lecture11-1-voltageclamphh">Download</a>
+- [Lecture 11 2024 slides part 2: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-2_voltageClampHH.pdf)
 
-</div>
+- [Lecture 11 2024 slides part 3: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-3_voltageClampHH.pdf)
 
-<div class="wp-block-file">
+- [Lecture 11 2024 problem set](../../wp-content/uploads/2024/10/Lecture11_problemSet.pdf)
 
-<a href="../../wp-content/uploads/2024/10/Lecture11-2_voltageClampHH.pdf" id="wp-block-file--lecture-11-2024-lecture11-2-voltageclamphh">Lecture 11 2024 slides part 2: Voltage Clamp and Hodgkin-Huxley</a><a href="../../wp-content/uploads/2024/10/Lecture11-2_voltageClampHH.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-lecture11-2-voltageclamphh">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture11-3_voltageClampHH.pdf" id="wp-block-file--lecture-11-2024-lecture11-3-voltageclamphh">Lecture 11 2024 slides part 3: Voltage Clamp and Hodgkin-Huxley</a><a href="../../wp-content/uploads/2024/10/Lecture11-3_voltageClampHH.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-lecture11-3-voltageclamphh">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture11_problemSet.pdf" id="wp-block-file--lecture-11-2024-lecture11-problemset">Lecture 11 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture11_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-lecture11-problemset">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/HHmodelEquations.pdf" id="wp-block-file--lecture-11-2024-hhmodelequations">HH model equations</a><a href="../../wp-content/uploads/2024/10/HHmodelEquations.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-11-2024-hhmodelequations">Download</a>
-
-</div>
+- [HH model equations](../../wp-content/uploads/2024/10/HHmodelEquations.pdf)

@@ -18,11 +18,7 @@ lecture_rank: 191
 
 ## Fall 2025 Sides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/11/Lecture19LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm.pdf" id="wp-block-file--media-e888e077-202e-48c7-b0ab-08911bc57827">Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm)</a><a href="../../wp-content/uploads/2025/11/Lecture19LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-e888e077-202e-48c7-b0ab-08911bc57827">Download</a>
-
-</div>
+- [Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm)](../../wp-content/uploads/2025/11/Lecture19LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm.pdf)
 
 Optional Reading and Resources
 
@@ -31,8 +27,4 @@ Optional Reading and Resources
 
 ## Fall 2024 Materials
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf" id="wp-block-file--lecture-19-2024-lecture19-synapsesthalamocortical">Lecture 19 2024 slides: Synapses and Thalamocortical Networks</a><a href="../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-19-2024-lecture19-synapsesthalamocortical">Download</a>
-
-</div>
+- [Lecture 19 2024 slides: Synapses and Thalamocortical Networks](<../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf>)

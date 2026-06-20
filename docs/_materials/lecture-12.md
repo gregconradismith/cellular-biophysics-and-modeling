@@ -54,11 +54,7 @@ lecture_rank: 120
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel.pdf" id="wp-block-file--media-ce885f0e-8926-4999-b72a-a301c13f4472">Lecture12-TheFitzhughNagumoModel</a><a href="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-ce885f0e-8926-4999-b72a-a301c13f4472">Download</a>
-
-</div>
+- [Lecture12-TheFitzhughNagumoModel](../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel.pdf)
 
 ## Optional Reading and Resources 
 
@@ -67,26 +63,10 @@ lecture_rank: 120
 
 ## Fall 2024 Materials
 
-<div class="wp-block-file">
+- [Lecture 12 2024 slides part 1: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf)
 
-<a href="../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-1-morrislecar">Lecture 12 2024 slides part 1: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-1-morrislecar">Download</a>
+- [Lecture 12 2024 slides part 2: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf)
 
-</div>
+- [Lecture 12 2024 slides part 3: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf)
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-2-morrislecar">Lecture 12 2024 slides part 2: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-2-morrislecar">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf" id="wp-block-file--lecture-12-2024-lecture12-3-morrislecar">Lecture 12 2024 slides part 3: Morris-Lecar</a><a href="../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-3-morrislecar">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf" id="wp-block-file--lecture-12-2024-lecture12-problemset">Lecture 12 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-12-2024-lecture12-problemset">Download</a>
-
-</div>
+- [Lecture 12 2024 problem set](../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf)

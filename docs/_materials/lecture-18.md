@@ -17,11 +17,7 @@ lecture_rank: 180
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/11/Lecture18EEGSensoryGatingDriversModulators.pdf" id="wp-block-file--media-1d6be1e5-11d3-4e30-829f-6f2a614ea594">Lecture18(EEGSensoryGatingDriversModulators)</a><a href="../../wp-content/uploads/2025/11/Lecture18EEGSensoryGatingDriversModulators.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-1d6be1e5-11d3-4e30-829f-6f2a614ea594">Download</a>
-
-</div>
+- [Lecture18(EEGSensoryGatingDriversModulators)](../../wp-content/uploads/2025/11/Lecture18EEGSensoryGatingDriversModulators.pdf)
 
 ## Further Reading and Resources
 
@@ -33,8 +29,4 @@ Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in sch
 
 ## Fall 2024 Materials
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf" id="wp-block-file--lecture-18-2024-lecture18-lts">Lecture 18 2024 slides: Low-Threshold Spikes</a><a href="../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-18-2024-lecture18-lts">Download</a>
-
-</div>
+- [Lecture 18 2024 slides: Low-Threshold Spikes](<../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf>)

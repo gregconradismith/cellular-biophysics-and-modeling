@@ -22,11 +22,7 @@ lecture_rank: 130
 
 ## Fall 2025 Slides
 
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2025/10/Lecture13-TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability.pdf" id="wp-block-file--media-0edb9aa3-f1a8-4b39-a1e1-88306d49a15e">Lecture13-(TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability)</a><a href="../../wp-content/uploads/2025/10/Lecture13-TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-0edb9aa3-f1a8-4b39-a1e1-88306d49a15e">Download</a>
-
-</div>
+- [Lecture13-(TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability)](../../wp-content/uploads/2025/10/Lecture13-TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability.pdf)
 
 ## <span style="color: var(--color-text);"> </span>
 
@@ -40,14 +36,6 @@ lecture_rank: 130
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmCsgUlrLso" title="DelNegroLecture15 MorrisLecarType1ExcitabilityTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-file">
+- [Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems](<../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf>)
 
-<a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" id="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems</a><a href="../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-13-2024-lecture13-phaseplanelinearnonlinear">Download</a>
-
-</div>
-
-<div class="wp-block-file">
-
-<a href="../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf" id="wp-block-file--lecture-13-2024-lecture13-problemset">Lecture 13 2024 problem set</a><a href="../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--lecture-13-2024-lecture13-problemset">Download</a>
-
-</div>
+- [Lecture 13 2024 problem set](../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf)
