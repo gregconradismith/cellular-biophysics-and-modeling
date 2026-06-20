@@ -18,7 +18,9 @@ layout: default
   {% endfor %}
 {% endif %}
     <article class="content-page">
+      {% unless page.hide_kicker %}
       <div class="page-kicker">{{ page.kind | default: "Page" | capitalize }}{% if page.kind == "post" and page.date %} &middot; {{ page.date | date: "%b %-d, %Y" }}{% endif %}</div>
+      {% endunless %}
       <h1>{{ page.title | escape }}</h1>
       {% if page.lecture_rank %}
       <nav class="lecture-nav lecture-nav-top" aria-label="Lecture navigation">

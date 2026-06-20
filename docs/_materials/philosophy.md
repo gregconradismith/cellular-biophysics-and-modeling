@@ -1,10 +1,11 @@
 ---
-title: "Philosophy"
+title: "Course Philosophy"
 kind: "course philosophy"
 date: "1970-01-01"
 slug: "philosophy"
 permalink: "/pages/philosophy/"
 render_with_liquid: false
+hide_kicker: true
 ---
 
 Cellular Biophysics and Modeling is built around one idea: biological systems become more intelligible when we can describe how they change. The course treats electrophysiology, excitable membranes, ion channels, and neural dynamics as scientific phenomena that can be reasoned about with equations, graphs, physical intuition, and careful language.
