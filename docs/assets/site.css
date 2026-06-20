@@ -161,6 +161,13 @@ main { min-height: 70vh; }
 .home-announcements .section-heading {
   text-align: center;
 }
+.listing-posts .section-heading {
+  text-align: center;
+}
+.listing-posts .section-heading p:not(.eyebrow) {
+  margin-left: auto;
+  margin-right: auto;
+}
 .eyebrow {
   margin: 0 0 8px;
   color: var(--accent-2);
@@ -402,7 +409,7 @@ main { min-height: 70vh; }
 .wp-content h1, .wp-content h2, .wp-content h3 { line-height: 1.15; margin-top: 1.5em; }
 .wp-content h1 { font-size: clamp(20px, 2.4vw, 32px); }
 .wp-content h1:first-child, .wp-content h2:first-child, .wp-content h3:first-child { margin-top: 0; }
-.wp-content p { max-width: 78ch; }
+.wp-content p { max-width: none; }
 .wp-content li { max-width: none; }
 .wp-content figure { margin: 26px 0; }
 .wp-content img {
@@ -463,6 +470,10 @@ main { min-height: 70vh; }
   padding: 10px 12px;
   background: var(--surface);
   border: 1px solid var(--line);
+}
+.listing-posts .search-box {
+  margin-left: auto;
+  margin-right: auto;
 }
 .search-box span { color: var(--muted); font-weight: 800; }
 .search-box input {

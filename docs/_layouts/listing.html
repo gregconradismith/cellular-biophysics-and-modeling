@@ -6,7 +6,7 @@ layout: default
 {% else %}
   {% assign items = site.materials | sort: "title" %}
 {% endif %}
-    <section class="listing">
+    <section class="listing{% if page.listing == "posts" %} listing-posts{% endif %}">
       <div class="section-heading">
         <p class="eyebrow">{{ items | size }} items</p>
         <h1>{{ page.title | escape }}</h1>
@@ -16,13 +16,24 @@ layout: default
         <span>Filter</span>
         <input type="search" data-filter-input placeholder="Search title or text">
       </label>
+      {% if page.listing == "posts" %}
+      <ol class="post-list" data-filter-list>
+        {% for item in items %}
+        <li data-filter-item>
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+      </ol>
+      {% else %}
       <div class="card-grid" data-filter-list>
         {% for item in items %}
-        <article class="card">
-          <p class="eyebrow">{% if page.listing == "posts" %}{{ item.date | date: "%b %-d, %Y" }}{% else %}Course material{% endif %}</p>
+        <article class="card" data-filter-item>
+          <p class="eyebrow">Course material</p>
           <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
           <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
         </article>
         {% endfor %}
       </div>
+      {% endif %}
     </section>
