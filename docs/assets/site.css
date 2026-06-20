@@ -316,6 +316,7 @@ main { min-height: 70vh; }
   font-weight: 800;
   letter-spacing: 0;
   line-height: 1.16;
+  text-align: center;
   text-transform: uppercase;
 }
 .calendar-page .wp-content h2:first-child { margin-top: 0; }
@@ -326,6 +327,7 @@ main { min-height: 70vh; }
   font-weight: 800;
   letter-spacing: .12em;
   line-height: 1.2;
+  text-align: center;
   text-transform: uppercase;
 }
 .calendar-page .wp-content ul {
