@@ -443,9 +443,9 @@ main { min-height: 70vh; }
 .philosophy-quote blockquote {
   margin: 0;
   color: var(--accent);
-  font-size: clamp(28px, 4vw, 46px);
+  font-size: clamp(20px, 2.4vw, 30px);
   font-weight: 800;
-  line-height: 1.12;
+  line-height: 1.2;
 }
 .wp-block-file__button, .wp-element-button {
   display: inline-flex;
