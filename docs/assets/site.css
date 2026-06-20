@@ -40,7 +40,12 @@ img, iframe, object { max-width: 100%; }
   color: var(--ink);
   text-decoration: none;
 }
-.brand strong { display: block; line-height: 1.2; }
+.brand strong {
+  display: block;
+  font-size: clamp(19px, 1.8vw, 24px);
+  font-weight: 800;
+  line-height: 1.15;
+}
 .brand-mark {
   display: block;
   flex: 0 0 auto;
@@ -62,21 +67,27 @@ nav a:hover { border-color: var(--accent); }
   gap: 8px;
 }
 .site-header nav a {
+  display: inline-flex;
+  min-height: 38px;
+  align-items: center;
+  justify-content: center;
   color: #00545c;
-  padding: 8px 12px;
-  background: rgba(0, 107, 107, .08);
-  border: 1px solid rgba(0, 107, 107, .18);
+  padding: 8px 14px;
+  background: var(--surface);
+  border: 1px solid rgba(0, 107, 107, .28);
   border-radius: 8px;
-  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(28, 31, 34, .08);
+  font-weight: 800;
   line-height: 1.15;
-  transition: background .16s ease, border-color .16s ease, color .16s ease, box-shadow .16s ease;
+  transition: background .16s ease, border-color .16s ease, color .16s ease, box-shadow .16s ease, transform .16s ease;
 }
 .site-header nav a:hover,
 .site-header nav a:focus-visible {
   color: white;
   background: var(--accent);
   border-color: var(--accent);
-  box-shadow: 0 6px 16px rgba(0, 107, 107, .18);
+  box-shadow: 0 8px 18px rgba(0, 107, 107, .22);
+  transform: translateY(-1px);
 }
 main { min-height: 70vh; }
 .hero {
@@ -488,6 +499,7 @@ main { min-height: 70vh; }
   padding: clamp(22px, 4vw, 36px);
   background: var(--soft);
   border-left: 6px solid var(--accent);
+  text-align: center;
 }
 .philosophy-quote blockquote {
   margin: 0;

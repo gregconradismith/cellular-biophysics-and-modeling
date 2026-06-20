@@ -12,7 +12,7 @@ Cellular Biophysics and Modeling is built around one idea: biological systems be
 
 <div class="philosophy-quote">
   <blockquote>
-    "One who chops their own firewood warms themself twice."
+    "One who chops their own firewood warms themselves twice."
   </blockquote>
 </div>
 
