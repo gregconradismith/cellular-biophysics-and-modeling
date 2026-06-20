@@ -24,3 +24,7 @@ Then open http://localhost:4000/ in your browser.
 - Site layouts live in `docs/_layouts/`.
 - CSS and JavaScript live in `docs/assets/`.
 - Uploaded PDFs and media remain in `docs/wp-content/uploads/`.
+
+## Codex Coordination
+
+Codex session state is tracked in `.codex/handoff.md`; durable decisions and task history may also appear in `.codex/` when useful.
