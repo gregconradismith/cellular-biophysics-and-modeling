@@ -13,10 +13,10 @@ lecture_rank: 191
 ## Required Reading
 
 - The Scholarpedia article on <strong>local field potentials</strong> (highlighted portions).
-- <strong>The brain's navigational place and grid cell system</strong> by Keihn and Forssberg.
+- <strong>The brain's navigational place and grid cell system</strong> by Kiehn and Forssberg.
 - <strong>Place, space and memory cells</strong> by Marozzi and Jeffery.
 
-## Fall 2025 Sides
+## Fall 2025 Slides
 
 - [Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm)](../../wp-content/uploads/2025/11/Lecture19LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm.pdf)
 

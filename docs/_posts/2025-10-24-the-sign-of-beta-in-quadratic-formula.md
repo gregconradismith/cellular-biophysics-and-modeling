@@ -1,5 +1,5 @@
 ---
-title: "The sign of beta in quadratic formula"
+title: "The sign of beta in the quadratic formula"
 kind: "post"
 date: "2025-10-24"
 slug: "the-sign-of-beta-in-quadratic-formula"

@@ -15,7 +15,7 @@ Topics include: the biophysics of excitable membranes, the gating of voltage- an
 
 The course notes - units 1 & 2 (of 3) - have recently been developed into a 400-page textbook: [Cellular Biophysics and Modeling: A Primer on the Computational Biology of Excitable Cells, Cambridge University Press, 2019.](https://www.cambridge.org/core/books/cellular-biophysics-and-modeling/0C728F4C44D89D8F3BA62E41A0D7336F) [[CUP]](https://www.cambridge.org/core/books/cellular-biophysics-and-modeling/0C728F4C44D89D8F3BA62E41A0D7336F) [[Amazon]](https://www.amazon.com/dp/0521183057/) [[AppleBooks]](https://books.apple.com/us/book/cellular-biophysics-and-modeling/id1455454513)
 
-An electronic version of this required text is [freely available to W&M students via SWEM library](https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51833536950003196).
+An electronic version of this required text is [freely available to W&M students via the SWEM library](https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51833536950003196).
 
 ---
 

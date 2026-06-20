@@ -43,7 +43,7 @@ Review materials, online software, and videos are available through course mater
 
 Homework, quizzes, and classroom participation contribute 20% to your overall grade. There will be two equally weighted midterm exams (20% each) and a final exam (40%). The grading scheme is A = 94.0-100, A- = 90.0-93.9, B+ = 87.0-89.9, B = 84.0-86.9, and so on.
 
-All deadlines and exam dates are final. Exam specifications will be discussed about a week prior to each exam, including whether the exam is in class or take home and open or closed book.
+All deadlines and exam dates are final. Exam specifications will be discussed about a week prior to each exam, including whether the exam is in-class or take-home and open-book or closed-book.
 
 There will be no make-up exams or assignments without a letter from a Dean providing justification and a specific request. Documentation from a medical professional is necessary but not sufficient. Serious schedule conflicts influencing midterms may be resolved by arranging an early exam, but this will occur at the instructor's discretion.
 
@@ -80,7 +80,7 @@ There are many resources to help navigate emotional, psychological, physical, me
 - Counseling Center at (757) 221-3620. Services are free and confidential.
 - Health Center at (757) 221-4386.
 - Dean of Students at 757-221-2510.
-- The free Timely Care app, which gives students access to remote counseling support. For more information see http://timelycare.com/wm.
+- The free Timely Care app, which gives students access to remote counseling support. For more information, see http://timelycare.com/wm.
 
 ## Representative Topics
 
@@ -104,12 +104,12 @@ There are many resources to help navigate emotional, psychological, physical, me
 - Voltage-clamp recording; interpretation of voltage-clamp recordings for the major ionic currents, including the L- and T-type Ca2+ currents, Isag, Ca2+-activated potassium currents, persistent sodium currents, etc.; inward vs. outward currents; currents activated via depolarization vs. hyperpolarization; transient vs. persistent currents; tail currents.
 - Interpretation of experimental voltage-clamp and current-clamp recordings; the effects of channel blockers and modulators such as TTX and TEA; aspects of neurological channelopathies emphasized in readings; the role of calcium channels in higher-level brain function.
 - The Morris-Lecar model of the barnacle muscle fiber; physiological interpretation of dynamics in phase plane; type 1 vs. type 2 excitability, including whether action potentials are graded in amplitude or all-or-none; type 1 vs. type 2 oscillations, including the dependence of amplitude and frequency on applied current when oscillations emerge.
-- Phase plane analysis for 2D autonomous ODEs; direction fields; nullclines; horizontal vs. vertical trajectories crossing nullclines; identifying direction of flow in regions of phase plane between nullclines.
+- Phase plane analysis for 2D autonomous ODEs; direction fields; nullclines; horizontal vs. vertical trajectories crossing nullclines; identifying the direction of flow in regions of the phase plane between nullclines.
 - Stable and unstable manifolds of a saddle; homoclinic and heteroclinic trajectories; attractors vs. repellors.
 - Trajectories in 2D phase plane when one variable is faster than the other; excitability and relaxation oscillations in systems with separated time scales.
 - Linear stability analysis and classification of equilibria in 2D systems; straight line solutions when eigenvalues are real and distinct; the trace-determinant plane; relationship between eigenvalues, trace, and determinant; evaluating the Jacobian at an equilibrium point.
-- Interpreting bifurcation diagrams summarizing the number or stability of steady states and periodic solutions of an ODE model; saddle-node, sub- and super-critical Hopf bifurcation, limit cycle fold, saddle node on an invariant circle, saddle node loop bifurcation; local vs. global bifurcations.
-- Slow passage through different types of bifurcation; square-wave, elliptical, and parabolic bursters; physiological mechanisms of bursting, such as slow dynamics of a membrane current; the low-threshold calcium spike and post-inhibitory rebound bursting.
+- Interpreting bifurcation diagrams summarizing the number or stability of steady states and periodic solutions of an ODE model; saddle-node, subcritical and supercritical Hopf bifurcation, limit cycle fold, saddle-node on an invariant circle, saddle-node loop bifurcation; local vs. global bifurcations.
+- Slow passage through different types of bifurcation; square-wave, elliptic, and parabolic bursters; physiological mechanisms of bursting, such as slow dynamics of a membrane current; the low-threshold calcium spike and post-inhibitory rebound bursting.
 
 ### Unit 3
 

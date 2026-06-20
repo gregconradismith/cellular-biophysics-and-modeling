@@ -7,6 +7,8 @@ permalink: "/pages/games/"
 render_with_liquid: false
 ---
 
-- [PolyQual Game](https://gregconradismith.github.io/polyqual-game/)
-- [Current-Voltage Relation Game](https://gregconradismith.github.io/current-voltage-relation-game/)
-- [Voltage Clamp Game](https://gregconradismith.github.io/voltage-clamp-game/)
+<nav class="game-links" aria-label="Games">
+  <a href="https://gregconradismith.github.io/polyqual-game/">PolyQual Game</a>
+  <a href="https://gregconradismith.github.io/current-voltage-relation-game/">Current-Voltage Relation Game</a>
+  <a href="https://gregconradismith.github.io/voltage-clamp-game/">Voltage Clamp Game</a>
+</nav>

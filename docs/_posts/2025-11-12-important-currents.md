@@ -7,7 +7,7 @@ permalink: "/posts/important-currents/"
 render_with_liquid: false
 ---
 
-A student asked: "What would you consider the most important currents we've covered so far"
+A student asked: "What would you consider the most important currents we've covered so far?"
 
 Answer:
 

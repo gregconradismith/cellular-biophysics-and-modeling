@@ -404,5 +404,5 @@ window.addEventListener(&#x27;keydown&#x27;, (e) =&gt; {
 &lt;!-- /wp:html --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;No worries... an exam question that involves qualitative analysis will not involve subtle differences that are difficult to see.  That sometimes happens above.  &lt;/p&gt;
+&lt;p&gt;No worries: an exam question that involves qualitative analysis will not involve subtle differences that are difficult to see. That sometimes happens above.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;"></iframe>

@@ -16,7 +16,7 @@ lecture_rank: 110
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-- The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
+- The following three videos will walk you through phase plane analysis of a 2D nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyVmFhPqEhA" title="Phase plane analysis of a nonlinear system, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ Alternatively, if you have any trouble running Java on your computer, you may us
 
 - <strong>MIT Mathlet on Vector Fields.</strong> <a href="http://mathlets.org/mathlets/vector-fields/">[Mathlet]</a>
 
-Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b,..., e.
+Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b, ..., e.
 
 For more information on <em>phase plane methods and qualitative solutions</em> see Chapter 5 of Edelstein-Keshet & Segel.
 
