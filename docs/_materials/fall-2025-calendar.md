@@ -35,7 +35,7 @@ This overview lists the major course topics, assignments, and exams in sequence.
 
 10. <a href="../lecture-9/">Voltage-clamp recording and Hodgkin-Huxley equations</a>
 11. <a href="../lecture-10/">The Morris-Lecar model and phase plane</a>
-12. <a href="../lecture-11/">Phase plane analysis of 2D ODE systems</a>
+12. <a href="../lecture-11/">Phase plane analysis of 2d ODE systems</a>
 13. <a href="../lecture-12/">The FitzHugh-Nagumo model, phase plane, and linear stability analysis</a>
 14. <a href="../lecture-13/">The Morris-Lecar phase plane, type 2 and type 1 oscillations and excitability</a>
 15. <a href="../lecture-14/">Square-wave electrical bursting and homoclinic bifurcations</a>

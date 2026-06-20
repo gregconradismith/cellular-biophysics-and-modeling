@@ -58,6 +58,26 @@ nav a {
   border-bottom: 2px solid transparent;
 }
 nav a:hover { border-color: var(--accent); }
+.site-header nav {
+  gap: 8px;
+}
+.site-header nav a {
+  color: #00545c;
+  padding: 8px 12px;
+  background: rgba(0, 107, 107, .08);
+  border: 1px solid rgba(0, 107, 107, .18);
+  border-radius: 8px;
+  font-weight: 700;
+  line-height: 1.15;
+  transition: background .16s ease, border-color .16s ease, color .16s ease, box-shadow .16s ease;
+}
+.site-header nav a:hover,
+.site-header nav a:focus-visible {
+  color: white;
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 6px 16px rgba(0, 107, 107, .18);
+}
 main { min-height: 70vh; }
 .hero {
   min-height: 72vh;
@@ -147,13 +167,13 @@ main { min-height: 70vh; }
 }
 .game-links {
   display: grid;
-  justify-items: center;
+  width: min(420px, 100%);
   gap: 16px;
   margin: 0 auto;
 }
 .game-links a {
   display: inline-flex;
-  width: min(420px, 100%);
+  width: 100%;
   min-height: 70px;
   align-items: center;
   justify-content: center;
@@ -277,6 +297,7 @@ main { min-height: 70vh; }
 }
 .lectures-page {
   width: min(1080px, calc(100% - 36px));
+  text-align: center;
 }
 .lecture-index {
   display: grid;
@@ -308,6 +329,7 @@ main { min-height: 70vh; }
   border: 0;
   box-shadow: none;
   padding: 0;
+  text-align: center;
 }
 .calendar-page .wp-content h2 {
   margin: 24px 0 0;

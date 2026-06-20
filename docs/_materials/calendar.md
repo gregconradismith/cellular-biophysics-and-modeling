@@ -67,7 +67,7 @@ layout: calendar
 ### Week 6
 
 - Tuesday, October 06 - Lecture 11<br>
-  <a href="../lecture-11/">Phase plane analysis of 2D ODE systems</a>
+  <a href="../lecture-11/">Phase plane analysis of 2d ODE systems</a>
 - Thursday, October 08<br>
   <span class="calendar-note">No class, Fall Break</span>
 

@@ -8,7 +8,7 @@ render_with_liquid: false
 lecture_rank: 110
 ---
 
-# Phase plane analysis of 2D ODE systems
+# Phase plane analysis of 2d ODE systems
 
 ## Required Reading
 
@@ -16,7 +16,7 @@ lecture_rank: 110
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-- The following three videos will walk you through phase plane analysis of a 2D nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
+- The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyVmFhPqEhA" title="Phase plane analysis of a nonlinear system, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -60,7 +60,7 @@ For more information on <em>phase plane methods and qualitative solutions</em> s
 
 For more information on <em>phase plane analysis</em> see Sections 7.1-7.5 by Edelstein-Keshet & Segel.
 
-<em>Phase plane analysis in five easy steps</em> is a very brief overview of how to approach phase plane analysis of 2D autonomous nonlinear ODEs. Follow this procedure when doing Problem Set 5.
+<em>Phase plane analysis in five easy steps</em> is a very brief overview of how to approach phase plane analysis of 2d autonomous nonlinear ODEs. Follow this procedure when doing Problem Set 5.
 
 ## Fall 2024 Materials
 

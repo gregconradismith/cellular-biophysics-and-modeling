@@ -35,4 +35,4 @@ lecture_rank: 140
 
 - [Lecture 14 2024 problem set](../../wp-content/uploads/2024/10/Lecture14-problemSet.pdf)
 
-- [Hindmarsh-Rose 2D figure](../../wp-content/uploads/2024/10/HindmarshRose2D.png)
+- [Hindmarsh-Rose 2d figure](../../wp-content/uploads/2024/10/HindmarshRose2D.png)

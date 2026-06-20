@@ -119,7 +119,7 @@ Conradi Smith, G. <strong>Linear Stability Analysis.</strong> Chapter 16 of <em>
 
 Conradi Smith, G. <strong>Type II Excitability And Oscillations.</strong> Chapter 17 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-<strong>MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane.</strong> <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">Mathlet</a>
+<strong>MIT Mathlet on phase portraits of linear 2d systems of ODEs with Trace-Determinant Plane.</strong> <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">Mathlet</a>
 
 Edelstein-Keshet, L., and Segel, L. <strong>Excitable Systems and the Fitzhugh-Nagumo Equations.</strong> Sections 11.1-11.4 of <em>A Primer on Mathematical Models in Biology</em>. <a href="../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf">PDF</a>
 

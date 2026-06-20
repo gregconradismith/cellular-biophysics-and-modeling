@@ -94,20 +94,20 @@ There are many resources to help navigate emotional, psychological, physical, me
 - Nernst equilibrium potential; relative sizes of conductances of resting membranes; relative sizes of physiological ion concentrations inside vs. outside cells; reversal potentials of physiologically important ions.
 - Equivalent circuit view of the cell plasma membrane; current-voltage relations for membrane currents; effective reversal potentials for multiple passive currents.
 - Vocabulary for describing ionic currents: depolarizing, hyperpolarizing, inward, outward, passive, voltage-gated, depolarization activated, hyperpolarization activated, regenerative, restorative, inward rectifying, outward rectifying, etc.
-- Fundamental aspects of physiologically important ionic currents including the potassium leakage current, the L-type voltage-gated Ca2+ current, the hyperpolarization activated cation current known as Ih, also called Isag, and others.
+- Fundamental aspects of physiologically important ionic currents including the potassium leakage current, the L-type voltage-gated Ca<sup>2+</sup> current, the hyperpolarization activated cation current known as I<sub>h</sub>, also called Isag, and others.
 - Goldman-Hodgkin-Katz current equation; GHK voltage equation; their assumptions; their relationship.
 - Interpreting bifurcation diagrams summarizing the number and/or stability of steady states of an ODE model.
 
 ### Unit 2
 
 - Classical biophysics of the squid giant axon; the Hodgkin-Huxley model and equivalent circuit; ODE models with gating variables coupled to current balance equations.
-- Voltage-clamp recording; interpretation of voltage-clamp recordings for the major ionic currents, including the L- and T-type Ca2+ currents, Isag, Ca2+-activated potassium currents, persistent sodium currents, etc.; inward vs. outward currents; currents activated via depolarization vs. hyperpolarization; transient vs. persistent currents; tail currents.
+- Voltage-clamp recording; interpretation of voltage-clamp recordings for the major ionic currents, including the L- and T-type Ca<sup>2+</sup> currents, Isag, Ca<sup>2+</sup>-activated potassium currents, persistent sodium currents, etc.; inward vs. outward currents; currents activated via depolarization vs. hyperpolarization; transient vs. persistent currents; tail currents.
 - Interpretation of experimental voltage-clamp and current-clamp recordings; the effects of channel blockers and modulators such as TTX and TEA; aspects of neurological channelopathies emphasized in readings; the role of calcium channels in higher-level brain function.
 - The Morris-Lecar model of the barnacle muscle fiber; physiological interpretation of dynamics in phase plane; type 1 vs. type 2 excitability, including whether action potentials are graded in amplitude or all-or-none; type 1 vs. type 2 oscillations, including the dependence of amplitude and frequency on applied current when oscillations emerge.
-- Phase plane analysis for 2D autonomous ODEs; direction fields; nullclines; horizontal vs. vertical trajectories crossing nullclines; identifying the direction of flow in regions of the phase plane between nullclines.
+- Phase plane analysis for 2d autonomous ODEs; direction fields; nullclines; horizontal vs. vertical trajectories crossing nullclines; identifying the direction of flow in regions of the phase plane between nullclines.
 - Stable and unstable manifolds of a saddle; homoclinic and heteroclinic trajectories; attractors vs. repellors.
-- Trajectories in 2D phase plane when one variable is faster than the other; excitability and relaxation oscillations in systems with separated time scales.
-- Linear stability analysis and classification of equilibria in 2D systems; straight line solutions when eigenvalues are real and distinct; the trace-determinant plane; relationship between eigenvalues, trace, and determinant; evaluating the Jacobian at an equilibrium point.
+- Trajectories in 2d phase plane when one variable is faster than the other; excitability and relaxation oscillations in systems with separated time scales.
+- Linear stability analysis and classification of equilibria in 2d systems; straight line solutions when eigenvalues are real and distinct; the trace-determinant plane; relationship between eigenvalues, trace, and determinant; evaluating the Jacobian at an equilibrium point.
 - Interpreting bifurcation diagrams summarizing the number or stability of steady states and periodic solutions of an ODE model; saddle-node, subcritical and supercritical Hopf bifurcation, limit cycle fold, saddle-node on an invariant circle, saddle-node loop bifurcation; local vs. global bifurcations.
 - Slow passage through different types of bifurcation; square-wave, elliptic, and parabolic bursters; physiological mechanisms of bursting, such as slow dynamics of a membrane current; the low-threshold calcium spike and post-inhibitory rebound bursting.
 
@@ -117,7 +117,7 @@ The content of Unit 3 varies across course offerings. Topics have included:
 
 - Synaptic currents and intracellular communication.
 - Central pattern generators; in-phase and anti-phase synchronization; escape vs. release; slow synapses and counter-intuitive synchronization results; gap junctional coupling; electrotonic properties of dendrites.
-- Synaptic transmission; modeling of synaptic currents; ionotropic vs. metabotropic receptors; time constants and reversal potentials for AMPA, NMDA, GABA A, and GABA B receptors; drivers versus modulators; optical studies of individual synapses.
+- Synaptic transmission; modeling of synaptic currents; ionotropic vs. metabotropic receptors; time constants and reversal potentials for AMPA, NMDA, GABA<sub>A</sub>, and GABA<sub>B</sub> receptors; drivers versus modulators; optical studies of individual synapses.
 - Network properties and systems neuroscience.
 - Thalamus: post-inhibitory rebound bursting; rhythmic bursting of thalamocortical relay neurons; complex interactions between excitatory and inhibitory burst-capable neurons; spindle waves in thalamic slice preparation; paroxysmal thalamic oscillations; role of thalamus in sensory gating.
 - Cortex: four types of visually responsive cortical neurons; spike frequency adaptation.
@@ -125,7 +125,7 @@ The content of Unit 3 varies across course offerings. Topics have included:
 - Population activity of neurons: synchronization and desynchronization of EEG and relationship between sleep/aroused states; place cells of hippocampus and relationship between spikes and theta waves; gamma oscillations in visual cortex during visual stimulation.
 - Leaky integrate-and-fire neurons and rate-based population models as alternatives to Hodgkin-Huxley-style conductance-based models.
 - Neuronal and cardiac calcium signaling.
-- Basics of calcium signaling; pumps versus exchangers; the IP3R and RyR; bell-shaped open probability curve of intracellular Ca2+ channels; fast Ca2+ activation and slow Ca2+ inactivation of intracellular Ca2+ channels.
+- Basics of calcium signaling; pumps versus exchangers; the IP<sub>3</sub>R and RyR; bell-shaped open probability curve of intracellular Ca<sup>2+</sup> channels; fast Ca<sup>2+</sup> activation and slow Ca<sup>2+</sup> inactivation of intracellular Ca<sup>2+</sup> channels.
 - Modeling of calcium responses; excitability, bistability and oscillations; the action of thapsigargin and ionomycin in experiment and theory.
 - Different types of propagating waves for bistable, excitatory and oscillatory media; localized calcium elevations such as calcium puffs and sparks; puff/spark-mediated saltatory calcium waves; dendritic calcium signals, including in synapses and dendritic spines.
 - Cardiac excitation-contraction coupling; local versus global control of triggered calcium release; similarities and differences between neuronal and cardiac action potentials.
@@ -134,6 +134,6 @@ The content of Unit 3 varies across course offerings. Topics have included:
 
 <div class="wp-block-file">
 
-<a href="../../wp-content/uploads/2025/08/cbm-syllabus-fall-2025-2.pdf" id="wp-block-file--media-835ba2e4-0ab1-41d1-9291-9386fb4faa5e" target="_blank" rel="noreferrer noopener">Original syllabus PDF</a><a href="../../wp-content/uploads/2025/08/cbm-syllabus-fall-2025-2.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-835ba2e4-0ab1-41d1-9291-9386fb4faa5e">Download</a>
+<a href="../../wp-content/uploads/2025/08/cbm-syllabus-fall-2025-2.pdf" id="wp-block-file--media-835ba2e4-0ab1-41d1-9291-9386fb4faa5e" target="_blank" rel="noreferrer noopener">Original syllabus PDF</a>
 
 </div>
