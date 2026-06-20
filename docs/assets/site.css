@@ -40,18 +40,15 @@ img, iframe, object { max-width: 100%; }
   color: var(--ink);
   text-decoration: none;
 }
-.brand strong, .brand em { display: block; line-height: 1.2; }
-.brand em { color: var(--muted); font-size: 13px; font-style: normal; }
+.brand strong { display: block; line-height: 1.2; }
 .brand-mark {
-  display: grid;
-  place-items: center;
+  display: block;
+  flex: 0 0 auto;
   width: 42px;
   height: 42px;
-  border: 1px solid var(--accent);
-  background: var(--accent);
-  color: white;
-  font-weight: 800;
-  letter-spacing: .04em;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  background: #17304a;
 }
 nav { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
 nav a {
