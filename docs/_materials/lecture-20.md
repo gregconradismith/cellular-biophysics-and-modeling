@@ -12,14 +12,14 @@ lecture_rank: 200
 
 ## Required Reading
 
-- <strong>Spatial frequency analysis in vision</strong> by Oliver Braddick. <a href="../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf">PDF</a>
-- Look at Figures 1 and 2 of <strong>Do we know what the early visual system does?</strong> by Carandini et al. <a href="../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf">PDF</a>
-- Look at Figures 1 and 3 of <strong>Understanding the retinal basis of vision across species</strong> by Baden et. al. <a href="../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf">PDF</a>
+- <strong>Spatial frequency analysis in vision</strong> by Oliver Braddick.
+- Look at Figures 1 and 2 of <strong>Do we know what the early visual system does?</strong> by Carandini et al.
+- Look at Figures 1 and 3 of <strong>Understanding the retinal basis of vision across species</strong> by Baden et. al.
 
 ## Optional Reading
 
-- <span style="color: var(--color-text);"><strong>Visual responses of ganglion cells</strong> by Ralph Nelson</span>. <a href="../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf">PDF</a>
-- <strong>Color Vision: Almost Reason Enough for Having Eyes</strong> by Neitz et al. <a href="../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf">PDF</a>
+- <span style="color: var(--color-text);"><strong>Visual responses of ganglion cells</strong> by Ralph Nelson</span>.
+- <strong>Color Vision: Almost Reason Enough for Having Eyes</strong> by Neitz et al.
 
 ## Fall 2025 Slides
 

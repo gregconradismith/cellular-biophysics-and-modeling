@@ -14,11 +14,11 @@ lecture_rank: 210
 
 For this asynchronous online class, begin by reviewing the slides posted below (there is no audio). Then read the highlighted portions of the following papers.
 
-- <strong>Neurophysiological and computational principles of cortical rhythms in cognition</strong> (Wang 2010). <a href="../../wp-content/uploads/2025/11/Wang2010-Neurophysiological_and_Computational_Principles_of_Cortical_Rhythms_in_Cognition-MarkUp.pdf">PDF</a>
+- <strong>Neurophysiological and computational principles of cortical rhythms in cognition</strong> (Wang 2010).
 
 <!-- -->
 
-- <span style="color: var(--color-text);"><strong>Abnormal neural oscillations and synchrony in schizophrenia</strong> (Uhlhaas and Singer 2010).</span> <a href="../../wp-content/uploads/2025/11/UhlhaasSinger2010-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf">PDF</a>
+- <span style="color: var(--color-text);"><strong>Abnormal neural oscillations and synchrony in schizophrenia</strong> (Uhlhaas and Singer 2010).</span>
 
 ## Fall 2025 Slides
 
@@ -30,13 +30,13 @@ For this asynchronous online class, begin by reviewing the slides posted below (
 
 ## Further Reading
 
-- <strong>Calcium channels in higher level brain function</strong> (Jones 2007). <a href="../../wp-content/uploads/2025/11/Jones-2007-Calcium.pdf">PDF</a>
+- <strong>Calcium channels in higher level brain function</strong> (Jones 2007).
 
 <!-- -->
 
-- <strong>Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice</strong> (Shin et al. 2007). <a href="../../wp-content/uploads/2025/11/ShinEtal2007-Gamma-band_deficiency_and_abnormal_thalamocortical_activity_in_PQ-type_channel_mutant_mice-MarkUp.pdf">PDF</a>
+- <strong>Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice</strong> (Shin et al. 2007).
 
 <!-- -->
 
-- <span style="color: var(--color-text);"><strong>Two dynamically distinct inhibitory networks in layer 4 of the neocortex</strong> (Beierlein et al. 2003).</span> <a href="../../wp-content/uploads/2025/11/BeiereleinEtal2003-Connors-Two_dynamically_distinct_inhibitory_networks_in_layer_4_of_the_neocortex-MarkUp.pdf">PDF</a>\
-- <span style="color: var(--color-text);"><strong>Microcircuits in action - from CPGs to neocortex</strong> (Grillner et al. 2005).</span> <a href="../../wp-content/uploads/2025/11/GrillnerEtal2005-Microcircuits_in_action-from_CPGs_to_neocortex-MarkUp.pdf">PDF</a>
+- <span style="color: var(--color-text);"><strong>Two dynamically distinct inhibitory networks in layer 4 of the neocortex</strong> (Beierlein et al. 2003).</span>\
+- <span style="color: var(--color-text);"><strong>Microcircuits in action - from CPGs to neocortex</strong> (Grillner et al. 2005).</span>

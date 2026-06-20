@@ -12,7 +12,7 @@ lecture_rank: 130
 
 ## Required Reading
 
-- <strong>Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).</strong> Chapter 18 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+- <strong>Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).</strong> Chapter 18 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 
 ## Fall 2025 Recorded Lecture (2 parts)
 

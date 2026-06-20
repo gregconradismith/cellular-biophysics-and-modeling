@@ -12,8 +12,8 @@ lecture_rank: 70
 
 ## Required Reading
 
-1.  <strong>Voltage-Gated Ionic Currents.</strong> Chapter 10 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-2.  <strong>Regenerative Ionic Currents and Bistability.</strong> Chapter 11 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+1.  <strong>Voltage-Gated Ionic Currents.</strong> Chapter 10 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+2.  <strong>Regenerative Ionic Currents and Bistability.</strong> Chapter 11 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 3.  Sigworth FJ. <strong>Structural biology: Life's transistors.</strong> <em>Nature.</em> 2003 May 1;423(6935):21-2. <a href="https://pubmed.ncbi.nlm.nih.gov/12721605/">PubMed</a>
 4.  Dolphin AC. <strong>A short history of voltage-gated calcium channels.</strong> <em>Br J Pharmacol.</em> 2006 Jan;147 Suppl 1(Suppl 1):S56-62. <a href="https://pubmed.ncbi.nlm.nih.gov/16402121/">PubMed</a>
 5.  Lipscombe D, Helton TD, Xu W. <strong>L-type calcium channels: the low down.</strong> <em>J Neurophysiol.</em> 2004 Nov;92(5):2633-41. <a href="https://pubmed.ncbi.nlm.nih.gov/15486420/">PubMed</a>

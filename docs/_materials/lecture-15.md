@@ -12,10 +12,10 @@ lecture_rank: 150
 
 ## Required Reading
 
-- <strong>The Low-Threshold Calcium Spike</strong>. Chapter 19 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-- Highlighted portions of Wang et al. 1991 on the <strong>T-type calcium current and the low-threshold spike in thalamic neurons</strong>. <a href="../../wp-content/uploads/2025/10/Wang-1991-LTS-Markup.pdf">PDF</a>
-- Sections titled "Types of Ionic currents" and "Summary of Intrinsic Membrane Properties" (pp. 46-57) of David McCormick's chapter entitled <strong>Membrane properties and neurotransmitter actions</strong>. <a href="../../wp-content/uploads/2021/04/mccormick-1998-membrane-p.pdf">PDF</a>
-- Yellow portions of <strong>H-current: Properties of a neuronal and network pacemaker</strong> by Luthi and McCormick. <a href="../../wp-content/uploads/2025/10/1998-L-McCormick-H-current_properties_of_a_neuronal_and_network_pacemaker-MarkUp.pdf">PDF</a>
+- <strong>The Low-Threshold Calcium Spike</strong>. Chapter 19 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+- Highlighted portions of Wang et al. 1991 on the <strong>T-type calcium current and the low-threshold spike in thalamic neurons</strong>.
+- Sections titled "Types of Ionic currents" and "Summary of Intrinsic Membrane Properties" (pp. 46-57) of David McCormick's chapter entitled <strong>Membrane properties and neurotransmitter actions</strong>.
+- Yellow portions of <strong>H-current: Properties of a neuronal and network pacemaker</strong> by Luthi and McCormick.
 
 ## Fall 2025 Slides
 

@@ -12,8 +12,8 @@ lecture_rank: 120
 
 ## Required Reading
 
-- <strong>Linear Stability Analysis</strong>. Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-- <span style="color: var(--color-text);"><strong>Type II Excitability And Oscillations</strong>. Chapter 17 of </span><em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+- <strong>Linear Stability Analysis</strong>. Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+- <span style="color: var(--color-text);"><strong>Type II Excitability And Oscillations</strong>. Chapter 17 of </span><em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - Explore this <strong>MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane</strong>. <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">Mathlet</a>
 
 ------------------------------------------------------------------------
@@ -66,8 +66,8 @@ https://youtu.be/oEskbXrhkkk
 
 ## Optional Reading and Resources 
 
-- <strong>Excitable Systems and the Fitzhugh-Nagumo Equations</strong>. Sections 11.1-11.4 (pp. 227-241) of <em>A Primer on Mathematical Models in Biology</em> by Leah Edelstein-Keshet and Lee Segel. <a href="../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf">PDF</a>
-- <strong>Fitzhugh's classic paper</strong> (1961). <a href="../../wp-content/uploads/2025/10/Fitzhugh61.pdf">PDF</a>
+- <strong>Excitable Systems and the Fitzhugh-Nagumo Equations</strong>. Sections 11.1-11.4 (pp. 227-241) of <em>A Primer on Mathematical Models in Biology</em> by Leah Edelstein-Keshet and Lee Segel.
+- <strong>Fitzhugh's classic paper</strong> (1961).
 
 ## Fall 2024 Materials
 

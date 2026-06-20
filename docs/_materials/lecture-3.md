@@ -12,14 +12,14 @@ lecture_rank: 30
 
 ## Required Reading
 
-1.  <strong>Compartmental Modeling.</strong> Chapter 2 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-2.  <strong>Phase Diagrams.</strong> Chapter 3 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-3.  <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <em>Exp Neurol</em>. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a> <a href="../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf">Highlighted PDF</a>
+1.  <strong>Compartmental Modeling.</strong> Chapter 2 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+2.  <strong>Phase Diagrams.</strong> Chapter 3 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+3.  <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <em>Exp Neurol</em>. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a>
 
 ## Optional Reading and Resources
 
 1.  <strong>MIT Mathlet to explore the phase line and bifurcation diagrams.</strong> <a href="http://mathlets.org/mathlets/phase-lines/">Mathlet</a>
-2.  <strong>Ligands, Receptors and Rate Laws.</strong>  Chapter 4 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+2.  <strong>Ligands, Receptors and Rate Laws.</strong>  Chapter 4 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 
 ## Fall 2025 Slides
 

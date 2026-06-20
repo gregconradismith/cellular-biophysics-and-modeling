@@ -12,13 +12,13 @@ lecture_rank: 50
 
 ## REQUIRED READING
 
-1.  <strong>The Current Balance Equation.</strong>  Chapter 8 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
+1.  <strong>The Current Balance Equation.</strong>  Chapter 8 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 
 ## Optional Reading and Resources
 
-1.  <strong>The Membrane Equation</strong> by David Heeger. <a href="../readings/">PDF</a>
-2.  <strong>Introduction.</strong> Chapter 1 of <em>Ion Channels of Excitable Membranes</em> by Bertil Hille. <a href="../readings/">PDF</a>
-3.  Briefly look at pp. 215-218 of Finkelstein and Mauro, 1963, <strong>Equivalent circuits as related to ionic systems</strong>. Notice that neuroscientists in 1963 are using ODEs and calculus to understand membrane currents and electrophysiology. (You do not have to read this article.) <a href="../readings/">PDF</a>
+1.  <strong>The Membrane Equation</strong> by David Heeger.
+2.  <strong>Introduction.</strong> Chapter 1 of <em>Ion Channels of Excitable Membranes</em> by Bertil Hille.
+3.  Briefly look at pp. 215-218 of Finkelstein and Mauro, 1963, <strong>Equivalent circuits as related to ionic systems</strong>. Notice that neuroscientists in 1963 are using ODEs and calculus to understand membrane currents and electrophysiology. (You do not have to read this article.)
 
 ## Fall 2025 Slides
 

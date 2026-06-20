@@ -12,12 +12,12 @@ lecture_rank: 170
 
 ## Required Reading
 
-- von Krosigk et al. 1993 <strong>Cellular mechanisms of synchronized oscillation in the thalamus</strong>. <a href="../../wp-content/uploads/2025/10/von-Krosigk-1993-Cellular-m.pdf">PDF</a>
-- Steriade et al 1993 <strong>Thalamocortical oscillations in the sleeping and aroused brain.</strong> <a href="../../wp-content/uploads/2025/10/Steriade-1993-Thalamocor.pdf">PDF</a>
+- von Krosigk et al. 1993 <strong>Cellular mechanisms of synchronized oscillation in the thalamus</strong>.
+- Steriade et al 1993 <strong>Thalamocortical oscillations in the sleeping and aroused brain.</strong>
 
 ## Optional Reading and Resources
 
-- Kim and McCormick 1998 <strong>Functional influence of burst and tonic mode on synaptic interactions in the thalamus</strong>. <a href="../../wp-content/uploads/2025/10/1998-K-McCormick-The_functional_influence_of_burst_and_tonic_firing_mode_on_synaptic_interactions_in_the_thalamus.pdf">PDF</a>
+- Kim and McCormick 1998 <strong>Functional influence of burst and tonic mode on synaptic interactions in the thalamus</strong>.
 
 ## Fall 2025 Slides
 

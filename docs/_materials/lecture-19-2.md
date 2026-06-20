@@ -12,9 +12,9 @@ lecture_rank: 191
 
 ## Required Reading
 
-- The Scholarpedia article on <strong>local field potentials</strong> (highlighted portions). <a href="../../wp-content/uploads/2025/11/Local-field-potential-Scholarpedia-MarkUp.pdf">PDF</a>
-- <strong>The brain's navigational place and grid cell system</strong> by Keihn and Forssberg. <a href="../../wp-content/uploads/2025/11/KeihnForssbert2014-_The_Brains_Navigational_Place_and_Grid_Cell_System.pdf">PDF</a>
-- <strong>Place, space and memory cells</strong> by Marozzi and Jeffery. <a href="../../wp-content/uploads/2025/11/MarozziJeffery2012-Place_space_and_memory_cells.pdf">PDF</a>
+- The Scholarpedia article on <strong>local field potentials</strong> (highlighted portions).
+- <strong>The brain's navigational place and grid cell system</strong> by Keihn and Forssberg.
+- <strong>Place, space and memory cells</strong> by Marozzi and Jeffery.
 
 ## Fall 2025 Sides
 
@@ -27,7 +27,7 @@ lecture_rank: 191
 Optional Reading and Resources
 
 - <span style="color: var(--color-text);"><strong>You Are Here - RadioLab.</strong> <a href="http://www.radiolab.org/story/110165-you-are-here/">RadioLab</a> </span>
-- <strong>Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization</strong> by Kim et al. <a href="../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf">PDF</a>
+- <strong>Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization</strong> by Kim et al.
 
 ## Fall 2024 Materials
 

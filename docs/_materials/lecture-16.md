@@ -12,8 +12,8 @@ lecture_rank: 160
 
 ## Required Reading
 
-- <strong>Synaptic Currents.</strong>  Chapter 20 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">DOI</a>
-- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 <strong>Identifiable Cells in the Crustacean Stomatogastric Ganglion</strong>. <a href="../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf">PDF</a>
+- <strong>Synaptic Currents.</strong>  Chapter 20 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
+- Read pp. 311-313 and Figure 1 of Hudson et al. 2010 <strong>Identifiable Cells in the Crustacean Stomatogastric Ganglion</strong>.
 
 ## <span style="color: var(--color-text);">Required Watching</span>
 

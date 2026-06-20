@@ -12,8 +12,8 @@ lecture_rank: 180
 
 ## Required Reading
 
-- Read the highlighted portions of Koch (2012) <strong>The origins of extracellular fields and currents</strong>. <a href="../../wp-content/uploads/2025/11/2012-B-Koch-The_origin_of_extracellular_fields_and_currents_—_EEG_ECoG_LFP_and_spikes-MarkUp.pdf">PDF</a>
-- Read the highlighted portions of Sherman (2007) paper on thalamic relay, drivers and modulators, etc. <a href="../../wp-content/uploads/2025/11/Sherman-2007-The-thalam-MarkUp.pdf">PDF</a>
+- Read the highlighted portions of Koch (2012) <strong>The origins of extracellular fields and currents</strong>.
+- Read the highlighted portions of Sherman (2007) paper on thalamic relay, drivers and modulators, etc.
 
 ## Fall 2025 Slides
 
@@ -25,11 +25,11 @@ lecture_rank: 180
 
 ## Further Reading and Resources
 
-Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087. <a href="../../wp-content/uploads/2025/11/CashEtal2009KComplexes.pdf">PDF</a>
+Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087.
 
-Ghodrati et al. 2017. <strong>Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.</strong> <em>Progress in Neurobiology</em>, 156, 214-255. <a href="../../wp-content/uploads/2025/11/GhodratiEtal2017LGNReview.pdf">PDF</a>
+Ghodrati et al. 2017. <strong>Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.</strong> <em>Progress in Neurobiology</em>, 156, 214-255.
 
-Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113. <a href="../../wp-content/uploads/2025/11/2010-U-Singer-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf">PDF</a>
+Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113.
 
 ## Fall 2024 Materials
 
