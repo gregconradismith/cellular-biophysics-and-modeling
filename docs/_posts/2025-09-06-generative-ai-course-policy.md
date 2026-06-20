@@ -7,9 +7,9 @@ permalink: "/posts/generative-ai-course-policy/"
 render_with_liquid: false
 ---
 
-The course policy on generative AI is essentially the same as the policy on collaboration with other students: you are expected to be <strong>transparent about your methods</strong> of arriving at your homework answers. The deliverable is expected to be handwritten by you, either on paper or a tablet, not a photocopy or picture of someone else's final product.
+The course policy on generative AI is essentially the same as the policy on collaboration with other students: you are expected to be **transparent about your methods** of arriving at your homework answers. The deliverable is expected to be handwritten by you, either on paper or a tablet, not a photocopy or picture of someone else's final product.
 
-By <strong>transparency</strong>, I mean that you should acknowledge in your homework answers when and how you used generative AI. The easiest way to do this is on a question-by-question basis.
+By **transparency**, I mean that you should acknowledge in your homework answers when and how you used generative AI. The easiest way to do this is on a question-by-question basis.
 
 Example: "To answer this question, I asked ChatGPT what was meant by a `monotone' vs. `biphasic' function. The AI response indicated that a function is monotone if it is either non-decreasing or non-increasing throughout its domain, while a biphasic function has two distinct phases of response. Given this, I graphed \(f(x)=x exp(-x)\) in Desmos and concluded that this function is biphasic."
 
