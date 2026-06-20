@@ -26,7 +26,7 @@ lecture_rank: 100
 
 ## Optional Reading and Resources
 
-1.  The observation that the Morris-Lecar model exhibited all these dynamical phenomena originated in a classic book chapter by Rinzel & Ermentrout 1998 (see <a href="../readings/">Readings</a>).
+1.  The observation that the Morris-Lecar model exhibited all these dynamical phenomena originated in a classic book chapter by Rinzel & Ermentrout 1998 (see <a href="../readings/">[Readings]</a>).
 2.  <a href="https://www.compadre.org/osp/document/ServeFile.cfm?ID=12417&DocID=3122&Attachment=1">The Morris-Lecar simulator used in class can be found at this Open Source Physics site.</a>
 
 ## Fall 2024 Materials

@@ -33,19 +33,11 @@ lecture_rank: 200
 
 - <em>A Walk-through of the Mammalian Visual System</em> by R. Clay Reid
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/mtPgW1ebxmE
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtPgW1ebxmE" title="A Walk-through of the Mammalian Visual System by R. Clay Reid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - <em>Retinal Direction Selectivity Is Reversed by Visual Stimulation</em> by Michal Rivlin-Etzion and Marla Feller
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/AC9nSsFd-J4
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AC9nSsFd-J4" title="Retinal Direction Selectivity Is Reversed by Visual Stimulation by Michal Rivlin-Etzion and Marla Feller" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - <em>Visual Attention and Consciousness</em> by Christoff Koch
 

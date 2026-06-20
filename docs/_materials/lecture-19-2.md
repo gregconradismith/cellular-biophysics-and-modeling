@@ -26,7 +26,7 @@ lecture_rank: 191
 
 Optional Reading and Resources
 
-- <span style="color: var(--color-text);"><strong>You Are Here - RadioLab.</strong> <a href="http://www.radiolab.org/story/110165-you-are-here/">RadioLab</a> </span>
+- <span style="color: var(--color-text);"><strong>You Are Here - RadioLab.</strong> <a href="http://www.radiolab.org/story/110165-you-are-here/">[RadioLab]</a> </span>
 - <strong>Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization</strong> by Kim et al.
 
 ## Fall 2024 Materials

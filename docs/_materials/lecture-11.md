@@ -16,25 +16,13 @@ lecture_rank: 110
 
 ## <span style="color: var(--color-text)">Required Watching </span>
 
-The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">Software</a>
+The following three videos will walk you through phase plane analysis of a 2d nonlinear system.  Here is a link to the phase plane graphing software used in this video: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/kyVmFhPqEhA?si=JdxduVLfOAnzS1QN
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyVmFhPqEhA" title="Phase plane analysis of a nonlinear system, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/ta9BfrkknEI?si=wu8ata9VDVszVkVf
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ta9BfrkknEI" title="Phase plane analysis of a nonlinear system, part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/27vgtCntDo8?si=8Fp2D_Tvv3r4sq00
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/27vgtCntDo8" title="Phase plane analysis of a nonlinear system, part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ------------------------------------------------------------------------
 
@@ -50,41 +38,25 @@ https://youtu.be/27vgtCntDo8?si=8Fp2D_Tvv3r4sq00
 
 - Another example of determining vector fields with the help of nullclines
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/fqK1z06a9pQ
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqK1z06a9pQ" title="Determining vector fields with nullclines example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - <em>Two dimensional linear systems</em> by Steve Strogatz
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/QrHRaA93Nrg
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrHRaA93Nrg" title="Steve Strogatz: Two dimensional linear systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -  <em>Two dimensional nonlinear systems and fixed points</em> by Steve Strogatz
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/9yh9DmNqdk4
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9yh9DmNqdk4" title="Steve Strogatz: Two dimensional nonlinear systems and fixed points" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
--  Here is a link to phase plane graphing software: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">Software</a>
+-  Here is a link to phase plane graphing software: <strong>pplane</strong>. <a href="http://math.rice.edu/~dfield/dfpp.html">[Software]</a>
 
 Alternatively, if you have any trouble running Java on your computer, you may use any other web based phase plane tool you can find.
 
 - Linearization (Example of finding and classifying fixed points in an ODE system).
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/UCpMao94iFg
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCpMao94iFg" title="Linearization example for finding and classifying fixed points in an ODE system" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- <strong>MIT Mathlet on Vector Fields.</strong> <a href="http://mathlets.org/mathlets/vector-fields/">Mathlet</a>
+- <strong>MIT Mathlet on Vector Fields.</strong> <a href="http://mathlets.org/mathlets/vector-fields/">[Mathlet]</a>
 
 Many of the problems discussed in class and on homework can be investigated by selecting the ODE system dx/dt = (e+a\*x+b\*y)\*x and dy/dt = (f+c\*x+d\*y)\*y and choosing appropriate values for the six constants a, b,..., e.
 

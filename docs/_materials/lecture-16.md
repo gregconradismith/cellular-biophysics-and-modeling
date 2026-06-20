@@ -19,19 +19,11 @@ lecture_rank: 160
 
 - Katie Wilkinson (SJSU) lecture on <strong>Central Pattern Generators.</strong>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/ZA0URG5jcdM
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZA0URG5jcdM" title="Katie Wilkinson lecture on central pattern generators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Watch video <strong>Introduction to Central Pattern Generators: Lessons from Small Rythmic Circuits - Part 1: Variability, Compensation, Modulation, and Homeostasis</strong> by Eve Marder (Brandeis University).
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/dGRQmndrUzA
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dGRQmndrUzA" title="Introduction to Central Pattern Generators by Eve Marder, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ------------------------------------------------------------------------
 
@@ -61,17 +53,13 @@ https://youtu.be/dGRQmndrUzA
 
 ## Further Watching
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/njlT59XJ_e8
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njlT59XJ_e8" title="Further watching on central pattern generators and rhythmic circuits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Optional Reading and Resources
 
-- <strong>Scholarpedia article on "Stomatogastric Ganglion."</strong> <a href="http://www.scholarpedia.org/article/Stomatogastric_ganglion">Article</a>
-- <strong>Gross Dissection of the Stomach of the Lobster, Homarus Americanus.</strong> <a href="http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus">JoVE</a>
-- <strong>Homarus Americanus Stomatogastric Nervous System Dissection.</strong> <a href="http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection">JoVE</a>
+- <strong>Scholarpedia article on "Stomatogastric Ganglion."</strong> <a href="http://www.scholarpedia.org/article/Stomatogastric_ganglion">[Scholarpedia]</a>
+- <strong>Gross Dissection of the Stomach of the Lobster, Homarus Americanus.</strong> <a href="http://www.jove.com/video/1320/gross-dissection-of-the-stomach-of-the-lobster-homarus-americanus">[JoVE]</a>
+- <strong>Homarus Americanus Stomatogastric Nervous System Dissection.</strong> <a href="http://www.jove.com/video/1171/homarus-americanus-stomatogastric-nervous-system-dissection">[JoVE]</a>
 
 ## Fall 2024 Materials
 

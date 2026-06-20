@@ -19,39 +19,27 @@ lecture_rank: 90
 
 - Lecture 9 - Part 1 - Voltage-clamp recording and the classical biophysics of the squid giant axon
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/2XXUkmooejE
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XXUkmooejE" title="Lecture 9 Part 1 - Voltage-clamp recording and the classical biophysics of the squid giant axon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Lecture 9 - Part 2 - Voltage-clamp recording and the classical biophysics of the squid giant axon
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/nxEles983I8?si=te9AEA3FDjXWQqYn
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxEles983I8" title="Lecture 9 Part 2 - Voltage-clamp recording and the classical biophysics of the squid giant axon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Watch this video of Jim Keener on the Dynamics of the Action Potential: The Hodgkin-Huxley Macarena.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/UpK_ZKpn9d4
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UpK_ZKpn9d4" title="Jim Keener on the Dynamics of the Action Potential: The Hodgkin-Huxley Macarena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Recommended Watching
 
 The following mathematics lectures discuss concepts from linear algebra that will be used in future lectures. You are not expected to already know linear algebra, but these lectures will complement what I say about this subject.
 
-1.  <a href="http://www.youtube.com/watch?v=pXzoF2HlAps">WildLinAlg5: Change of coordinates and determinants</a> \[START AT 29:34\]
+1.  WildLinAlg5: Change of coordinates and determinants \[START AT 29:34\]
 
-http://www.youtube.com/watch?v=pXzoF2HlAps
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pXzoF2HlAps?start=1774" title="WildLinAlg5: Change of coordinates and determinants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-1.  <a href="http://www.youtube.com/watch?v=1SJzwT8v2AU">WildLinAlg6: Applications of 2x2 matrices</a>
+2.  WildLinAlg6: Applications of 2x2 matrices
 
-http://www.youtube.com/watch?v=1SJzwT8v2AU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1SJzwT8v2AU" title="WildLinAlg6: Applications of 2x2 matrices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fall 2025 Slides
 

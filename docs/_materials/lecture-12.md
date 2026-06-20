@@ -14,7 +14,7 @@ lecture_rank: 120
 
 - <strong>Linear Stability Analysis</strong>. Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - <span style="color: var(--color-text);"><strong>Type II Excitability And Oscillations</strong>. Chapter 17 of </span><em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
-- Explore this <strong>MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane</strong>. <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">Mathlet</a>
+- Explore this <strong>MIT Mathlet on phase portraits of linear 2D systems of ODEs with Trace-Determinant Plane</strong>. <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">[Mathlet]</a>
 
 ------------------------------------------------------------------------
 
@@ -50,11 +50,7 @@ lecture_rank: 120
 
 - *The trace-determinant diagram *
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/oEskbXrhkkk
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEskbXrhkkk" title="The trace-determinant diagram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fall 2025 Slides
 

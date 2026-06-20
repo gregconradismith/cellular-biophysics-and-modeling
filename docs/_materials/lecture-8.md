@@ -14,9 +14,17 @@ lecture_rank: 80
 
 1.  <strong>Bifurcation Diagrams of Scalar ODEs.</strong> Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 2.  Terman pp. 21-28 <strong>An introduction to dynamical systems and neuronal dynamics</strong> (Introduction & One Dimensional Equations).
-3.  <strong>ODE | Slope Fields.</strong> <a href="http://youtu.be/MI2xCwBekX4">YouTube</a>
-4.  <strong>ODE | Phase diagrams.</strong> <a href="http://youtu.be/swt-let4pCI">YouTube</a>
-5.  <strong>ODE | Bifurcation Diagram.</strong> <a href="http://youtu.be/cC2w2z_i2DA">YouTube</a>
+3.  <strong>ODE | Slope Fields.</strong> <a href="http://youtu.be/MI2xCwBekX4">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MI2xCwBekX4" title="ODE slope fields" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+4.  <strong>ODE | Phase diagrams.</strong> <a href="http://youtu.be/swt-let4pCI">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/swt-let4pCI" title="ODE phase diagrams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+5.  <strong>ODE | Bifurcation Diagram.</strong> <a href="http://youtu.be/cC2w2z_i2DA">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC2w2z_i2DA" title="ODE bifurcation diagram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fall 2025 Slides
 
@@ -28,10 +36,21 @@ lecture_rank: 80
 
 ## Optional Reading and Resources
 
-1.  <strong>Steve Strogatz' lecture on "One dimensional Systems"</strong> (Cornell Math Department). <a href="https://www.youtube.com/watch?v=YNIm2Op7UPg">YouTube</a>
-2.  <strong>What is a saddle-node bifurcation?</strong> <a href="https://www.youtube.com/watch?v=t0KQFOEPY6Q">YouTube</a>
-3.  <strong>What is a transcritical bifurcation?</strong> <a href="https://www.youtube.com/watch?v=CH8Jj-3La28">YouTube</a>
-4.  <strong>What is a pitchfork bifurcation?</strong> <a href="https://www.youtube.com/watch?v=VMEw6DWrqm0">YouTube</a>
+1.  <strong>Steve Strogatz' lecture on "One dimensional Systems"</strong> (Cornell Math Department). <a href="https://www.youtube.com/watch?v=YNIm2Op7UPg">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNIm2Op7UPg" title="Steve Strogatz lecture on one dimensional systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2.  <strong>What is a saddle-node bifurcation?</strong> <a href="https://www.youtube.com/watch?v=t0KQFOEPY6Q">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0KQFOEPY6Q" title="What is a saddle-node bifurcation?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+3.  <strong>What is a transcritical bifurcation?</strong> <a href="https://www.youtube.com/watch?v=CH8Jj-3La28">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CH8Jj-3La28" title="What is a transcritical bifurcation?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+4.  <strong>What is a pitchfork bifurcation?</strong> <a href="https://www.youtube.com/watch?v=VMEw6DWrqm0">[YouTube]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMEw6DWrqm0" title="What is a pitchfork bifurcation?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fall 2024 Materials
 

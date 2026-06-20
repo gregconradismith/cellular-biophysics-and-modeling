@@ -16,17 +16,9 @@ lecture_rank: 130
 
 ## Fall 2025 Recorded Lecture (2 parts)
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/r_scmxnDpwc
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_scmxnDpwc" title="Lecture 13 recorded lecture, part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://youtu.be/p8k5ueoHyZs
-</div>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p8k5ueoHyZs" title="Lecture 13 recorded lecture, part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fall 2025 Slides
 
@@ -40,7 +32,7 @@ https://youtu.be/p8k5ueoHyZs
 
 ## Further Reading
 
-- Ermentrout & Terman 2010. <strong>Chapter 3 Dynamics</strong>, especially pp. 49-63, Sections 3.1 to 3.4. This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis. <a href="../readings/">Readings</a>
+- Ermentrout & Terman 2010. <strong>Chapter 3 Dynamics</strong>, especially pp. 49-63, Sections 3.1 to 3.4. This book chapter discusses the Morris-Lecar model, phase plane and linear stability analysis, excitability, oscillations, and bifurcation analysis. <a href="../readings/">[Readings]</a>
 
 ## Fall 2024 Materials
 

@@ -16,7 +16,7 @@ lecture_rank: 40
 
 ## Optional Reading and Resources
 
-1.  <strong>Two-pore domain K⁺ channels regulate membrane potential of isolated human articular chondrocytes.</strong> Clark RB, Kondo C, Belke DD, Giles WR. <em>J Physiol.</em> 2011;589 (Pt 21):5071-89. <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">PubMed</a>
+1.  <strong>Two-pore domain K⁺ channels regulate membrane potential of isolated human articular chondrocytes.</strong> Clark RB, Kondo C, Belke DD, Giles WR. <em>J Physiol.</em> 2011;589 (Pt 21):5071-89. <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">[PubMed]</a>
 
 ## Fall 2025 Slides
 
