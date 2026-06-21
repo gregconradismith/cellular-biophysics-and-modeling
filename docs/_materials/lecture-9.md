@@ -50,9 +50,9 @@ The following mathematics lectures discuss concepts from linear algebra that wil
 ## Optional Reading and Resources
 
 - <a href="https://player.fm/series/sounds-physiological/peering-into-the-black-box-bertil-hille">Peering into the black box. An interview with Bertill Hille, a Sounds Physiological podcast by Liz Adler, Executive Editor of the Journal of General Physiology.</a>  
-- <a href="https://www.nature.com/articles/nn1100_1165">Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." <em>Nature neuroscience</em> 3.11 (2000): 1165-1165.</a> (short, easy read)
+- <a href="https://www.nature.com/articles/nn1100_1165">Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." <em>Nature neuroscience</em> 3.11 (2000): 1165-1165.</a> (short, easy read) <a href="https://doi.org/10.1038/81426">[DOI]</a>
 - Hille Chapter 2 "Classical biophysics of the squid giant axon" (long, but worth the effort)
-- <a href="//www.nature.com/articles/nrn2148">Bean, B. P. (2007). The action potential in mammalian central neurons. <em>Nature Reviews Neuroscience</em>, <em>8</em>(6), 451-465. </a>
+- <a href="//www.nature.com/articles/nrn2148">Bean, B. P. (2007). The action potential in mammalian central neurons. <em>Nature Reviews Neuroscience</em>, <em>8</em>(6), 451-465. </a> <a href="https://doi.org/10.1038/nrn2148">[DOI]</a>
 - "The Hodgkin-Huxley model" by Nelson and Rinzel. This is Ch 4 of "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System" by James M. Bower and David Beeman
 
 ## Fall 2024 Materials

@@ -16,7 +16,7 @@ lecture_rank: 30
 
 - <strong>Compartmental Modeling.</strong> Chapter 2 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - <strong>Phase Diagrams.</strong> Chapter 3 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
-- <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <em>Exp Neurol</em>. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">[PubMed]</a>
+- <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <em>Exp Neurol</em>. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">[PubMed]</a> <a href="https://doi.org/10.1016/j.expneurol.2012.11.002">[DOI]</a>
 
 ## Optional Reading and Resources
 

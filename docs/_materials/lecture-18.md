@@ -23,11 +23,11 @@ lecture_rank: 180
 
 ## Further Reading and Resources
 
-Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087.
+Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087. <a href="https://doi.org/10.1126/science.1169626">[DOI]</a>
 
 Ghodrati et al. 2017. <strong>Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.</strong> <em>Progress in Neurobiology</em>, 156, 214-255.
 
-Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113.
+Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113. <a href="https://doi.org/10.1038/nrn2774">[DOI]</a>
 
 ## Fall 2024 Materials
 
