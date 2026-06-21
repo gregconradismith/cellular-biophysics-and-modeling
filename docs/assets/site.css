@@ -14,6 +14,7 @@
   --nav-tint-2: #bdcce0;
   --nav-border: #6b87a0;
   --nav-hover: #2d3556;
+  --display-font: Georgia, "Times New Roman", serif;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
@@ -47,7 +48,7 @@ img, iframe, object { max-width: 100%; }
 .site-title {
   color: var(--ink);
   display: inline-block;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--display-font);
   font-size: clamp(1.8rem, 3.4vw, 3rem);
   font-weight: 700;
   letter-spacing: 0;
@@ -159,6 +160,7 @@ main { min-height: 70vh; }
 }
 .hero-banner-copy h1 {
   color: white;
+  font-family: var(--display-font);
   white-space: normal;
   text-shadow: 0 3px 18px rgba(23, 25, 28, .62);
 }
@@ -209,6 +211,7 @@ main { min-height: 70vh; }
 }
 .section-heading h1, .section-heading h2 {
   margin: 0;
+  font-family: var(--display-font);
   font-size: clamp(22px, 2.6vw, 32px);
   line-height: 1.15;
 }
@@ -404,6 +407,7 @@ main { min-height: 70vh; }
 }
 .content-page > h1 {
   margin: 0 0 26px;
+  font-family: var(--display-font);
   font-size: clamp(22px, 3vw, 38px);
   line-height: 1.12;
   text-align: center;
