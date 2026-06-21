@@ -10,12 +10,12 @@
 </head>
 <body>
   {% unless page.hide_header %}
-  <header class="site-header">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      <img class="brand-mark" src="{{ '/assets/brand-cell.png' | relative_url }}" alt="" aria-hidden="true">
-      <span><strong>{{ site.title | escape }}</strong></span>
-    </a>
-    <nav aria-label="Primary navigation">
+  <header class="site-header" aria-label="Site header">
+    <div class="masthead">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <p>{{ site.description | escape }}</p>
+    </div>
+    <nav class="site-nav" aria-label="Primary navigation">
       <a href="{{ '/pages/about/' | relative_url }}">About</a>
       <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
       <a href="{{ '/pages/calendar/' | relative_url }}">Calendar</a>
