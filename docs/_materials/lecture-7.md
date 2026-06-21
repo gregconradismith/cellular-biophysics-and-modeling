@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 70
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md). Access requires permission to the private repository.
+
 # Voltage-dependent currents and bistability
 
 ## Required Reading
@@ -22,7 +24,7 @@ lecture_rank: 70
 
 ## Fall 2025 Slides
 
-- [Lecture7-(VoltageDependentCurrentsAndBistability)](../../wp-content/uploads/2025/09/Lecture7-VoltageDependentCurrentsAndBistability.pdf)
+- [Lecture7-(VoltageDependentCurrentsAndBistability)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)
 
 ## Optional Reading and Resources
 
@@ -34,6 +36,6 @@ lecture_rank: 70
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdm1IWTksss" title="DelNegroLecture09 VoltageDependentCurrentsTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 7 2024 slides: Current Balance and Passive Neuron ODE](../../wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf)
+- [Lecture 7 2024 slides: Current Balance and Passive Neuron ODE](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)
 
-- [Lecture 7 2024 problem set](../../wp-content/uploads/2024/09/Lecture7_problemSet.pdf)
+- [Lecture 7 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)

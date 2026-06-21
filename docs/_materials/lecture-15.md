@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 150
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-15.md). Access requires permission to the private repository.
+
 # Elliptical and Parabolic Bursting, The Low-Threshold Calcium Current and PIR Bursting, Delta Oscillations
 
 ## Required Reading
@@ -19,11 +21,11 @@ lecture_rank: 150
 
 ## Fall 2025 Slides
 
-- [Lecture15(ThalamocorticalRelayNeuronsPostInhibitoryReboundLowThresholdSpike)](../../wp-content/uploads/2025/10/Lecture15ThalamocorticalRelayNeuronsPostInhibitoryReboundLowThresholdSpike.pdf)
+- [Lecture15(ThalamocorticalRelayNeuronsPostInhibitoryReboundLowThresholdSpike)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-15.md)
 
 ## Low-threshold spike handout
 
-- [HandoutLowThresholdSpikePhasePlane](../../wp-content/uploads/2025/10/HandoutLowThresholdSpikePhasePlane.pdf)
+- [HandoutLowThresholdSpikePhasePlane](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-15.md)
 
 ## Fall 2024 Materials
 
@@ -43,6 +45,6 @@ lecture_rank: 150
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_J4w14n2GSk" title="DelNegroLecture18 LowThresholdCalciumSpikesBoardDemo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 15 2024 slides: Morris-Lecar Type 1 and Type 2](<../../wp-content/uploads/2024/11/Lecture15-(MorrisLecar2types).pdf>)
+- [Lecture 15 2024 slides: Morris-Lecar Type 1 and Type 2](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-15.md)
 
-- [Lecture 15 2024 problem set](../../wp-content/uploads/2024/11/Lecture15-problemSet.pdf)
+- [Lecture 15 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-15.md)

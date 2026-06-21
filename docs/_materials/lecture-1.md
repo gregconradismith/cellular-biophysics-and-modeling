@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 10
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md). Access requires permission to the private repository.
+
 # Biophysics, dynamics, neuron doctrines, and organization of the brain 
 
 ## Required Reading
@@ -30,10 +32,10 @@ Note: Copyright requires some readings to remain behind a paywall.  When this is
 
 ## Fall 2025 Slides
 
-- [Lecture1-(DynamicPhenomena)](../../wp-content/uploads/2025/09/Lecture1-DynamicPhenomena.pdf)
+- [Lecture1-(DynamicPhenomena)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 1 2024 slides: Neuron Doctrine and Dynamics](../../wp-content/uploads/2024/09/Lecture1_2024_NeuronDoctrineDynamics.pdf)
+- [Lecture 1 2024 slides: Neuron Doctrine and Dynamics](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md)
 
-- [Lecture 1 2024 problem set](../../wp-content/uploads/2024/09/Lecture1_problemSet.pdf)
+- [Lecture 1 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md)

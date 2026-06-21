@@ -8,3 +8,5 @@ docs/.bundle/
 .DS_Store
 __pycache__/
 *.pyc
+docs/wp-content/uploads/**/*.pdf
+docs/wp-content/uploads/**/*.PDF

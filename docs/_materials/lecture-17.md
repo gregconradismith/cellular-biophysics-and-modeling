@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 170
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md). Access requires permission to the private repository.
+
 # Network properties of the thalamus - spindles and absence seizures
 
 ## Required Reading
@@ -21,10 +23,10 @@ lecture_rank: 170
 
 ## Fall 2025 Slides
 
-- [Lecture17(NetworkPropertiesThalamusPart1)](../../wp-content/uploads/2025/10/Lecture17NetworkPropertiesThalamusPart1.pdf)
+- [Lecture17(NetworkPropertiesThalamusPart1)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 17 2024 slides: Elliptic and Parabolic Bursting](<../../wp-content/uploads/2024/11/Lecture17-(ellipticParabolic).pdf>)
+- [Lecture 17 2024 slides: Elliptic and Parabolic Bursting](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)
 
-- [Lecture 17 2024 problem set](../../wp-content/uploads/2024/11/Lecture17-problemSet.pdf)
+- [Lecture 17 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)

@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 160
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-16.md). Access requires permission to the private repository.
+
 # Central Pattern Generators, Stomatogastric Ganglion, Half-Center Oscillators, Release vs. Escape Dynamics
 
 ## Required Reading
@@ -71,6 +73,6 @@ lecture_rank: 160
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ2aD0azUK8" title="DelNegroLecture20 CentralPatternGeneratorsHorseGaits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 16 2024 slides: New Bifurcations and Bursting](<../../wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf>)
+- [Lecture 16 2024 slides: New Bifurcations and Bursting](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-16.md)
 
-- [Lecture 16 2024 problem set](../../wp-content/uploads/2024/11/Lecture16-problemSet.pdf)
+- [Lecture 16 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-16.md)

@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 60
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-6.md). Access requires permission to the private repository.
+
 ## Goldman-Hodgkin-Katz theory
 
 ## Required Reading
@@ -17,7 +19,7 @@ lecture_rank: 60
 
 ## Fall 2025 Slides
 
-- [Lecture6-(GHKTheoryRectification)](../../wp-content/uploads/2025/09/Lecture6-GHKTheoryRectification.pdf)
+- [Lecture6-(GHKTheoryRectification)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-6.md)
 
 ## Optional Reading and Resources
 
@@ -25,8 +27,8 @@ lecture_rank: 60
 
 ## Fall 2024 Materials
 
-- [Lecture 6 2024 slides: Nernst, K Channels, and GHK](../../wp-content/uploads/2024/09/Lecture6_NernstKchannelsGHK.pdf)
+- [Lecture 6 2024 slides: Nernst, K Channels, and GHK](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-6.md)
 
-- [Lecture 6 2024 problem set](../../wp-content/uploads/2024/09/Lecture6_problemSet.pdf)
+- [Lecture 6 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-6.md)
 
-- [Nernst equilibrium potential](../../wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf)
+- [Nernst equilibrium potential](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-6.md)

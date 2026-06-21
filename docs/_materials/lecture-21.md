@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 210
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-21.md). Access requires permission to the private repository.
+
 # Inhibitory interneuron networks in cortex and cortical oscillations
 
 ## Required Reading
@@ -22,7 +24,7 @@ For this asynchronous online class, begin by reviewing the slides posted below (
 
 ## Fall 2025 Slides
 
-- [Lecture21(InhibitoryInterneuronNetworksInCortexAndCorticalOscillations)](../../wp-content/uploads/2025/11/Lecture21InhibitoryInterneuronNetworksInCortexAndCorticalOscillations.pdf)
+- [Lecture21(InhibitoryInterneuronNetworksInCortexAndCorticalOscillations)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-21.md)
 
 ## Further Reading
 

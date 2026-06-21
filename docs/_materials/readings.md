@@ -7,23 +7,25 @@ permalink: "/pages/readings/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md). Access requires permission to the private repository.
+
 ## Lecture 1
 
 Conradi Smith, G. <strong>Apologia and Introduction</strong> of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Nauta WJ, Feirtag M. <strong>The organization of the brain.</strong> <em>Sci Am.</em> 1979 Sep;241(3):88-111. <a href="https://doi.org/10.1038/scientificamerican0979-88">DOI</a> <a href="../../wp-content/uploads/2025/08/nautaandfeirtag1979-the_organization_of_the_brain.pdf">PDF</a>
+Nauta WJ, Feirtag M. <strong>The organization of the brain.</strong> <em>Sci Am.</em> 1979 Sep;241(3):88-111. <a href="https://doi.org/10.1038/scientificamerican0979-88">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. <strong>Neuroscience. The neuron doctrine, redux.</strong> <em>Science.</em> 2005 Nov 4;310(5749):791-3. <a href="https://doi.org/10.1126/science.1114394">DOI</a>
 
-<strong>Polynomial functions and their graphs.</strong> <a href="../../wp-content/uploads/2021/04/polynomial-functions-and-their-graphs.pdf">PDF</a>
+<strong>Polynomial functions and their graphs.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Butler AB, Hodos W. <strong>A glossary of terms used in neuroanatomy.</strong> Appendix A in <em>Comparative Vertebrate Neuroanatomy: Evolution and Adaptation</em>, Second Edition. <a href="https://doi.org/10.1002/0471733849">DOI</a> <a href="../../wp-content/uploads/2021/04/butlerhodosappendixneuroanatomyterms.pdf">PDF</a>
+Butler AB, Hodos W. <strong>A glossary of terms used in neuroanatomy.</strong> Appendix A in <em>Comparative Vertebrate Neuroanatomy: Evolution and Adaptation</em>, Second Edition. <a href="https://doi.org/10.1002/0471733849">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Tyson JJ. <strong>Bringing cartoons to life.</strong> <em>Nature.</em> 2007 Feb 22;445(7130):823. <a href="https://doi.org/10.1038/445823a">DOI</a>
 
 Fall CP, Marland ES, Wagner JM, Tyson JJ, eds. <em>Computational Cell Biology</em>. <a href="https://doi.org/10.1007/b97701">DOI</a>
 
-- Chapter 1 Dynamic Phenomena in Cells. <a href="../../wp-content/uploads/2021/04/falletalch11.pdf">PDF</a>
+- Chapter 1 Dynamic Phenomena in Cells. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 2
 
@@ -39,7 +41,7 @@ Conradi Smith, G. <strong>Compartmental Modeling.</strong> Chapter 2 of <em>Cell
 
 Conradi Smith, G. <strong>Phase Diagrams.</strong> Chapter 3 of <em>Cellular Biophysics and Modeling: A primer on the computational biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> <em>Exp Neurol.</em> 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a> <a href="../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf">Highlighted PDF</a>
+Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. <strong>Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis.</strong> <em>Exp Neurol.</em> 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
 <strong>MIT Mathlet to explore the phase line and bifurcation diagrams.</strong> <a href="http://mathlets.org/mathlets/phase-lines/">Mathlet</a>
 
@@ -55,19 +57,19 @@ Clark RB, Kondo C, Belke DD, Giles WR. <strong>Two-pore domain K+ channels regul
 
 Conradi Smith, G. <strong>The Current Balance Equation.</strong> Chapter 8 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Heeger, D. <strong>The Membrane Equation.</strong> <a href="../../wp-content/uploads/2021/04/themembraneequationdavidheeger.pdf">PDF</a>
+Heeger, D. <strong>The Membrane Equation.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Hille, B. <strong>Introduction.</strong> Chapter 1 of <em>Ion Channels of Excitable Membranes</em>. <a href="../../wp-content/uploads/2021/04/hille-chapter1-introduction-ionicchannelsofexcitablemembranes-best.pdf">PDF</a>
+Hille, B. <strong>Introduction.</strong> Chapter 1 of <em>Ion Channels of Excitable Membranes</em>. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Finkelstein, A., and Mauro, A. <strong>Equivalent circuits as related to ionic systems.</strong> <em>Biophysical Journal</em> 3.3 (1963): 215-237. <a href="../../wp-content/uploads/2021/04/finkelstein-1963-equivalent.pdf">PDF</a>
+Finkelstein, A., and Mauro, A. <strong>Equivalent circuits as related to ionic systems.</strong> <em>Biophysical Journal</em> 3.3 (1963): 215-237. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 6
 
 Conradi Smith, G. <strong>GHK Theory of Membrane Permeation.</strong> Chapter 9 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Corry, B. <strong>Understanding ion channel selectivity and gating and their role in cellular signalling.</strong> <em>Molecular Biosystems</em> 2.11 (2006): 527-535. <a href="https://pubmed.ncbi.nlm.nih.gov/17216034/">PubMed</a> <a href="../../wp-content/uploads/2021/04/corry-2006-understanding-ion-channel-selectivity-and-gating-and-their-role-in-cellular-signalling.pdf">PDF</a>
+Corry, B. <strong>Understanding ion channel selectivity and gating and their role in cellular signalling.</strong> <em>Molecular Biosystems</em> 2.11 (2006): 527-535. <a href="https://pubmed.ncbi.nlm.nih.gov/17216034/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Hille, B. <strong>Selective Permeability: Independence.</strong> Chapter 14 of <em>Ion Channels of Excitable Membranes</em>. <a href="../../wp-content/uploads/2021/04/hille-ch14.pdf">PDF</a>
+Hille, B. <strong>Selective Permeability: Independence.</strong> Chapter 14 of <em>Ion Channels of Excitable Membranes</em>. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 7
 
@@ -75,21 +77,21 @@ Conradi Smith, G. <strong>Voltage-Gated Ionic Currents.</strong> Chapter 10 of <
 
 Conradi Smith, G. <strong>Regenerative Ionic Currents and Bistability.</strong> Chapter 11 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Sigworth FJ. <strong>Structural biology: Life's transistors.</strong> <em>Nature.</em> 2003 May 1;423(6935):21-2. <a href="https://pubmed.ncbi.nlm.nih.gov/12721605/">PubMed</a> <a href="../../wp-content/uploads/2021/04/sigworth-2003-lifestransistors.pdf">Highlighted PDF</a>
+Sigworth FJ. <strong>Structural biology: Life's transistors.</strong> <em>Nature.</em> 2003 May 1;423(6935):21-2. <a href="https://pubmed.ncbi.nlm.nih.gov/12721605/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
-Dolphin AC. <strong>A short history of voltage-gated calcium channels.</strong> <em>Br J Pharmacol.</em> 2006 Jan;147 Suppl 1(Suppl 1):S56-62. <a href="https://pubmed.ncbi.nlm.nih.gov/16402121/">PubMed</a> <a href="../../wp-content/uploads/2021/04/dolphin-2009-a-short-hi.pdf">Highlighted PDF</a>
+Dolphin AC. <strong>A short history of voltage-gated calcium channels.</strong> <em>Br J Pharmacol.</em> 2006 Jan;147 Suppl 1(Suppl 1):S56-62. <a href="https://pubmed.ncbi.nlm.nih.gov/16402121/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
-Lipscombe D, Helton TD, Xu W. <strong>L-type calcium channels: the low down.</strong> <em>J Neurophysiol.</em> 2004 Nov;92(5):2633-41. <a href="https://pubmed.ncbi.nlm.nih.gov/15486420/">PubMed</a> <a href="../../wp-content/uploads/2021/04/lipscombe-2004-l-type-cal.pdf">Highlighted PDF</a>
+Lipscombe D, Helton TD, Xu W. <strong>L-type calcium channels: the low down.</strong> <em>J Neurophysiol.</em> 2004 Nov;92(5):2633-41. <a href="https://pubmed.ncbi.nlm.nih.gov/15486420/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
-Kiehn O, Eken T. <strong>Functional role of plateau potentials in vertebrate motor neurons.</strong> <em>Curr Opin Neurobiol.</em> 1998 Dec;8(6):746-52. <a href="https://pubmed.ncbi.nlm.nih.gov/9914232/">PubMed</a> <a href="../../wp-content/uploads/2021/04/curropinneurobiol1998kiehnmarkup.pdf">Highlighted PDF</a>
+Kiehn O, Eken T. <strong>Functional role of plateau potentials in vertebrate motor neurons.</strong> <em>Curr Opin Neurobiol.</em> 1998 Dec;8(6):746-52. <a href="https://pubmed.ncbi.nlm.nih.gov/9914232/">PubMed</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
-Wilson, C. <strong>Up and down states.</strong> Scholarpedia. <a href="http://www.scholarpedia.org/article/Up_and_down_states">Article</a> <a href="../../wp-content/uploads/2025/09/Up-and-down-states-Scholarpedia-MarkUp3.pdf">Highlighted PDF</a>
+Wilson, C. <strong>Up and down states.</strong> Scholarpedia. <a href="http://www.scholarpedia.org/article/Up_and_down_states">Article</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
 ## Lecture 8
 
 Conradi Smith, G. <strong>Bifurcation Diagrams of Scalar ODEs.</strong> Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Terman. <strong>An introduction to dynamical systems and neuronal dynamics.</strong> Introduction & One Dimensional Equations, pp. 21-28. <a href="../../wp-content/uploads/2021/04/2004-t-terman-an_introduction_to_dynamical_systems_and_neuronal_dynamics.pdf">PDF</a>
+Terman. <strong>An introduction to dynamical systems and neuronal dynamics.</strong> Introduction & One Dimensional Equations, pp. 21-28. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 <strong>ODE | Slope Fields.</strong> <a href="http://youtu.be/MI2xCwBekX4">YouTube</a>
 
@@ -121,39 +123,39 @@ Conradi Smith, G. <strong>Type II Excitability And Oscillations.</strong> Chapte
 
 <strong>MIT Mathlet on phase portraits of linear 2d systems of ODEs with Trace-Determinant Plane.</strong> <a href="http://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/">Mathlet</a>
 
-Edelstein-Keshet, L., and Segel, L. <strong>Excitable Systems and the Fitzhugh-Nagumo Equations.</strong> Sections 11.1-11.4 of <em>A Primer on Mathematical Models in Biology</em>. <a href="../../wp-content/uploads/2025/10/TheFitzhughNagumoEquationEdelstein-KeshetAndSegel.pdf">PDF</a>
+Edelstein-Keshet, L., and Segel, L. <strong>Excitable Systems and the Fitzhugh-Nagumo Equations.</strong> Sections 11.1-11.4 of <em>A Primer on Mathematical Models in Biology</em>. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Fitzhugh. <strong>Fitzhugh's classic paper</strong> (1961). <a href="../../wp-content/uploads/2025/10/Fitzhugh61.pdf">PDF</a>
+Fitzhugh. <strong>Fitzhugh's classic paper</strong> (1961). <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 13
 
 Conradi Smith, G. <strong>Type 1 Excitability And Oscillations (SNIC and SHO bifurcations).</strong> Chapter 18 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Ermentrout & Terman 2010. <strong>Chapter 3 Dynamics</strong>, especially pp. 49-63, Sections 3.1 to 3.4. <a href="../../wp-content/uploads/2021/04/2010-e-terman-mathematical_foundations_of_neuroscience_-_ch_3_-_dynamics.pdf">PDF</a>
+Ermentrout & Terman 2010. <strong>Chapter 3 Dynamics</strong>, especially pp. 49-63, Sections 3.1 to 3.4. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 14
 
-Izhikevich 2000. <strong>Neural excitability, spiking and bursting.</strong> <a href="../../wp-content/uploads/2025/10/Izhikevich-2000-Neural-exc-Markup.pdf">PDF</a>
+Izhikevich 2000. <strong>Neural excitability, spiking and bursting.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Bertram et al. 2007. <strong>Metabolic and electrical oscillations: partners in controlling pulsatile insulin secretion.</strong> <a href="../../wp-content/uploads/2025/10/2007-B-Satin-Metabolic_and_electrical_oscillations_partners_in_controlling_pulsatile_insulin_secretion_MarkUp.pdf">PDF</a>
+Bertram et al. 2007. <strong>Metabolic and electrical oscillations: partners in controlling pulsatile insulin secretion.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Tabak et al. 2000. <strong>Modeling of spontaneous activity in developing spinal cord.</strong> <a href="../../wp-content/uploads/2025/10/2000-T-Rinzel-Modeling_of_spontaneous_activity_in_developing_spinal_cord-MarkUp.pdf">PDF</a>
+Tabak et al. 2000. <strong>Modeling of spontaneous activity in developing spinal cord.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 15
 
 Conradi Smith, G. <strong>The Low-Threshold Calcium Spike.</strong> Chapter 19 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Wang et al. 1991. <strong>T-type calcium current and the low-threshold spike in thalamic neurons.</strong> <a href="../../wp-content/uploads/2025/10/Wang-1991-LTS-Markup.pdf">PDF</a>
+Wang et al. 1991. <strong>T-type calcium current and the low-threshold spike in thalamic neurons.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-McCormick. <strong>Membrane properties and neurotransmitter actions.</strong> <a href="../../wp-content/uploads/2021/04/mccormick-1998-membrane-p.pdf">PDF</a>
+McCormick. <strong>Membrane properties and neurotransmitter actions.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Luthi and McCormick. <strong>H-current: Properties of a neuronal and network pacemaker.</strong> <a href="../../wp-content/uploads/2025/10/1998-L-McCormick-H-current_properties_of_a_neuronal_and_network_pacemaker-MarkUp.pdf">PDF</a>
+Luthi and McCormick. <strong>H-current: Properties of a neuronal and network pacemaker.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 16
 
 Conradi Smith, G. <strong>Synaptic Currents.</strong> Chapter 20 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>. <a href="https://doi.org/10.1017/9780511793905">DOI</a>
 
-Hudson et al. 2010. <strong>Identifiable Cells in the Crustacean Stomatogastric Ganglion.</strong> <a href="../../wp-content/uploads/2025/10/2010-Hudson-et-al-Identifiable_Cells_in_the_Crustacean_Stomatogastric_Ganglion.pdf">PDF</a>
+Hudson et al. 2010. <strong>Identifiable Cells in the Crustacean Stomatogastric Ganglion.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 <strong>Scholarpedia article on "Stomatogastric Ganglion."</strong> <a href="http://www.scholarpedia.org/article/Stomatogastric_ganglion">Article</a>
 
@@ -163,108 +165,108 @@ Hudson et al. 2010. <strong>Identifiable Cells in the Crustacean Stomatogastric 
 
 ## Lecture 17
 
-von Krosigk et al. 1993. <strong>Cellular mechanisms of synchronized oscillation in the thalamus.</strong> <a href="../../wp-content/uploads/2025/10/von-Krosigk-1993-Cellular-m.pdf">PDF</a>
+von Krosigk et al. 1993. <strong>Cellular mechanisms of synchronized oscillation in the thalamus.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Steriade et al. 1993. <strong>Thalamocortical oscillations in the sleeping and aroused brain.</strong> <a href="../../wp-content/uploads/2025/10/Steriade-1993-Thalamocor.pdf">PDF</a>
+Steriade et al. 1993. <strong>Thalamocortical oscillations in the sleeping and aroused brain.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Kim and McCormick 1998. <strong>Functional influence of burst and tonic mode on synaptic interactions in the thalamus.</strong> <a href="../../wp-content/uploads/2025/10/1998-K-McCormick-The_functional_influence_of_burst_and_tonic_firing_mode_on_synaptic_interactions_in_the_thalamus.pdf">PDF</a>
+Kim and McCormick 1998. <strong>Functional influence of burst and tonic mode on synaptic interactions in the thalamus.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 18
 
-Koch 2012. <strong>The origins of extracellular fields and currents.</strong> <a href="../../wp-content/uploads/2025/11/2012-B-Koch-The_origin_of_extracellular_fields_and_currents_—_EEG_ECoG_LFP_and_spikes-MarkUp.pdf">PDF</a>
+Koch 2012. <strong>The origins of extracellular fields and currents.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Sherman 2007. <strong>Thalamic relay, drivers and modulators.</strong> <a href="../../wp-content/uploads/2025/11/Sherman-2007-The-thalam-MarkUp.pdf">PDF</a>
+Sherman 2007. <strong>Thalamic relay, drivers and modulators.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087. <a href="../../wp-content/uploads/2025/11/CashEtal2009KComplexes.pdf">PDF</a>
+Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Ghodrati et al. 2017. <strong>Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.</strong> <em>Progress in Neurobiology</em>, 156, 214-255. <a href="../../wp-content/uploads/2025/11/GhodratiEtal2017LGNReview.pdf">PDF</a>
+Ghodrati et al. 2017. <strong>Towards building a more complex view of the lateral geniculate nucleus: Recent advances in understanding its role.</strong> <em>Progress in Neurobiology</em>, 156, 214-255. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113. <a href="../../wp-content/uploads/2025/11/2010-U-Singer-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf">PDF</a>
+Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 19
 
-<strong>Local field potentials.</strong> Scholarpedia. <a href="../../wp-content/uploads/2025/11/Local-field-potential-Scholarpedia-MarkUp.pdf">Highlighted PDF</a>
+<strong>Local field potentials.</strong> Scholarpedia. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Highlighted PDF</a>
 
-Kiehn and Forssberg. <strong>The brain's navigational place and grid cell system.</strong> <a href="../../wp-content/uploads/2025/11/KeihnForssbert2014-_The_Brains_Navigational_Place_and_Grid_Cell_System.pdf">PDF</a>
+Kiehn and Forssberg. <strong>The brain's navigational place and grid cell system.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Marozzi and Jeffery. <strong>Place, space and memory cells.</strong> <a href="../../wp-content/uploads/2025/11/MarozziJeffery2012-Place_space_and_memory_cells.pdf">PDF</a>
+Marozzi and Jeffery. <strong>Place, space and memory cells.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 <strong>You Are Here - RadioLab.</strong> <a href="http://www.radiolab.org/story/110165-you-are-here/">RadioLab</a>
 
-Kim et al. <strong>Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization.</strong> <a href="../../wp-content/uploads/2025/11/KimEtalEnhancingMemoryConsolidation.pdf">PDF</a>
+Kim et al. <strong>Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 20
 
-Braddick, O. <strong>Spatial frequency analysis in vision.</strong> <a href="../../wp-content/uploads/2025/11/Braddick81-SpatialFreqencyAnalysis.pdf">PDF</a>
+Braddick, O. <strong>Spatial frequency analysis in vision.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Carandini et al. <strong>Do we know what the early visual system does?</strong> <a href="../../wp-content/uploads/2025/11/CarandiniEtal2005.pdf">PDF</a>
+Carandini et al. <strong>Do we know what the early visual system does?</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Baden et al. <strong>Understanding the retinal basis of vision across species.</strong> <a href="../../wp-content/uploads/2025/11/BadenEtal2020-UnderstandingTheRetinalBasisOfVisionAcrossSpecies.pdf">PDF</a>
+Baden et al. <strong>Understanding the retinal basis of vision across species.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Nelson, R. <strong>Visual responses of ganglion cells.</strong> <a href="../../wp-content/uploads/2025/11/Nelson_VisualResponsesOfGanglionCells_Bookshelf_NBK11550.pdf">PDF</a>
+Nelson, R. <strong>Visual responses of ganglion cells.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Neitz et al. <strong>Color Vision: Almost Reason Enough for Having Eyes.</strong> <a href="../../wp-content/uploads/2025/11/NeitzEtal2001-Almost_Reason_Enough_for_Having_Eyes.pdf">PDF</a>
+Neitz et al. <strong>Color Vision: Almost Reason Enough for Having Eyes.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Lecture 21
 
-Wang 2010. <strong>Neurophysiological and computational principles of cortical rhythms in cognition.</strong> <a href="../../wp-content/uploads/2025/11/Wang2010-Neurophysiological_and_Computational_Principles_of_Cortical_Rhythms_in_Cognition-MarkUp.pdf">PDF</a>
+Wang 2010. <strong>Neurophysiological and computational principles of cortical rhythms in cognition.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Uhlhaas and Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <a href="../../wp-content/uploads/2025/11/UhlhaasSinger2010-Abnormal_neural_oscillations_and_synchrony_in_schizophrenia-MarkUp.pdf">PDF</a>
+Uhlhaas and Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Jones 2007. <strong>Calcium channels in higher level brain function.</strong> <a href="../../wp-content/uploads/2025/11/Jones-2007-Calcium.pdf">PDF</a>
+Jones 2007. <strong>Calcium channels in higher level brain function.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Shin et al. 2007. <strong>Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice.</strong> <a href="../../wp-content/uploads/2025/11/ShinEtal2007-Gamma-band_deficiency_and_abnormal_thalamocortical_activity_in_PQ-type_channel_mutant_mice-MarkUp.pdf">PDF</a>
+Shin et al. 2007. <strong>Gamma-band deficiency and abnormal thalamocortical activity in P/Q-type channel mutant mice.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Beierlein et al. 2003. <strong>Two dynamically distinct inhibitory networks in layer 4 of the neocortex.</strong> <a href="../../wp-content/uploads/2025/11/BeiereleinEtal2003-Connors-Two_dynamically_distinct_inhibitory_networks_in_layer_4_of_the_neocortex-MarkUp.pdf">PDF</a>
+Beierlein et al. 2003. <strong>Two dynamically distinct inhibitory networks in layer 4 of the neocortex.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Grillner et al. 2005. <strong>Microcircuits in action - from CPGs to neocortex.</strong> <a href="../../wp-content/uploads/2025/11/GrillnerEtal2005-Microcircuits_in_action-from_CPGs_to_neocortex-MarkUp.pdf">PDF</a>
+Grillner et al. 2005. <strong>Microcircuits in action - from CPGs to neocortex.</strong> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Readings (not to be distributed)
 
-Bean, B. P. (2007). The action potential in mammalian central neurons. <em>Nature Reviews Neuroscience</em>, <em>8</em>(6), 451-465. <a href="../../wp-content/uploads/2021/04/beananatomyofactionpotential.pdf">PDF</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">PubMed</a> <a href="https://doi.org/10.1038/nrn2148">DOI</a> <a href="https://www.nature.com/articles/nrn2148">Publisher</a>
+Bean, B. P. (2007). The action potential in mammalian central neurons. <em>Nature Reviews Neuroscience</em>, <em>8</em>(6), 451-465. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">PubMed</a> <a href="https://doi.org/10.1038/nrn2148">DOI</a> <a href="https://www.nature.com/articles/nrn2148">Publisher</a>
 
 Clark RB, Kondo C, Belke DD, Giles WR. Two-pore domain K⁺ channels regulate membrane potential of isolated human articular chondrocytes. J Physiol. 2011;589 (Pt 21):5071-89 <a href="https://doi.org/10.1113/jphysiol.2011.210757">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21911614/">Publisher</a>
 
-Corry, Ben. “Understanding ion channel selectivity and gating and their role in cellular signalling.” <em>Molecular Biosystems</em> 2.11 (2006): 527-535 <a href="https://doi.org/10.1039/b610062g">DOI</a> <a href="../../wp-content/uploads/2021/04/corry-2006-understanding-ion-channel-selectivity-and-gating-and-their-role-in-cellular-signalling.pdf">PDF</a>
+Corry, Ben. “Understanding ion channel selectivity and gating and their role in cellular signalling.” <em>Molecular Biosystems</em> 2.11 (2006): 527-535 <a href="https://doi.org/10.1039/b610062g">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Dolphin AC. A short history of voltage-gated calcium channels. Br J Pharmacol. 2006 Jan;147 Suppl 1(Suppl 1):S56-62. <a href="../../wp-content/uploads/2021/04/dolphin-2009-a-short-hi.pdf">Mark up</a> <a href="https://doi.org/10.1038/sj.bjp.0706442">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16402121/">PubMed</a>
+Dolphin AC. A short history of voltage-gated calcium channels. Br J Pharmacol. 2006 Jan;147 Suppl 1(Suppl 1):S56-62. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Mark up</a> <a href="https://doi.org/10.1038/sj.bjp.0706442">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16402121/">PubMed</a>
 
-Ermentrout, G. B., & Terman, D. H. (2010) in <em>Mathematical foundations of neuroscience</em> (Vol. 35). Springer Science & Business Media. Chapter 3 Dynamics <a href="https://doi.org/10.1007/978-0-387-87708-2_3">DOI</a> <a href="../../wp-content/uploads/2021/04/2010-e-terman-mathematical_foundations_of_neuroscience_-_ch_3_-_dynamics.pdf">PDF</a>
+Ermentrout, G. B., & Terman, D. H. (2010) in <em>Mathematical foundations of neuroscience</em> (Vol. 35). Springer Science & Business Media. Chapter 3 Dynamics <a href="https://doi.org/10.1007/978-0-387-87708-2_3">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 Fall, C.P., Marland, E.S., Wagner, J.M. and Tyson, J.J. 2002. Computational cell biology.<a href="https://www.amazon.com/dp/0387953698">Amazon</a> <a href="https://doi.org/10.1007/b97701">DOI</a> <a href="http://alraziuni.edu.ye/book1/Laboratories/Fall%20-%20Computational%20Cell%20Biology.pdf">PDF</a>
 
-- Chapter 1 Dynamic Phenomena in Cells. <a href="../../wp-content/uploads/2021/04/falletalch11.pdf">PDF</a>
+- Chapter 1 Dynamic Phenomena in Cells. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 - Chapter 6 Intracellular Communication by John Rinzel. <a href="https://apsc450computationalneuroscience.files.wordpress.com/2019/02/johnrinzel_intracellularcommunicationch6jkbook.pdf">PDF</a>
 
-Finkelstein, Alan, and Alexander Mauro. "Equivalent circuits as related to ionic systems." <em>Biophysical journal</em> 3.3 (1963): 215-237 <a href="https://doi.org/10.1016/s0006-3495(63)86817-4">DOI</a> <a href="../../wp-content/uploads/2021/04/finkelstein-1963-equivalent.pdf">PDF</a>
+Finkelstein, Alan, and Alexander Mauro. "Equivalent circuits as related to ionic systems." <em>Biophysical journal</em> 3.3 (1963): 215-237 <a href="https://doi.org/10.1016/s0006-3495(63)86817-4">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." <em>Nature neuroscience</em> 3.11 (2000): 1165-1165. <a href="../../wp-content/uploads/2021/04/hausser-2000-the-hodgki.pdf">PDF</a> <a href="https://doi.org/10.1038/81426">DOI</a> <a href="https://www.nature.com/articles/nn1100_1165">Publisher</a>
+Häusser, Michael. "The Hodgkin-Huxley theory of the action potential." <em>Nature neuroscience</em> 3.11 (2000): 1165-1165. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://doi.org/10.1038/81426">DOI</a> <a href="https://www.nature.com/articles/nn1100_1165">Publisher</a>
 
-Heeger, D. The Membrane Equation <a href="../../wp-content/uploads/2021/04/themembraneequationdavidheeger.pdf">PDF</a>
+Heeger, D. The Membrane Equation <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Hille, B. Ion Channels of Excitable Membranes <a href="../../wp-content/uploads/2021/04/hille-chapter1-introduction-ionicchannelsofexcitablemembranes-best.pdf">PDF</a>
+Hille, B. Ion Channels of Excitable Membranes <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-- Introduction. Chapter 1 <a href="../../wp-content/uploads/2021/04/hille-chapter1-introduction-ionicchannelsofexcitablemembranes-best.pdf">PDF</a>
-- Classical biophysics of the squid giant axon. Chapter 2 <a href="../../wp-content/uploads/2021/04/2001-h-hille-ion_channels_of_excitable_membranes_-_ch_2_-_classical_biophysics_of_the_squid_giant_axon-best.pdf">PDF</a>
-- Selective Permeability: Independence. Chapter 14 <a href="../../wp-content/uploads/2021/04/hille-ch14.pdf">PDF</a>
+- Introduction. Chapter 1 <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
+- Classical biophysics of the squid giant axon. Chapter 2 <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
+- Selective Permeability: Independence. Chapter 14 <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Kiehn O, Eken T. Functional role of plateau potentials in vertebrate motor neurons. Curr Opin Neurobiol. 1998 Dec;8(6):746-52. <a href="../../wp-content/uploads/2021/04/curropinneurobiol1998kiehnmarkup.pdf">Mark up</a> <a href="https://doi.org/10.1016/s0959-4388(98)80117-7">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9914232/">PubMed</a>
+Kiehn O, Eken T. Functional role of plateau potentials in vertebrate motor neurons. Curr Opin Neurobiol. 1998 Dec;8(6):746-52. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Mark up</a> <a href="https://doi.org/10.1016/s0959-4388(98)80117-7">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9914232/">PubMed</a>
 
-Lipscombe D, Helton TD, Xu W. L-type calcium channels: the low down. J Neurophysiol. 2004 Nov;92(5):2633-41. <a href="../../wp-content/uploads/2021/04/lipscombe-2004-l-type-cal.pdf">Mark up</a> <a href="https://doi.org/10.1152/jn.00486.2004">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15486420/">PubMed</a>
+Lipscombe D, Helton TD, Xu W. L-type calcium channels: the low down. J Neurophysiol. 2004 Nov;92(5):2633-41. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Mark up</a> <a href="https://doi.org/10.1152/jn.00486.2004">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15486420/">PubMed</a>
 
-McCormick 1998 “Membrane properties and neurotransmitter actions” (pp. 37-75 of “The Synaptic Organization of the Brain,” edited by Gordon Shepard). <a href="../../wp-content/uploads/2021/04/mccormick-1998-membrane-p.pdf">PDF</a> <a href="https://doi.org/10.1093/acprof:oso/9780195159561.003.0002">DOI</a>
+McCormick 1998 “Membrane properties and neurotransmitter actions” (pp. 37-75 of “The Synaptic Organization of the Brain,” edited by Gordon Shepard). <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://doi.org/10.1093/acprof:oso/9780195159561.003.0002">DOI</a>
 
-Nelson and Rinzel 2012. "The Hodgkin-Huxley model." This is Ch 4 of "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System" by James M. Bower and David Beeman. <a href="../../wp-content/uploads/2021/04/2003-n-rinzel-the_hodgkin-huxley_model_-_ch_4_of_the_book_of_genesis.pdf">PDF</a>
+Nelson and Rinzel 2012. "The Hodgkin-Huxley model." This is Ch 4 of "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System" by James M. Bower and David Beeman. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Rinzel, J., & Ermentrout, G. B. (1998). Analysis of neural excitability and oscillations. <em>Methods in neuronal modeling</em>, <em>2</em>, 251-292. <a href="../../wp-content/uploads/2021/04/1998-r-ermentrout-analysis_of_neural_excitability_and_oscillations.pdf">PDF</a> <a href="https://doi.org/10.7551/mitpress/9780262013277.003.0002">DOI</a>
+Rinzel, J., & Ermentrout, G. B. (1998). Analysis of neural excitability and oscillations. <em>Methods in neuronal modeling</em>, <em>2</em>, 251-292. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a> <a href="https://doi.org/10.7551/mitpress/9780262013277.003.0002">DOI</a>
 
-Sigworth FJ. Structural biology: Life's transistors. Nature. 2003 May 1;423(6935):21-2. <a href="../../wp-content/uploads/2021/04/sigworth-2003-lifestransistors.pdf">Mark up</a> <a href="https://doi.org/10.1038/423021a">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12721605/">PubMed</a>
+Sigworth FJ. Structural biology: Life's transistors. Nature. 2003 May 1;423(6935):21-2. <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Mark up</a> <a href="https://doi.org/10.1038/423021a">DOI</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12721605/">PubMed</a>
 
-Terman pp. 21-28 “An introduction to dynamical systems and neuronal dynamics.” (Introduction & One Dimensional Equations) <a href="../../wp-content/uploads/2021/04/2004-t-terman-an_introduction_to_dynamical_systems_and_neuronal_dynamics.pdf">PDF</a>
+Terman pp. 21-28 “An introduction to dynamical systems and neuronal dynamics.” (Introduction & One Dimensional Equations) <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
-Wilson, C. Scholarpedia entry for "Up and down states." <a href="../../wp-content/uploads/2025/09/Up-and-down-states-Scholarpedia-MarkUp3.pdf">Mark up</a> <a href="http://www.scholarpedia.org/article/Up_and_down_states">Publisher</a>
+Wilson, C. Scholarpedia entry for "Up and down states." <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">Mark up</a> <a href="http://www.scholarpedia.org/article/Up_and_down_states">Publisher</a>
 
-Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. Exp Neurol. 2013. Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a> <a href="https://doi.org/10.1016/j.expneurol.2012.11.002">DOI</a> <a href="../../wp-content/uploads/2021/04/2012-p-zona-over-expression_of_n-type_calcium_channels_in_cortical_neurons_from_a_mouse_model_of_amyotrophic_lateral_sclerosis-mark-up.pdf">PDF</a>
+Pieri M, Caioli S, Canu N, Mercuri NB, Guatteo E, Zona C. Exp Neurol. 2013. Over-expression of N-type calcium channels in cortical neurons from a mouse model of Amyotrophic Lateral Sclerosis. <a href="https://pubmed.ncbi.nlm.nih.gov/23142186/">PubMed</a> <a href="https://doi.org/10.1016/j.expneurol.2012.11.002">DOI</a> <a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/readings.md">PDF</a>
 
 ## Further Reading
 

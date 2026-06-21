@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 90
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-9.md). Access requires permission to the private repository.
+
 # Voltage-clamp recording and the classical biophysics of the squid giant axon
 
 ## Required Reading
@@ -43,7 +45,7 @@ The following mathematics lectures discuss concepts from linear algebra that wil
 
 ## Fall 2025 Slides
 
-- [Lecture9-(VoltageClampAndHodgkinHuxley)](../../wp-content/uploads/2025/10/Lecture9-VoltageClampAndHodgkinHuxley.pdf)
+- [Lecture9-(VoltageClampAndHodgkinHuxley)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-9.md)
 
 ## Optional Reading and Resources
 
@@ -59,6 +61,6 @@ The following mathematics lectures discuss concepts from linear algebra that wil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpOZ5zYPxy8" title="DelNegroLecture11 HodgkinHuxleyTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 9 2024 slides: Voltage-Gated Currents](../../wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf)
+- [Lecture 9 2024 slides: Voltage-Gated Currents](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-9.md)
 
-- [Lecture 9 2024 problem set](../../wp-content/uploads/2024/10/Lecture9_problemSet.pdf)
+- [Lecture 9 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-9.md)

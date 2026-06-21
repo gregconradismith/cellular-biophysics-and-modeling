@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 200
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md). Access requires permission to the private repository.
+
 # Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis
 
 ## Required Reading
@@ -23,7 +25,7 @@ lecture_rank: 200
 
 ## Fall 2025 Slides
 
-- [Lecture20(VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis](../../wp-content/uploads/2025/11/Lecture20VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis.pdf)
+- [Lecture20(VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
 
 ## Further Reading and Watching
 
@@ -39,9 +41,9 @@ lecture_rank: 200
 
 ## Fall 2024 Materials
 
-- [Lecture 20 2024 slides: Central Pattern Generators](<../../wp-content/uploads/2024/12/Lecture20(CPGs).pdf>)
+- [Lecture 20 2024 slides: Central Pattern Generators](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
 
-- [Lecture 20 2024 problem set](../../wp-content/uploads/2024/12/Lecture20-problemSet.pdf)
+- [Lecture 20 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
 
 - [Mutually excitatory oscillators synchronizing](<../../wp-content/uploads/2024/12/fig%2002-Apr-2013%2021%3A06%3A43%20(MutuallyExcitatoryOscillatorsSynchronizating).gif>)
 

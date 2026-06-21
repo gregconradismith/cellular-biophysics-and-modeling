@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 130
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-13.md). Access requires permission to the private repository.
+
 # The Morris-Lecar Phase Plane - Type 1 vs 2 excitability and oscillations
 
 ## Required Reading
@@ -22,7 +24,7 @@ lecture_rank: 130
 
 ## Fall 2025 Slides
 
-- [Lecture13-(TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability)](../../wp-content/uploads/2025/10/Lecture13-TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability.pdf)
+- [Lecture13-(TheMorrisLecarPhasePlaneType2AndType1OscillationsAndExcitability)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-13.md)
 
 ## <span style="color: var(--color-text);"> </span>
 
@@ -36,6 +38,6 @@ lecture_rank: 130
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmCsgUlrLso" title="DelNegroLecture15 MorrisLecarType1ExcitabilityTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems](<../../wp-content/uploads/2024/10/Lecture13-(PhasePlaneLinearNonlinear).pdf>)
+- [Lecture 13 2024 slides: Phase Plane, Linear and Nonlinear Systems](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-13.md)
 
-- [Lecture 13 2024 problem set](../../wp-content/uploads/2024/10/Lecture13_problemSet.pdf)
+- [Lecture 13 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-13.md)

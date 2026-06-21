@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 180
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md). Access requires permission to the private repository.
+
 # EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function
 
 ## Required Reading
@@ -17,7 +19,7 @@ lecture_rank: 180
 
 ## Fall 2025 Slides
 
-- [Lecture18(EEGSensoryGatingDriversModulators)](../../wp-content/uploads/2025/11/Lecture18EEGSensoryGatingDriversModulators.pdf)
+- [Lecture18(EEGSensoryGatingDriversModulators)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md)
 
 ## Further Reading and Resources
 
@@ -29,4 +31,4 @@ Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in sch
 
 ## Fall 2024 Materials
 
-- [Lecture 18 2024 slides: Low-Threshold Spikes](<../../wp-content/uploads/2024/11/Lecture18-(LTS).pdf>)
+- [Lecture 18 2024 slides: Low-Threshold Spikes](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md)

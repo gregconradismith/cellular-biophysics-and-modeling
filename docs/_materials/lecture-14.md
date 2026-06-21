@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 140
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md). Access requires permission to the private repository.
+
 # Square-wave bursting and homoclinic bifurcations
 
 ## Required Reading
@@ -23,7 +25,7 @@ lecture_rank: 140
 
 ## Fall 2025 Slides
 
-- [Lecture14(MorrisLecarSquareWaveBursting)](../../wp-content/uploads/2025/10/Lecture14MorrisLecarSquareWaveBursting.pdf)
+- [Lecture14(MorrisLecarSquareWaveBursting)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
 
 ## Fall 2024 Materials
 
@@ -31,8 +33,8 @@ lecture_rank: 140
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzdLjGiuTio" title="DelNegroLecture16 BifurcationsAndBurstingTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 14 2024 slides: FitzHugh-Nagumo](<../../wp-content/uploads/2024/10/Lecture14-(FitzhughNagumo).pdf>)
+- [Lecture 14 2024 slides: FitzHugh-Nagumo](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
 
-- [Lecture 14 2024 problem set](../../wp-content/uploads/2024/10/Lecture14-problemSet.pdf)
+- [Lecture 14 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
 
 - [Hindmarsh-Rose 2d figure](../../wp-content/uploads/2024/10/HindmarshRose2D.png)

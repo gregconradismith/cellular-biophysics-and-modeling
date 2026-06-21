@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 30
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-3.md). Access requires permission to the private repository.
+
 # Compartmental modeling, physical dimensions, phase diagrams, calcium influx experiment
 
 ## Required Reading
@@ -23,10 +25,10 @@ lecture_rank: 30
 
 ## Fall 2025 Slides
 
-- [Lecture3-(CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions)](../../wp-content/uploads/2025/09/Lecture3-CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions.pdf)
+- [Lecture3-(CompartmentModelPhaseDiagramExponentialRelaxationPhysicalDimensions)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-3.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 3 2024 slides: Ligands, Receptors, and Rate Laws](../../wp-content/uploads/2024/09/Lecture3_2024_LigandsReceptorsRateLaws.pdf)
+- [Lecture 3 2024 slides: Ligands, Receptors, and Rate Laws](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-3.md)
 
-- [Lecture 3 2024 problem set](../../wp-content/uploads/2024/09/Lecture3_problemSet.pdf)
+- [Lecture 3 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-3.md)

@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 20
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md). Access requires permission to the private repository.
+
 # Post-Synaptic Potentials, Qualitative Analysis, Characteristic Times
 
 ## Resources (Optional Reading)
@@ -18,12 +20,12 @@ lecture_rank: 20
 
 ## Fall 2025 Slides
 
-- [Lecture2-(QualitativeAnalysisAndCharacteristicTimes)](../../wp-content/uploads/2025/09/Lecture2-QualitativeAnalysisAndCharacteristicTimes.pdf)
+- [Lecture2-(QualitativeAnalysisAndCharacteristicTimes)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 2 2024 slides: Compartment Modeling, Phase Diagrams, Units, and Tau](../../wp-content/uploads/2024/09/Lecture2_2024_CompartModPhaseDiagUnitsTau.pdf)
+- [Lecture 2 2024 slides: Compartment Modeling, Phase Diagrams, Units, and Tau](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md)
 
-- [Lecture 2 2024 problem set](../../wp-content/uploads/2024/09/Lecture2_problemSet.pdf)
+- [Lecture 2 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md)
 
-- [Closed-form solution](../../wp-content/uploads/2024/09/ClosedFormSolution.pdf)
+- [Closed-form solution](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md)

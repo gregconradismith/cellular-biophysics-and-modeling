@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 40
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-4.md). Access requires permission to the private repository.
+
 # Nernst equilibrium potentials and the GHK voltage equation
 
 ## Required Reading
@@ -20,10 +22,10 @@ lecture_rank: 40
 
 ## Fall 2025 Slides
 
-- [Lecture4-(NernstEquilibriumPotentialAndGHKVoltageEquation)](../../wp-content/uploads/2025/09/Lecture4-NernstEquilibriumPotentialAndGHKVoltageEquation.pdf)
+- [Lecture4-(NernstEquilibriumPotentialAndGHKVoltageEquation)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-4.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 4 2024 slides: Postsynaptic Potentials, Characteristic Time, and Qualitative Analysis](../../wp-content/uploads/2024/09/Lecture4_2024_PostsynapticPotCharTimeQualAnalysis.pdf)
+- [Lecture 4 2024 slides: Postsynaptic Potentials, Characteristic Time, and Qualitative Analysis](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-4.md)
 
-- [Lecture 4 2024 problem set](../../wp-content/uploads/2024/09/Lecture4_problemSet.pdf)
+- [Lecture 4 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-4.md)

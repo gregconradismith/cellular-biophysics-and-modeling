@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 191
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-19-2.md). Access requires permission to the private repository.
+
 # Local field potentials, unit recordings, hippocampal place cells
 
 ## Required Reading
@@ -18,7 +20,7 @@ lecture_rank: 191
 
 ## Fall 2025 Slides
 
-- [Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm)](../../wp-content/uploads/2025/11/Lecture19LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm.pdf)
+- [Lecture19(LocalFieldPotentialsHippocampalPlaceCellsThetaRhythm)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-19-2.md)
 
 Optional Reading and Resources
 
@@ -27,4 +29,4 @@ Optional Reading and Resources
 
 ## Fall 2024 Materials
 
-- [Lecture 19 2024 slides: Synapses and Thalamocortical Networks](<../../wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf>)
+- [Lecture 19 2024 slides: Synapses and Thalamocortical Networks](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-19-2.md)

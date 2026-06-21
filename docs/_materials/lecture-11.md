@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 110
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md). Access requires permission to the private repository.
+
 # Phase plane analysis of 2d ODE systems
 
 ## Required Reading
@@ -28,7 +30,7 @@ lecture_rank: 110
 
 ## Fall 2025 Slides
 
-- [Lecture11-(PhasePlaneAndLinearStabilityAnalysis)](../../wp-content/uploads/2025/10/Lecture11-PhasePlaneAndLinearStabilityAnalysis.pdf)
+- [Lecture11-(PhasePlaneAndLinearStabilityAnalysis)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)
 
 ## Optional Reading and Resources
 
@@ -68,12 +70,12 @@ For more information on <em>phase plane analysis</em> see Sections 7.1-7.5 by Ed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TZQwe-gmuqk" title="DelNegroLecture13 PhasePlaneAnalysisTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 11 2024 slides part 1: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-1_voltageClampHH.pdf)
+- [Lecture 11 2024 slides part 1: Voltage Clamp and Hodgkin-Huxley](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)
 
-- [Lecture 11 2024 slides part 2: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-2_voltageClampHH.pdf)
+- [Lecture 11 2024 slides part 2: Voltage Clamp and Hodgkin-Huxley](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)
 
-- [Lecture 11 2024 slides part 3: Voltage Clamp and Hodgkin-Huxley](../../wp-content/uploads/2024/10/Lecture11-3_voltageClampHH.pdf)
+- [Lecture 11 2024 slides part 3: Voltage Clamp and Hodgkin-Huxley](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)
 
-- [Lecture 11 2024 problem set](../../wp-content/uploads/2024/10/Lecture11_problemSet.pdf)
+- [Lecture 11 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)
 
-- [HH model equations](../../wp-content/uploads/2024/10/HHmodelEquations.pdf)
+- [HH model equations](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md)

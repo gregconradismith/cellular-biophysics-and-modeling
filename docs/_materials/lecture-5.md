@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 50
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-5.md). Access requires permission to the private repository.
+
 # The current balance equation for membrane voltage
 
 ## REQUIRED READING
@@ -22,10 +24,10 @@ lecture_rank: 50
 
 ## Fall 2025 Slides
 
-- [Lecture5-(RCCircuitTheoryOfPlasmaMembrane)](../../wp-content/uploads/2025/09/Lecture5-RCCircuitTheoryOfPlasmaMembrane.pdf)
+- [Lecture5-(RCCircuitTheoryOfPlasmaMembrane)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-5.md)
 
 ## Fall 2024 Materials
 
-- [Lecture 5 2024 slides: Linear Stability and Bifurcations](../../wp-content/uploads/2024/09/Lecture5_LiinearStabilityBifurcations.pdf)
+- [Lecture 5 2024 slides: Linear Stability and Bifurcations](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-5.md)
 
-- [Lecture 5 2024 problem set](../../wp-content/uploads/2024/09/Lecture5_problemSet.pdf)
+- [Lecture 5 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-5.md)

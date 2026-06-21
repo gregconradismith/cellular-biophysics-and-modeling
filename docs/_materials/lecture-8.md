@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 80
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md). Access requires permission to the private repository.
+
 # Bifurcation diagrams
 
 ## Required Reading and Watching
@@ -28,7 +30,7 @@ lecture_rank: 80
 
 ## Fall 2025 Slides
 
-- [Lecture8-(FoldTranscriticalPitchforkBifurcation)](../../wp-content/uploads/2025/09/Lecture8-FoldTranscriticalPitchforkBifurcation-1.pdf)
+- [Lecture8-(FoldTranscriticalPitchforkBifurcation)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md)
 
 ## Optional Reading and Resources
 
@@ -62,8 +64,8 @@ lecture_rank: 80
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqGN1DC1cL0" title="DelNegroLecture05 SupercriticalPitchforkBifurcation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 8 2024 slides: GHK](../../wp-content/uploads/2024/09/Lecture8_GHK.pdf)
+- [Lecture 8 2024 slides: GHK](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md)
 
-- [Lecture 8 2024 problem set](../../wp-content/uploads/2024/09/Lecture8_problemSet.pdf)
+- [Lecture 8 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md)
 
-- [GHK derivation](../../wp-content/uploads/2024/09/GHK-derivation.pdf)
+- [GHK derivation](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md)

@@ -7,6 +7,8 @@ permalink: "/pages/syllabus/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/syllabus.md). Access requires permission to the private repository.
+
 # Cellular Biophysics & Modeling
 
 APSC 351
@@ -134,6 +136,6 @@ The content of Unit 3 varies across course offerings. Topics have included:
 
 <div class="wp-block-file">
 
-<a href="../../wp-content/uploads/2025/08/cbm-syllabus-fall-2025-2.pdf" id="wp-block-file--media-835ba2e4-0ab1-41d1-9291-9386fb4faa5e" target="_blank" rel="noreferrer noopener">Original syllabus PDF</a>
+<a href="https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/syllabus.md" id="wp-block-file--media-835ba2e4-0ab1-41d1-9291-9386fb4faa5e" target="_blank" rel="noreferrer noopener">Original syllabus PDF</a>
 
 </div>

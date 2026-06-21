@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 120
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md). Access requires permission to the private repository.
+
 # The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane
 
 ## Required Reading
@@ -54,7 +56,7 @@ lecture_rank: 120
 
 ## Fall 2025 Slides
 
-- [Lecture12-TheFitzhughNagumoModel](../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel.pdf)
+- [Lecture12-TheFitzhughNagumoModel](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
 
 ## Optional Reading and Resources 
 
@@ -63,10 +65,10 @@ lecture_rank: 120
 
 ## Fall 2024 Materials
 
-- [Lecture 12 2024 slides part 1: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-1_MorrisLecar.pdf)
+- [Lecture 12 2024 slides part 1: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
 
-- [Lecture 12 2024 slides part 2: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-2_MorrisLecar.pdf)
+- [Lecture 12 2024 slides part 2: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
 
-- [Lecture 12 2024 slides part 3: Morris-Lecar](../../wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf)
+- [Lecture 12 2024 slides part 3: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
 
-- [Lecture 12 2024 problem set](../../wp-content/uploads/2024/10/Lecture12_problemSet.pdf)
+- [Lecture 12 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)

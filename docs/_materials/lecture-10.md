@@ -8,6 +8,8 @@ render_with_liquid: false
 lecture_rank: 100
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-10.md). Access requires permission to the private repository.
+
 # The Morris-Lecar model and phase plane
 
 ## Required Reading
@@ -18,7 +20,7 @@ lecture_rank: 100
 
 ## Fall 2025 Slides
 
-- [Lecture10-(IntroToMorrisLecarModel)](../../wp-content/uploads/2025/10/Lecture10-IntroToMorrisLecarModel.pdf)
+- [Lecture10-(IntroToMorrisLecarModel)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-10.md)
 
 ## Optional Reading and Resources
 
@@ -27,6 +29,6 @@ lecture_rank: 100
 
 ## Fall 2024 Materials
 
-- [Lecture 10 2024 slides: Voltage Dependence and Bistability](../../wp-content/uploads/2024/10/Lecture10_Vdep_bistable.pdf)
+- [Lecture 10 2024 slides: Voltage Dependence and Bistability](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-10.md)
 
-- [Lecture 10 2024 problem set](../../wp-content/uploads/2024/10/Lecture10_problemSet.pdf)
+- [Lecture 10 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-10.md)
