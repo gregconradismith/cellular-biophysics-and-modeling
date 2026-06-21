@@ -26,12 +26,19 @@ layout: default
         {% endfor %}
       </ol>
       {% else %}
-      <div class="card-grid" data-filter-list>
+      <div class="archive-list" data-filter-list>
         {% for item in items %}
-        <article class="card" data-filter-item>
-          <p class="eyebrow">Course material</p>
-          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
+        <article class="archive-item{% if item.image %} has-thumbnail{% endif %}" data-filter-item>
+          <span class="archive-label">Course material</span>
+          <div>
+            <h2><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h2>
+            <p>{{ item.description | default: item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 28 }}</p>
+          </div>
+          {% if item.image %}
+          <a class="archive-thumbnail" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | escape }}">
+            <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}">
+          </a>
+          {% endif %}
         </article>
         {% endfor %}
       </div>
