@@ -6,6 +6,8 @@ slug: "lecture-1"
 permalink: "/pages/lecture-1/"
 render_with_liquid: false
 lecture_rank: 10
+image: "/wp-content/uploads/2018/11/cbmprimercover.png"
+image_alt: "Cellular Biophysics and Modeling primer cover"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md). Access requires permission to the private repository.

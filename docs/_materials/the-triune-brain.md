@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "the-triune-brain"
 permalink: "/pages/the-triune-brain/"
 render_with_liquid: false
+image: "/wp-content/uploads/2025/08/animal_brain_comparison.jpg"
+image_alt: "Comparison of animal brains"
 ---
 
 ##

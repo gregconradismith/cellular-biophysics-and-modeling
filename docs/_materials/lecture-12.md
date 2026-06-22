@@ -6,6 +6,8 @@ slug: "lecture-12"
 permalink: "/pages/lecture-12/"
 render_with_liquid: false
 lecture_rank: 120
+image: "/wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-DepolarizingPulse.gif"
+image_alt: "FitzHugh-Nagumo response to a depolarizing pulse"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md). Access requires permission to the private repository.

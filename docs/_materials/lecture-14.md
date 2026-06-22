@@ -6,6 +6,8 @@ slug: "lecture-14"
 permalink: "/pages/lecture-14/"
 render_with_liquid: false
 lecture_rank: 140
+image: "/wp-content/uploads/2024/10/HindmarshRose2D.png"
+image_alt: "Hindmarsh-Rose model phase plane"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md). Access requires permission to the private repository.
