@@ -7,7 +7,7 @@ permalink: "/pages/about/"
 render_with_liquid: false
 ---
 
-Cellular Biophysics and Modeling is a required mathematical course in [William & Mary](https://www.wm.edu/)'s [Neuroscience program](https://www.wm.edu/as/neuroscience/index.php). The course curriculum was initially developed as part of an NSF CAREER grant to this blog's author, [Greg Conradi Smith](https://gregconradismith.wordpress.com/). For more than a decade, Cellular Biophysics and Modeling has been taught once per academic year to 50-100 undergraduate students.
+Cellular Biophysics and Modeling is a required mathematical course in [William & Mary](https://www.wm.edu/)'s [Neuroscience program](https://www.wm.edu/as/neuroscience/index.php). The course curriculum was initially developed as part of an NSF CAREER grant to the course author, Greg Conradi Smith. For more than a decade, Cellular Biophysics and Modeling has been taught once per academic year to 50-100 undergraduate students.
 
 Cellular Biophysics and Modeling is an integrated exposition of electrophysiology of excitable cells and introductory nonlinear dynamics. The course includes challenging readings from the primary literature and weekly homework assignments. The prerequisites are calculus and a 200-level introduction to cell and molecular biology.
 

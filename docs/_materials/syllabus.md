@@ -33,9 +33,7 @@ https://doi-org.proxy.wm.edu/10.1017/9780511793905
 
 A print copy can be obtained from the College Bookstore or Amazon.
 
-Additional readings from relevant books and the primary literature will be posted on the course blog:
-
-https://cellularbiophysicsandmodeling.wordpress.com
+Additional readings from relevant books and the primary literature will be posted on the course site.
 
 PDFs of these readings and the required text should not be distributed beyond W&M.
 
