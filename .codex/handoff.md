@@ -1,10 +1,27 @@
 # Codex Handoff
 
-Date: 2026-06-20
+Date: 2026-06-22
 
 Repo: `cellular-biophysics-and-modeling`
 
 Branch: `main`
+
+<!-- codex-transfer-snapshot:start -->
+## 2026-06-22 Computer Transfer Snapshot
+
+- Checked on 2026-06-22 from `/Users/greg/Git` before moving computers.
+- Ran `git fetch --all --prune`; `main` is tracking `origin/main` unless this status says otherwise.
+- Origin: `git@github.com:gregconradismith/cellular-biophysics-and-modeling.git`
+- Latest commit at refresh time: `cbdd5ee 2026-06-22 15:46:36 -0400 Add curated material thumbnails`
+- On the next machine, read `AGENTS.md` first, then this handoff.
+- The working tree was clean before this handoff refresh; after committing the refresh, `git status --short --branch` should again show only the branch line.
+
+Status before this handoff edit:
+
+```bash
+## main...origin/main
+```
+<!-- codex-transfer-snapshot:end -->
 
 Latest pushed commit at handoff: `0072a34 Refine header buttons and philosophy quote`
 
