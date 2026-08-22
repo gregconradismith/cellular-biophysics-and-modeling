@@ -9,8 +9,10 @@ Branch: `main`
 ## Blackboard Course
 
 - Fall 2026 NSCI 351 Blackboard Ultra course:
-  <https://blackboard.wm.edu/ultra/courses/_40085_1>
+  <https://blackboard.wm.edu/ultra/courses/_40085_1/outline>
 - Blackboard course identifier: `_40085_1`.
+- The canonical entry point requires the `/outline` suffix. The shorter course
+  URL did not open the authenticated course correctly in the built-in browser.
 - Use the Blackboard course as the roster-aware notification layer for
   announcements published on the public course website. A preferred workflow
   is to publish the full post on the website, then create a concise Blackboard
