@@ -24,6 +24,9 @@ layout: default
       <div class="section-heading">
         <p class="eyebrow">Current status</p>
         <h2>{{ page.course_status | escape }}</h2>
+        {% if page.course_meeting %}
+        <p>{{ page.course_meeting | escape }}</p>
+        {% endif %}
       </div>
     </section>
     {% endif %}

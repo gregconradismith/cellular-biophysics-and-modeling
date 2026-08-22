@@ -1,10 +1,24 @@
 # Codex Handoff
 
-Date: 2026-06-22
+Date: 2026-08-22
 
 Repo: `cellular-biophysics-and-modeling`
 
 Branch: `main`
+
+## 2026-08-22 Fall 2026 Launch Update
+
+- Replaced the stale home-page status, "Next taught in Fall 2026," with the
+  active course identification: `NSCI 351: Cellular Biophysics and Modeling`.
+- Added the meeting schedule and location to the home page: Tuesdays and
+  Thursdays, 2:00–3:20 p.m., Integrated Science Center, Room 0350.
+- Updated the existing Fall 2026 status announcement with the same information
+  and changed its displayed date to August 22, 2026.
+- Added a separate `course_meeting` field to the home-page front matter so the
+  logistical details render beneath the course status rather than as one long
+  heading.
+- Validation was limited to changed-file inspection, `git diff --check`, and
+  Git state, as required by `AGENTS.md`; no local Jekyll build was run.
 
 <!-- codex-transfer-snapshot:start -->
 ## 2026-06-22 Computer Transfer Snapshot
