@@ -6,6 +6,20 @@ Repo: `cellular-biophysics-and-modeling`
 
 Branch: `main`
 
+## Blackboard Course
+
+- Fall 2026 NSCI 351 Blackboard Ultra course:
+  <https://blackboard.wm.edu/ultra/courses/_40085_1>
+- Blackboard course identifier: `_40085_1`.
+- Use the Blackboard course as the roster-aware notification layer for
+  announcements published on the public course website. A preferred workflow
+  is to publish the full post on the website, then create a concise Blackboard
+  announcement with the essential information, a link to the website post,
+  and an email copy to course members.
+- The user handles W&M authentication and MFA. Before Codex posts an
+  announcement or sends an email copy, request confirmation at the final
+  submission step.
+
 ## 2026-08-22 Fall 2026 Launch Update
 
 - Replaced the stale home-page status, "Next taught in Fall 2026," with the
