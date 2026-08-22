@@ -11,11 +11,18 @@ render_with_liquid: false
 
 # Cellular Biophysics & Modeling
 
-APSC 351
+NSCI 351 · Fall 2026
 
 Greg Conradi Smith  
 Applied Science | Neuroscience | CAMS Mathematical Biology  
 gdsmit@wm.edu
+
+- **Class meetings:** Tuesdays and Thursdays, 2:00–3:20 p.m., Integrated Science Center, Room 0350
+- **Instructor office:** Integrated Science Center, Room 0275
+- **Instructor office hours:** TBD
+- **Teaching Assistant:** Sarah Sakly
+- **TA office:** Integrated Science Center, Room 0252
+- **TA office hours:** TBD
 
 Cellular Biophysics & Modeling is an introduction to dynamic phenomena of cellular and systems neuroscience, electrophysiology, and computational neuroscience. Topics include the biophysics of excitable membranes, the gating of voltage- and ligand-gated ion channels, neuronal calcium signaling, Hodgkin-Huxley-style mathematical modeling of the neuronal action potential, the geometry of electrical bursting, central pattern generation, and the role of inhibition, network connectivity, synaptic dynamics, and synchronization in brain function.
 
@@ -53,19 +60,21 @@ Violations of academic integrity will be pursued within the W&M Honor System.
 
 ## Expectations
 
-Students are expected to attend the lectures, carefully read the assigned texts, do the problem sets, and utilize the extra content available on Blackboard.
+Students are expected to attend the lectures, carefully read the assigned texts, do the problem sets, and utilize the extra content available through the course site.
 
 In-class events, such as short quizzes, are equivalent to homework assignments and may be unannounced. The two lowest homework and/or in-class event grades will be dropped and not included in the homework score, but late homework will not be collected or graded. There will be no opportunity to make up in-class events, but these may be one of the two dropped scores.
 
-This course is entirely open with respect to materials generated in earlier offerings. Students should review past homework assignments, exams, and exam answers posted on Blackboard carefully and deliberately. Taking practice exams is a good way to monitor your progress and prepare for midterms.
+This course is entirely open with respect to materials generated in earlier offerings. Students should review past homework assignments, exams, and exam answers available through the course materials carefully and deliberately. Taking practice exams is a good way to monitor your progress and prepare for midterms.
 
 Collaboration on homework assignments is strongly encouraged, provided that each student is entirely responsible for preparing the final handwritten version to be turned in at the beginning of class. On the top of the first page of your homework, indicate the scope of collaborations, people, and resources involved. For example: "On problem 3, together with Ed Jones and Eve Marder, I worked backwards from the answer key to a similar question."
 
 ## Office Hours, TAs, Announcements
 
-Prof. Conradi Smith's office hours are posted on the course blog. Additionally, the course Teaching Assistant will hold recitation sessions; please see the course blog for room and time information.
+Prof. Conradi Smith's office is Integrated Science Center, Room 0275. Office hours are TBD.
 
-Announcements will be made either in class or in a blog post. It is recommended that students subscribe to the blog to receive an email when there is an announcement.
+The Teaching Assistant is Sarah Sakly. Her office is Integrated Science Center, Room 0252. TA office hours are TBD.
+
+Announcements will be made either in class or on the course site's Announcements page. Students should check the course site regularly for updates.
 
 ## ADA Accommodation
 

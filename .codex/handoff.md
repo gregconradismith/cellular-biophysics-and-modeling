@@ -22,6 +22,10 @@ Branch: `main`
 - Replaced all four unspecified calendar meetings with `TBD: Review and/or
   assessment.` and identified the November 24 lecture as a remote-instruction
   day.
+- Added Fall 2026 syllabus logistics: NSCI 351; Tuesday/Thursday 2:00–3:20 p.m.
+  in ISC 0350; instructor office ISC 0275; TA Sarah Sakly in ISC 0252; and TBD
+  office hours for both instructor and TA. Replaced stale Blackboard/blog
+  references with course-site terminology.
 
 <!-- codex-transfer-snapshot:start -->
 ## 2026-06-22 Computer Transfer Snapshot
