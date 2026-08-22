@@ -31,7 +31,7 @@ layout: calendar
 - Tuesday, September 08 - Lecture 4<br>
   <a href="../lecture-4/">Nernst equilibrium potentials and the GHK voltage equation</a>
 - Thursday, September 10<br>
-  <span class="calendar-note">To be determined</span>
+  <span class="calendar-note">TBD: Review and/or assessment.</span>
 
 ---
 
@@ -78,7 +78,7 @@ layout: calendar
 - Tuesday, October 13 - Lecture 12<br>
   <a href="../lecture-12/">The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane</a>
 - Thursday, October 15<br>
-  <span class="calendar-note">To be determined</span>
+  <span class="calendar-note">TBD: Review and/or assessment.</span>
 
 ---
 
@@ -114,7 +114,7 @@ layout: calendar
 ### Week 11
 
 - Tuesday, November 10<br>
-  <span class="calendar-note">To be determined</span>
+  <span class="calendar-note">TBD: Review and/or assessment.</span>
 - Thursday, November 12 - Lecture 18<br>
   <a href="../lecture-18/">EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function</a>
 
@@ -131,7 +131,7 @@ layout: calendar
 
 ### Week 13
 
-- Tuesday, November 24 - Lecture 21<br>
+- Tuesday, November 24 - Lecture 21 (remote-instruction day)<br>
   <a href="../lecture-21/">Inhibitory interneuron networks in cortex and cortical oscillations</a>
 - Thursday, November 26<br>
   <span class="calendar-note">No class, Thanksgiving Break</span>
@@ -143,4 +143,4 @@ layout: calendar
 - Tuesday, December 01 - Lecture 22<br>
   <a href="../lecture-22/">Basal ganglia and deep brain stimulation</a>
 - Thursday, December 03<br>
-  <span class="calendar-note">To be determined</span>
+  <span class="calendar-note">TBD: Review and/or assessment.</span>

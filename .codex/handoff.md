@@ -19,6 +19,9 @@ Branch: `main`
   heading.
 - Validation was limited to changed-file inspection, `git diff --check`, and
   Git state, as required by `AGENTS.md`; no local Jekyll build was run.
+- Replaced all four unspecified calendar meetings with `TBD: Review and/or
+  assessment.` and identified the November 24 lecture as a remote-instruction
+  day.
 
 <!-- codex-transfer-snapshot:start -->
 ## 2026-06-22 Computer Transfer Snapshot
