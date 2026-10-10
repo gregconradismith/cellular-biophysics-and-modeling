@@ -28,8 +28,6 @@ Public resources and restricted materials are identified below. [Access informat
 - Read highlighted portions of: <span style="color: var(--color-text);"><strong>Parkinsonian thalamic activity to restoring thalamic relay using deep brain stimulation: new insights from computational modeling</strong> (Meijer et al. 2011).</span>
 - Read highlighted portions of: <strong>Deep brain stimulation for treatment-resistant depression</strong> (Anderson et al. 2012).
 
-[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-22.md) — private repository access required.
-
 {% include restricted-resources.html lecture=page.lecture_number %}
 
 {% include practice-links.html %}
