@@ -40,10 +40,6 @@ Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in sch
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

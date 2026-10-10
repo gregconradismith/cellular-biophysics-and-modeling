@@ -52,16 +52,12 @@ Tabak et al. 2000. <strong>Modeling of spontaneous activity in developing spinal
 
 - [Hindmarsh-Rose 2d figure](../../wp-content/uploads/2024/10/HindmarshRose2D.png)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/11/Lecture16-problemSet.pdf)
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

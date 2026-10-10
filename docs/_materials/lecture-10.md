@@ -30,7 +30,7 @@ Public resources and restricted materials are identified below. [Access informat
 
 - [Supplementary slides: Morris-Lecar — part 3 — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture12-3_MorrisLecar.pdf)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture12_problemSet.pdf)
 
@@ -55,10 +55,6 @@ For g > 0, the shift is upward when V > E and downward when V < E. At V = E, thi
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-10.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

@@ -28,7 +28,7 @@ Conradi Smith, G. <strong>Function families and characteristic times.</strong> C
 
 - [Supplementary slides: Postsynaptic Potentials, Characteristic Time, and Qualitative Analysis — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture4_2024_PostsynapticPotCharTimeQualAnalysis.pdf)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture4_problemSet.pdf)
 
@@ -40,10 +40,6 @@ Conradi Smith, G. <strong>Function families and characteristic times.</strong> C
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-2.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

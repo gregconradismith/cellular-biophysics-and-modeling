@@ -18,8 +18,6 @@ Public resources and restricted materials are identified below. [Access informat
 
 ## Core Readings
 
-Note: Copyright requires some readings to remain behind a paywall.  When this is the case, the link will direct you to the publisher, and you will find the article PDF in the electronic course packet (Blackboard access is required).
-
 - <strong>Apologia and Introduction</strong> of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells</em>.  (15 pages) <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - <strong>The organization of the brain.</strong> Nauta WJ, Feirtag M. <em>Sci Am.</em> 1979 Sep; 241(3):88-111. (Read the first half, pp. 17-25) <a href="https://doi.org/10.1038/scientificamerican0979-88">[DOI]</a>
 - <strong>Neuroscience. The neuron doctrine, redux.</strong> Bullock TH, Bennett MV, Johnston D, Josephson R, Marder E, Fields RD. <em>Science.</em> 2005 Nov 4;310(5749):791-3. <a href="https://doi.org/10.1126/science.1114394">[DOI]</a>
@@ -30,7 +28,7 @@ Note: Copyright requires some readings to remain behind a paywall.  When this is
 
 - [Supplementary slides: Neuron Doctrine and Dynamics — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture1_2024_NeuronDoctrineDynamics.pdf)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture1_problemSet.pdf)
 
@@ -44,10 +42,6 @@ Note: Copyright requires some readings to remain behind a paywall.  When this is
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-1.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

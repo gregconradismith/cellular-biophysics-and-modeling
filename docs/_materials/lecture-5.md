@@ -29,7 +29,7 @@ Heeger, D. <strong>The Membrane Equation.</strong>
 
 - [Supplementary slides: Current Balance and Passive Neuron ODE — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture7_CurrentBalancePassiveNeuronODE.pdf)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture7_problemSet.pdf)
 
@@ -41,10 +41,6 @@ Heeger, D. <strong>The Membrane Equation.</strong>
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-5.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

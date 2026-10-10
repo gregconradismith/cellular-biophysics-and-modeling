@@ -1,18 +1,18 @@
 [
   {
+    "title": "About",
+    "url": "/pages/about/"
+  },
+  {
     "title": "Lectures",
     "url": "/pages/lectures/"
   },
   {
-    "title": "Practice & Solutions",
+    "title": "Practice",
     "url": "/pages/practice/"
   },
   {
     "title": "Models & Games",
     "url": "/pages/games/"
-  },
-  {
-    "title": "About",
-    "url": "/pages/about/"
   }
 ]

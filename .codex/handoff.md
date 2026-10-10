@@ -158,3 +158,10 @@ sed -n '1,220p' .github/workflows/jekyll.yml
 - Retained reusable post content within relevant lectures and topic-matched supplementary material. Added public Blackboard-linked tutorials/simulators. The inspected Unit 2 whiteboard is hosted as a public repository image, explicitly authorized by the user after automatic review initially rejected copying it.
 - Cataloged released Blackboard lecture documents 1–14; linked homework 1–4, solutions 1–3, and practice exams. Hidden future assessments/solutions were not newly exposed. Restricted PDFs remain in the private companion with access labels; publication exclusions unchanged.
 - Validation: YAML front matter and data JSON parse, 22 lectures present, local page/asset links resolve, and git diff --check passes. No local Jekyll build performed. Production deployment is checked after push.
+
+## 2026-10-10 Remove Blackboard-dependent resources
+
+- User requested About first in navigation and removal of every link/section requiring Blackboard access.
+- Reordered shared navigation; removed lecture file catalogs, homework/solution links, practice-exam sections, their data/includes, and Blackboard-specific access prose. Practice retains interactive tools and references to supplementary lecture exercises.
+- Private GitHub PDF companion and publisher/library links are retained: these do not require Blackboard. The public Unit 2 whiteboard remains hosted in this repository.
+- Validation: source inspection, link/reference search, YAML/JSON parsing, and git diff --check; no local Jekyll build. Commit/push and production build verification follow.

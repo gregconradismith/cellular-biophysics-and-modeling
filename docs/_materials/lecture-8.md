@@ -56,7 +56,7 @@ Terman. <strong>An introduction to dynamical systems and neuronal dynamics.</str
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqGN1DC1cL0" title="DelNegroLecture05 SupercriticalPitchforkBifurcation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture5_problemSet.pdf)
 
@@ -80,10 +80,6 @@ Terman. <strong>An introduction to dynamical systems and neuronal dynamics.</str
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-8.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

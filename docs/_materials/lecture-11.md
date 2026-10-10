@@ -49,7 +49,7 @@ Public resources and restricted materials are identified below. [Access informat
 - [Phase-plane tools and pplane.jar](https://www.cs.unm.edu/~joel/dfield/)
 - [Browser-based pplane](https://aeb019.hosted.uark.edu/pplane.html)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture13_problemSet.pdf)
 
@@ -113,12 +113,8 @@ A lighthearted review of two-dimensional linear systems is provided by the follo
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-11.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 [Unit 2 connections diagram](../unit-2/#connections-across-unit-2)
 
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

@@ -31,7 +31,7 @@ Clark RB, Kondo C, Belke DD, Giles WR. <strong>Two-pore domain K+ channels regul
 
 - [Nernst equilibrium potential — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/nernst_equilibrium_potential.pdf)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/09/Lecture6_problemSet.pdf)
 
@@ -41,10 +41,6 @@ Clark RB, Kondo C, Belke DD, Giles WR. <strong>Two-pore domain K+ channels regul
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-4.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

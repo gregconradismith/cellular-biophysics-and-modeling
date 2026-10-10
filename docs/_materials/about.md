@@ -29,6 +29,4 @@ Further reading is collected in the [bibliography](../bibliography/).
 
 ## Access to materials
 
-Public videos, models, figures, and external resources are linked from the relevant lectures. Some readings and PDFs require a publisher subscription, institutional access, Blackboard enrollment, or permission to the private PDF companion. Restricted links are labeled; a public listing does not grant access to its destination.
-
-Blackboard contains the syllabus, schedule, submission instructions, and announcements for enrolled students. Those arrangements are specific to a course offering and are separate from this resource collection.
+Public videos, models, figures, and external resources are linked from the relevant lectures. Some readings and PDFs require a publisher subscription, institutional access, or permission to the private PDF companion. Restricted links are labeled; a public listing does not grant access to its destination.

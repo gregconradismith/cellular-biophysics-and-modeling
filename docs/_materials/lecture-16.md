@@ -57,7 +57,7 @@ Public resources and restricted materials are identified below. [Access informat
 
 - [Winner-takes-all example](../../wp-content/uploads/2024/12/fig%2005-Apr-2013%2009%3A55%3A14.%20Winner%20Takes%20All.gif)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/12/Lecture20-problemSet.pdf)
 
@@ -87,10 +87,6 @@ Public resources and restricted materials are identified below. [Access informat
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-16.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)

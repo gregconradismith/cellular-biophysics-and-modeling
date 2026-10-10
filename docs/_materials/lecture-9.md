@@ -64,7 +64,7 @@ The following mathematics lectures discuss concepts from linear algebra that wil
 - [Hodgkin–Huxley browser simulation — Andrew Krause](https://www.andrewkrause.org/tools-code/hodgkin-huxley-simulation-with-javascript)
 - [Hodgkin–Huxley browser simulation — Carlos Correa](https://carlos.correa.me/hhsim/)
 
-## Practice & Solutions
+## Practice
 
 - [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture11_problemSet.pdf)
 
@@ -78,10 +78,6 @@ The following mathematics lectures discuss concepts from linear algebra that wil
 
 [Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-9.md) — private repository access required.
 
-{% include restricted-resources.html lecture=page.lecture_number %}
-
-{% include practice-links.html %}
-
 ## Continue Exploring
 
-[Practice & Solutions](../practice/) · [Models & Games](../games/)
+[Practice](../practice/) · [Models & Games](../games/)
