@@ -4,7 +4,7 @@ layout: default
 {% if page.listing == "posts" %}
   {% assign items = site.posts %}
 {% else %}
-  {% assign items = site.materials | sort: "title" %}
+  {% assign items = site.materials | where_exp: "item", "item.hidden != true" | sort: "title" %}
 {% endif %}
     <section class="listing{% if page.listing == "posts" %} listing-posts{% endif %}">
       <div class="section-heading">
@@ -29,7 +29,7 @@ layout: default
       <div class="archive-list" data-filter-list>
         {% for item in items %}
         <article class="archive-item{% if item.image %} has-thumbnail{% endif %}" data-filter-item>
-          <span class="archive-label">Course material</span>
+          <span class="archive-label">Learning resource</span>
           <div>
             <h2><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h2>
             <p>{{ item.description | default: item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 28 }}</p>

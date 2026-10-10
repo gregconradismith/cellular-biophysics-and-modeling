@@ -1,0 +1,11 @@
+{% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
+<div class="lecture-index" data-filter-list>
+{% for item in lectures %}
+  {% if include.unit == nil or item.unit == include.unit %}
+  <article class="lecture-index-item" data-filter-item><div class="lecture-index-body">
+    <p class="eyebrow">Lecture {{ item.lecture_number }}</p>
+    <h2><a href="{{ item.url | relative_url }}">{{ item.topic | escape }}</a></h2>
+  </div></article>
+  {% endif %}
+{% endfor %}
+</div>

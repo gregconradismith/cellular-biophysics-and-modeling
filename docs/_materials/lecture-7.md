@@ -4,15 +4,17 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-7"
 permalink: "/pages/lecture-7/"
-render_with_liquid: false
 lecture_rank: 70
+lecture_number: 7
+unit: 1
+topic: "Voltage-dependent currents and bistability"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md). Access requires permission to the private repository.
 
 # Voltage-dependent currents and bistability
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - <strong>Voltage-Gated Ionic Currents.</strong> Chapter 10 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - <strong>Regenerative Ionic Currents and Bistability.</strong> Chapter 11 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
@@ -22,20 +24,38 @@ lecture_rank: 70
 - Kiehn O, Eken T. <strong>Functional role of plateau potentials in vertebrate motor neurons.</strong> <em>Curr Opin Neurobiol.</em> 1998 Dec;8(6):746-52. <a href="https://pubmed.ncbi.nlm.nih.gov/9914232/">[PubMed]</a> <a href="https://doi.org/10.1016/s0959-4388(98)80117-7">[DOI]</a>
 - Scholarpedia entry for <strong>Up and down states</strong> by Charles Wilson. <a href="http://www.scholarpedia.org/article/Up_and_down_states">[Scholarpedia]</a>
 
-## Fall 2025 Slides
 
-- [Lecture7-(VoltageDependentCurrentsAndBistability)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)
+### Reading details
 
-## Optional Reading and Resources
+Wilson, C. <strong>Up and down states.</strong> Scholarpedia. <a href="http://www.scholarpedia.org/article/Up_and_down_states">Article</a>
 
-- None yet.
+## Slides & Notes
 
-## Fall 2024 Materials
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/09/Lecture7-VoltageDependentCurrentsAndBistability.pdf)
 
-<p><strong>Fall 2024 mini-lecture: Voltage-dependent currents tutorial</strong></p>
+- [Supplementary slides: Voltage Dependence and Bistability — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture10_Vdep_bistable.pdf)
+
+
+- [Supplementary slides: Voltage-Gated Currents — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture9_VGated_currents.pdf)
+
+## Recordings & Tutorials
+
+<p><strong>Tutorial: Voltage-dependent currents tutorial</strong></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdm1IWTksss" title="DelNegroLecture09 VoltageDependentCurrentsTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 7 2024 slides: Current Balance and Passive Neuron ODE](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)
+## Practice & Solutions
 
-- [Lecture 7 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md)
+- [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture10_problemSet.pdf)
+
+- [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture9_problemSet.pdf)
+
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-7.md) — private repository access required.
+
+{% include restricted-resources.html lecture=page.lecture_number %}
+
+{% include practice-links.html %}
+
+## Continue Exploring
+
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

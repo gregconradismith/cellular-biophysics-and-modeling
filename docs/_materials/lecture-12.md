@@ -4,17 +4,19 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-12"
 permalink: "/pages/lecture-12/"
-render_with_liquid: false
 lecture_rank: 120
 image: "/wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-DepolarizingPulse.gif"
 image_alt: "FitzHugh-Nagumo response to a depolarizing pulse"
+lecture_number: 12
+unit: 2
+topic: "The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md). Access requires permission to the private repository.
 
 # The Fitzhugh Nagumo Model, Linear Stability Analysis, and the Trace-Determinant Plane
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - <strong>Linear Stability Analysis</strong>. Chapter 16 of <em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
 - <span style="color: var(--color-text);"><strong>Type II Excitability And Oscillations</strong>. Chapter 17 of </span><em>Cellular Biophysics and Modeling: A primer on the systems biology of excitable cells.</em> <a href="https://doi.org/10.1017/9780511793905">[DOI]</a>
@@ -22,11 +24,25 @@ image_alt: "FitzHugh-Nagumo response to a depolarizing pulse"
 
 ------------------------------------------------------------------------
 
-## What would Griffin do?
+## Slides & Notes
+
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel.pdf)
+
+- [Supplementary slides: FitzHugh-Nagumo — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture14-(FitzhughNagumo).pdf)
+
+## Recordings & Tutorials
+
+- *The trace-determinant diagram *
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEskbXrhkkk" title="The trace-determinant diagram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Practice & Solutions
+
+- [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/10/Lecture14-problemSet.pdf)
+
+## Models & Demonstrations
 
 ------------------------------------------------------------------------
-
-## Depolorizing pulse:
 
 <figure class="wp-block-image size-full is-resized">
 <a href="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-DepolarizingPulse.gif"><img src="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-DepolarizingPulse.gif" class="wp-image-863" style="width:720px;height:auto" /></a>
@@ -34,15 +50,11 @@ image_alt: "FitzHugh-Nagumo response to a depolarizing pulse"
 
 ------------------------------------------------------------------------
 
-## Hyperpolarizing pulse:
-
 <figure class="wp-block-image size-full">
 <a href="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-HyperpolarizingPulsePostAnodalBreakExcitation.gif"><img src="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-HyperpolarizingPulsePostAnodalBreakExcitation.gif" class="wp-image-864" /></a>
 </figure>
 
 ------------------------------------------------------------------------
-
-## Oscillations:
 
 <figure class="wp-block-image size-full">
 <a href="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-RelaxationOscillations.gif"><img src="../../wp-content/uploads/2025/10/Lecture12-TheFitzhughNagumoModel-RelaxationOscillations.gif" class="wp-image-866" /></a>
@@ -50,27 +62,25 @@ image_alt: "FitzHugh-Nagumo response to a depolarizing pulse"
 
 ------------------------------------------------------------------------
 
-## Required Watching
-
-- *The trace-determinant diagram *
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEskbXrhkkk" title="The trace-determinant diagram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Fall 2025 Slides
-
-- [Lecture12-TheFitzhughNagumoModel](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
-
-## Optional Reading and Resources 
+## Further Reading & Resources
 
 - <strong>Excitable Systems and the Fitzhugh-Nagumo Equations</strong>. Sections 11.1-11.4 (pp. 227-241) of <em>A Primer on Mathematical Models in Biology</em> by Leah Edelstein-Keshet and Lee Segel.
 - <strong>Fitzhugh's classic paper</strong> (1961).
 
-## Fall 2024 Materials
+### The sign of beta in the quadratic formula
 
-- [Lecture 12 2024 slides part 1: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
+For a two-dimensional linear system with coefficient matrix A, let β = tr(A) and γ = det(A). The characteristic polynomial is λ² − βλ + γ = 0, so
 
-- [Lecture 12 2024 slides part 2: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
+<p>λ = (β ± √(β² − 4γ)) / 2.</p>
 
-- [Lecture 12 2024 slides part 3: Morris-Lecar](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
+The trace appears with a positive sign in the numerator because its coefficient in the characteristic polynomial is negative. Use this relation when checking a linear-stability calculation.
 
-- [Lecture 12 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md)
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-12.md) — private repository access required.
+
+{% include restricted-resources.html lecture=page.lecture_number %}
+
+{% include practice-links.html %}
+
+## Continue Exploring
+
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

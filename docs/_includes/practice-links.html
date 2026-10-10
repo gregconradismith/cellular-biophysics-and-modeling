@@ -1,0 +1,5 @@
+{% for item in site.data.practice %}
+{% if item.lectures contains page.lecture_number %}
+<p><a href="{{ item.exercise | escape }}">{{ item.title | escape }}: exercises</a>{% if item.solution %} · <a href="{{ item.solution | escape }}">Released solutions</a>{% endif %} — Blackboard enrollment required.</p>
+{% endif %}
+{% endfor %}

@@ -1,0 +1,8 @@
+{% assign resources = site.data.restricted_resources | where: "lecture", include.lecture | first %}
+{% if resources %}
+<h2 id="restricted-files">Restricted Files</h2>
+<p><a href="{{ resources.url | escape }}">Open this lecture’s files in Blackboard</a> — Blackboard enrollment required. The document contains the following files; access and release are controlled by Blackboard.</p>
+<details class="restricted-resources"><summary>Readings, notes, and files available in Blackboard</summary>
+<ul>{% for item in resources.items %}<li>{{ item | escape }}</li>{% endfor %}</ul>
+</details>
+{% endif %}

@@ -1,72 +1,19 @@
 ---
 layout: default
 ---
-    <section class="hero home-hero">
-      <div class="hero-banner" role="img" aria-label="Cellular Biophysics and Modeling primer artwork">
-        <div class="hero-banner-copy">
-          <h1>{{ site.title | escape }}</h1>
-          <p>{{ site.description | escape }}</p>
-        </div>
-      </div>
-      <nav class="site-nav home-site-nav" aria-label="Course pages">
-        <a href="{{ '/pages/about/' | relative_url }}">About</a>
-        <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
-        <a href="{{ '/pages/calendar/' | relative_url }}">Calendar</a>
-        <a href="{{ '/pages/lectures/' | relative_url }}">Lectures</a>
-        <a href="{{ '/pages/games/' | relative_url }}">Games</a>
-        <a href="{{ '/pages/philosophy/' | relative_url }}">Philosophy</a>
-        <a href="{{ '/posts/' | relative_url }}">Announcements</a>
-      </nav>
-    </section>
-
-    {% if page.course_status %}
-    <section class="section home-course-status">
-      <div class="section-heading">
-        <p class="eyebrow">Current status</p>
-        <h2>{{ page.course_status | escape }}</h2>
-        {% if page.course_meeting %}
-        <p>{{ page.course_meeting | escape }}</p>
-        {% endif %}
-      </div>
-    </section>
-    {% endif %}
-
-    <section class="section home-start">
-      <div class="section-heading">
-        <p class="eyebrow">Course portal</p>
-        <h2>Start here</h2>
-      </div>
-      <ol class="link-list">
-        <li>
-          <a href="{{ '/pages/about/' | relative_url }}">About</a>
-          <span>Course frame, themes, and expectations.</span>
-        </li>
-        <li>
-          <a href="{{ '/pages/syllabus/' | relative_url }}">Syllabus</a>
-          <span>Policies, assignments, grading, and course rhythm.</span>
-        </li>
-        <li>
-          <a href="{{ '/pages/calendar/' | relative_url }}">Calendar</a>
-          <span>Meeting-by-meeting topics and due dates.</span>
-        </li>
-        <li>
-          <a href="{{ '/pages/lectures/' | relative_url }}">Lectures</a>
-          <span>Lecture notes, slides, and supporting materials.</span>
-        </li>
-      </ol>
-    </section>
-
-    <section class="section home-announcements">
-      <div class="section-heading">
-        <p class="eyebrow">Recent posts</p>
-        <h2>Announcements</h2>
-      </div>
-      <ol class="post-list">
-        {% for item in site.posts %}
-        <li>
-          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-          <span>{{ item.date | date: "%b %-d, %Y" }}</span>
-        </li>
-        {% endfor %}
-      </ol>
-    </section>
+<section class="hero home-hero">
+  <div class="hero-banner" role="img" aria-label="Cellular Biophysics and Modeling primer artwork">
+    <div class="hero-banner-copy"><h1>{{ site.title | escape }}</h1><p>{{ site.description | escape }}</p></div>
+  </div>
+  {% include navigation.html home=true %}
+</section>
+<section class="section home-start">
+  <div class="section-heading"><p class="eyebrow">Explore the collection</p><h2>From membrane biophysics to neural networks</h2>
+  <p>Readings, slides, recordings, models, and practice materials organized by lecture. Work through the sequence or return to a topic whenever you need it.</p></div>
+  <ol class="link-list">
+    <li><a href="{{ '/pages/unit-1/' | relative_url }}">Cellular Biophysics and Membrane Models</a><span>Lectures 1–8: dynamic phenomena, membrane potentials, ionic currents, and bifurcations.</span></li>
+    <li><a href="{{ '/pages/unit-2/' | relative_url }}">Excitability and Dynamical Systems</a><span>Lectures 9–14: Hodgkin–Huxley, phase planes, excitability, and bursting.</span></li>
+    <li><a href="{{ '/pages/unit-3/' | relative_url }}">Bursting, Networks, and Systems Neuroscience</a><span>Lectures 15–22: low-threshold spikes, network rhythms, sensory systems, and basal ganglia.</span></li>
+  </ol>
+  <p class="resource-intro">Start with <a href="{{ '/pages/about/' | relative_url }}">the background and prerequisites</a> and <a href="{{ '/pages/philosophy/' | relative_url }}">suggestions for using these materials</a>. This collection accompanies Greg Conradi Smith’s <em>Cellular Biophysics and Modeling</em> textbook.</p>
+</section>

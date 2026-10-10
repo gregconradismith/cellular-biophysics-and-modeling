@@ -1,7 +1,7 @@
 ---
 ---
 [
-{% assign search_items = site.materials | concat: site.posts %}
+{% assign search_items = site.materials | where_exp: "item", "item.hidden != true" %}
 {% for item in search_items %}
   {
     "title": {{ item.title | jsonify }},

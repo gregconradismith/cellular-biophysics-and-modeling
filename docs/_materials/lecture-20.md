@@ -4,30 +4,40 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-20"
 permalink: "/pages/lecture-20/"
-render_with_liquid: false
 lecture_rank: 200
+lecture_number: 20
+unit: 3
+topic: "Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md). Access requires permission to the private repository.
 
 # Vision: Classification of retinal ganglion cells, parallel pathways, contrast sensitivity, spatial frequency analysis
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - <strong>Spatial frequency analysis in vision</strong> by Oliver Braddick.
 - Look at Figures 1 and 2 of <strong>Do we know what the early visual system does?</strong> by Carandini et al.
 - Look at Figures 1 and 3 of <strong>Understanding the retinal basis of vision across species</strong> by Baden et. al.
 
-## Optional Reading
 
-- <span style="color: var(--color-text);"><strong>Visual responses of ganglion cells</strong> by Ralph Nelson</span>.
-- <strong>Color Vision: Almost Reason Enough for Having Eyes</strong> by Neitz et al.
+### Reading details
 
-## Fall 2025 Slides
+Braddick, O. <strong>Spatial frequency analysis in vision.</strong>
 
-- [Lecture20(VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
+Baden et al. <strong>Understanding the retinal basis of vision across species.</strong>
 
-## Further Reading and Watching
+Nelson, R. <strong>Visual responses of ganglion cells.</strong>
+
+Neitz et al. <strong>Color Vision: Almost Reason Enough for Having Eyes.</strong>
+
+## Slides & Notes
+
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/11/Lecture20VisonClassificationOfRGCsParallelPathwaysContrastSensitivitySpatialFrequencyAnalysis.pdf)
+
+
+
+## Recordings & Tutorials
 
 - <em>A Walk-through of the Mammalian Visual System</em> by R. Clay Reid
 
@@ -39,18 +49,17 @@ lecture_rank: 200
 
 - <em>Visual Attention and Consciousness</em> by Christoff Koch
 
-## Fall 2024 Materials
+## Further Reading & Resources
 
-- [Lecture 20 2024 slides: Central Pattern Generators](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
+- <span style="color: var(--color-text);"><strong>Visual responses of ganglion cells</strong> by Ralph Nelson</span>.
+- <strong>Color Vision: Almost Reason Enough for Having Eyes</strong> by Neitz et al.
 
-- [Lecture 20 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md)
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-20.md) — private repository access required.
 
-- [Mutually excitatory oscillators synchronizing](<../../wp-content/uploads/2024/12/fig%2002-Apr-2013%2021%3A06%3A43%20(MutuallyExcitatoryOscillatorsSynchronizating).gif>)
+{% include restricted-resources.html lecture=page.lecture_number %}
 
-- [Half-center oscillator](<../../wp-content/uploads/2024/12/fig%2002-Apr-2013%2021%3A15%3A30%20(HalfCenterOscillator).gif>)
+{% include practice-links.html %}
 
-- [Escape example](../../wp-content/uploads/2024/12/fig%2005-Apr-2013%2009%3A49%3A24%20Escape%20Example.gif)
+## Continue Exploring
 
-- [Release example](../../wp-content/uploads/2024/12/fig%2005-Apr-2013%2009%3A53%3A19%20Release%20Example.gif)
-
-- [Winner-takes-all example](../../wp-content/uploads/2024/12/fig%2005-Apr-2013%2009%3A55%3A14.%20Winner%20Takes%20All.gif)
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

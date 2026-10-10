@@ -4,24 +4,33 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-18"
 permalink: "/pages/lecture-18/"
-render_with_liquid: false
 lecture_rank: 180
+lecture_number: 18
+unit: 3
+topic: "EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md). Access requires permission to the private repository.
 
 # EEGs, sensory gating by visual thalamus, drivers and modulators, power spectral analysis of cortical function
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - Read the highlighted portions of Koch (2012) <strong>The origins of extracellular fields and currents</strong>.
 - Read the highlighted portions of Sherman (2007) paper on thalamic relay, drivers and modulators, etc.
 
-## Fall 2025 Slides
 
-- [Lecture18(EEGSensoryGatingDriversModulators)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md)
+### Reading details
 
-## Further Reading and Resources
+Sherman 2007. <strong>Thalamic relay, drivers and modulators.</strong>
+
+## Slides & Notes
+
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/11/Lecture18EEGSensoryGatingDriversModulators.pdf)
+
+
+
+## Further Reading & Resources
 
 Cash et al. 2009. <strong>The human K-complex represents an isolated cortical down-state.</strong> <em>Science</em>, 324(5930), 1084-1087. <a href="https://doi.org/10.1126/science.1169626">[DOI]</a>
 
@@ -29,6 +38,12 @@ Ghodrati et al. 2017. <strong>Towards building a more complex view of the latera
 
 Uhlhaas & Singer 2010. <strong>Abnormal neural oscillations and synchrony in schizophrenia.</strong> <em>Nature Reviews Neuroscience</em>, 11(2), 100-113. <a href="https://doi.org/10.1038/nrn2774">[DOI]</a>
 
-## Fall 2024 Materials
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md) — private repository access required.
 
-- [Lecture 18 2024 slides: Low-Threshold Spikes](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-18.md)
+{% include restricted-resources.html lecture=page.lecture_number %}
+
+{% include practice-links.html %}
+
+## Continue Exploring
+
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

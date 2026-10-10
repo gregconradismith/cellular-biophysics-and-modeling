@@ -1,7 +1,7 @@
 ---
 layout: listing
-title: Course Materials
-subtitle: Pages, overview, readings, slides, videos, and helper resources.
+title: Learning Resources
+subtitle: Lectures, practice, models, and background.
 listing: materials
 permalink: /pages/
 ---

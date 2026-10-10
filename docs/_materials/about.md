@@ -1,46 +1,34 @@
 ---
-title: "About"
-kind: "page"
-date: "1970-01-01"
-slug: "about"
-permalink: "/pages/about/"
-render_with_liquid: false
+title: "About the Collection"
+permalink: /pages/about/
 ---
 
-Cellular Biophysics and Modeling is a required mathematical course in [William & Mary](https://www.wm.edu/)'s [Neuroscience program](https://www.wm.edu/as/neuroscience/index.php). The course curriculum was initially developed as part of an NSF CAREER grant to the course author, Greg Conradi Smith. For more than a decade, Cellular Biophysics and Modeling has been taught once per academic year to 50-100 undergraduate students.
+Cellular Biophysics and Modeling brings together resources for studying electrophysiology and nonlinear dynamics through mathematical models of excitable cells. The collection is organized by topic and lecture, independent of a particular academic year or course offering.
 
-Cellular Biophysics and Modeling is an integrated exposition of electrophysiology of excitable cells and introductory nonlinear dynamics. The course includes challenging readings from the primary literature and weekly homework assignments. The prerequisites are calculus and a 200-level introduction to cell and molecular biology.
+The materials grew out of Greg Conradi Smith’s teaching at William & Mary and a curriculum initially developed with support from an NSF CAREER grant. They are intended for students, independent learners, and instructors.
 
-Topics include: the biophysics of excitable membranes, the gating of voltage- and ligand-gated ion channels, neuronal calcium signaling, Hodgkin-Huxley-style mathematical modeling of the neuronal action potential, the geometry of electrical bursting, central pattern generation, and the role of inhibition, network connectivity, synaptic dynamics, and synchronization in brain function.
+## Background and prerequisites
 
-The course notes - units 1 & 2 (of 3) - have recently been developed into a 400-page textbook: [Cellular Biophysics and Modeling: A Primer on the Computational Biology of Excitable Cells, Cambridge University Press, 2019.](https://www.cambridge.org/core/books/cellular-biophysics-and-modeling/0C728F4C44D89D8F3BA62E41A0D7336F) [[CUP]](https://www.cambridge.org/core/books/cellular-biophysics-and-modeling/0C728F4C44D89D8F3BA62E41A0D7336F) [[Amazon]](https://www.amazon.com/dp/0521183057/) [[AppleBooks]](https://books.apple.com/us/book/cellular-biophysics-and-modeling/id1455454513)
+A working knowledge of introductory calculus and cell biology is helpful. Review graphing functions, derivatives, physical dimensions, and small matrices and vectors as needed. Later lectures introduce phase-plane analysis and linear stability alongside their biological applications.
 
-An electronic version of this required text is [freely available to W&M students via the SWEM library](https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51833536950003196).
+- [Paul’s Online Math Notes](https://tutorial.math.lamar.edu/)
+- [Khan Academy mathematics](https://www.khanacademy.org/math)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 
----
+## Textbook
 
-## How should you prepare for Cellular Biophysics and Modeling?
+[Cellular Biophysics and Modeling: A Primer on the Computational Biology of Excitable Cells](https://doi.org/10.1017/9780511793905), Greg Conradi Smith, Cambridge University Press, 2019, develops the membrane biophysics and dynamics underlying the first two units.
 
-Make sure you can:
+[William & Mary library access](https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51833536950003196) is available to eligible readers. Other readers can use the publisher link or their own library.
 
-- graph polynomial functions
-- take derivatives of polynomial functions
-- multiply small matrices and vectors
+## Using the collection
 
-These show up all the time, so if those feel shaky, it's worth reviewing before the course starts.
+Start with the [lecture sequence](../lectures/), explore [models and games](../games/), or use [practice and solutions](../practice/) to consolidate your understanding. See [How to Use These Materials](../philosophy/) for study suggestions.
 
-If you want some quick refreshers:
+Further reading is collected in the [bibliography](../bibliography/).
 
-- Khan Academy (great for brushing up on calculus and algebra): <https://www.khanacademy.org/math>
-- Paul's Online Math Notes (clear, no-nonsense explanations): <https://tutorial.math.lamar.edu/>
-- 3Blue1Brown (excellent intuition for calculus and linear algebra): <https://www.youtube.com/c/3blue1brown>
+## Access to materials
 
-Beyond mechanics, it really helps to understand what derivatives mean - rates of change, how things evolve over time, etc. A lot of what we do is take biological systems (especially cells and neurons) and describe how they change using math.
+Public videos, models, figures, and external resources are linked from the relevant lectures. Some readings and PDFs require a publisher subscription, institutional access, Blackboard enrollment, or permission to the private PDF companion. Restricted links are labeled; a public listing does not grant access to its destination.
 
-On the biology side, you don't need anything too advanced, but being familiar with basic cell biology is helpful - things like membranes, ion channels, and signaling.
-
-See you soon!
-
-Paul's Online Math Notes (clear, no-nonsense explanations): <https://tutorial.math.lamar.edu/>
-
-3Blue1Brown (excellent intuition for calculus and linear algebra): <https://www.youtube.com/c/3blue1brown>
+Blackboard contains the syllabus, schedule, submission instructions, and announcements for enrolled students. Those arrangements are specific to a course offering and are separate from this resource collection.

@@ -138,3 +138,23 @@ sed -n '1,220p' .github/workflows/jekyll.yml
 - Avoid committing local noise such as `.DS_Store`, `_site/`, `.jekyll-cache/`,
   temporary exports, or unrelated generated artifacts.
 - No local build was run for the latest handoff update.
+
+## 2026-10-10 Evergreen Resource Review
+
+- Greg requested a review and recommendations, not implementation, to make the public site a semester-independent resource organized by lecture.
+- Reviewed the live public home page, local materials/layouts/posts, and authenticated Fall 2026 Blackboard outline and lecture documents 1–21.
+- Recommend removing public announcements and calendar/course logistics, preserving reusable concept posts within lectures, replacing year-based resource sections with topic-based sections, and consolidating empty/duplicate indexes.
+- Blackboard includes additional resources absent from public source: Lecture 4 GHK spreadsheets and supplemental readings; Lecture 7 Cervera reading; Lecture 9 browser HH simulations; Lecture 11 recording, Van der Pol examples, and updated pplane links.
+- Main lecture topics agree through 21; the separate Slides index is stale, older year-based materials belong to different topic numbers, and public Lecture 22 (basal ganglia) is additional.
+- Blackboard homework answer documents and exam practice resources require a resource mapping. Homework 4 answers, later homework, and lectures 15–21 are currently hidden; visibility must not be mistaken for public redistribution permission.
+- Existing private GitHub companion links require separate repository access; prefer publisher/DOI/open versions plus clearly labeled restricted Blackboard links where appropriate.
+- Review was of document contents and attachment labels, not a binary-file or redistribution-rights audit. No public website or Blackboard content changed. No local Jekyll build run.
+- Next step: agree on structure, then inventory and map each reusable Blackboard resource to its evergreen lecture and confirm public versus restricted hosting.
+
+## 2026-10-10 Evergreen collection implementation
+
+- User authorized the reorganization and explicitly declined compatibility for old bookmarks. Deleted calendars, announcement posts/index, syllabus logistics, office-hours page, and empty indexes without redirects.
+- Added common resource navigation, 22 topic-labeled lectures in three substantive units, practice/solutions index, models/games page, bibliography, and evergreen About/study guidance.
+- Retained reusable post content within relevant lectures and topic-matched supplementary material. Added public Blackboard-linked tutorials/simulators. The inspected Unit 2 whiteboard is hosted as a public repository image, explicitly authorized by the user after automatic review initially rejected copying it.
+- Cataloged released Blackboard lecture documents 1–14; linked homework 1–4, solutions 1–3, and practice exams. Hidden future assessments/solutions were not newly exposed. Restricted PDFs remain in the private companion with access labels; publication exclusions unchanged.
+- Validation: YAML front matter and data JSON parse, 22 lectures present, local page/asset links resolve, and git diff --check passes. No local Jekyll build performed. Production deployment is checked after push.

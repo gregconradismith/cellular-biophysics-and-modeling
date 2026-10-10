@@ -4,29 +4,37 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-17"
 permalink: "/pages/lecture-17/"
-render_with_liquid: false
 lecture_rank: 170
+lecture_number: 17
+unit: 3
+topic: "Network properties of the thalamus - spindles and absence seizures"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md). Access requires permission to the private repository.
 
 # Network properties of the thalamus - spindles and absence seizures
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - von Krosigk et al. 1993 <strong>Cellular mechanisms of synchronized oscillation in the thalamus</strong>.
 - Steriade et al 1993 <strong>Thalamocortical oscillations in the sleeping and aroused brain.</strong>
 
-## Optional Reading and Resources
+## Slides & Notes
+
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/10/Lecture17NetworkPropertiesThalamusPart1.pdf)
+
+- [Supplementary slides: Synapses and Thalamocortical Networks — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/12/Lecture19-(synapsesThalamoCortical).pdf)
+
+## Further Reading & Resources
 
 - Kim and McCormick 1998 <strong>Functional influence of burst and tonic mode on synaptic interactions in the thalamus</strong>.
 
-## Fall 2025 Slides
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md) — private repository access required.
 
-- [Lecture17(NetworkPropertiesThalamusPart1)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)
+{% include restricted-resources.html lecture=page.lecture_number %}
 
-## Fall 2024 Materials
+{% include practice-links.html %}
 
-- [Lecture 17 2024 slides: Elliptic and Parabolic Bursting](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)
+## Continue Exploring
 
-- [Lecture 17 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-17.md)
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

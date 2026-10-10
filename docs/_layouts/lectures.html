@@ -1,23 +1,11 @@
 ---
 layout: default
 ---
-{% assign lectures = site.materials | where_exp: "item", "item.lecture_rank" | sort: "lecture_rank" %}
-    <article class="content-page lectures-page">
-      <h1>{{ page.title | escape }}</h1>
-      <div class="lecture-index">
-        {% for item in lectures %}
-          {% assign lecture_title = item.title %}
-          {% if item.content contains "<h1" %}
-            {% assign lecture_title = item.content | split: "</h1>" | first | strip_html | normalize_whitespace %}
-          {% elsif item.content contains "<h2" %}
-            {% assign lecture_title = item.content | split: "</h2>" | first | strip_html | normalize_whitespace %}
-          {% endif %}
-        <article class="lecture-index-item">
-          <div class="lecture-index-body">
-            <p class="eyebrow">{{ item.title | escape }}</p>
-            <h2><a href="{{ item.url | relative_url }}">{{ lecture_title | escape }}</a></h2>
-          </div>
-        </article>
-        {% endfor %}
-      </div>
-    </article>
+<article class="content-page lectures-page">
+  <h1>{{ page.title | escape }}</h1>
+  <div class="wp-content">{{ content }}</div>
+  {% unless page.unit %}
+  <label class="search-box"><span>Find a lecture</span><input type="search" data-filter-input placeholder="Search lecture number or topic"></label>
+  {% include lecture-list.html %}
+  {% endunless %}
+</article>

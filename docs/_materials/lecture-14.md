@@ -4,17 +4,19 @@ kind: "page"
 date: "1970-01-01"
 slug: "lecture-14"
 permalink: "/pages/lecture-14/"
-render_with_liquid: false
 lecture_rank: 140
 image: "/wp-content/uploads/2024/10/HindmarshRose2D.png"
 image_alt: "Hindmarsh-Rose model phase plane"
+lecture_number: 14
+unit: 2
+topic: "Square-wave bursting and homoclinic bifurcations"
 ---
-
-> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md). Access requires permission to the private repository.
 
 # Square-wave bursting and homoclinic bifurcations
 
-## Required Reading
+Public resources and restricted materials are identified below. [Access information](../about/#access-to-materials).
+
+## Core Readings
 
 - <span style="color: var(--color-text);">Read the highlighted parts of <strong>Izhikevich 2000</strong> (a review of neuronal bursting mechanisms).</span>\
   \
@@ -25,18 +27,41 @@ image_alt: "Hindmarsh-Rose model phase plane"
 - The highlighted portions of <strong>Bertram et al. 2007</strong> on the control of insulin secretion by pancreatic beta-cells through metabolic and electrical oscillations.\
 - Highlighted portions of <strong>Tabak et al. 2000</strong> on network bursting in embryonic chick spinal cord.
 
-## Fall 2025 Slides
 
-- [Lecture14(MorrisLecarSquareWaveBursting)](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
+### Reading details
 
-## Fall 2024 Materials
+Izhikevich 2000. <strong>Neural excitability, spiking and bursting.</strong>
 
-<p><strong>Fall 2024 mini-lecture: Bifurcations and bursting tutorial</strong></p>
+Bertram et al. 2007. <strong>Metabolic and electrical oscillations: partners in controlling pulsatile insulin secretion.</strong>
+
+Tabak et al. 2000. <strong>Modeling of spontaneous activity in developing spinal cord.</strong>
+
+## Slides & Notes
+
+- [Lecture slides — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2025/10/Lecture14MorrisLecarSquareWaveBursting.pdf)
+
+- [Supplementary slides: New Bifurcations and Bursting — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/11/Lecture16-(newBifsBursting).pdf)
+
+## Recordings & Tutorials
+
+<p><strong>Tutorial: Bifurcations and bursting tutorial</strong></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzdLjGiuTio" title="DelNegroLecture16 BifurcationsAndBurstingTutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- [Lecture 14 2024 slides: FitzHugh-Nagumo](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
-
-- [Lecture 14 2024 problem set](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md)
+## Models & Demonstrations
 
 - [Hindmarsh-Rose 2d figure](../../wp-content/uploads/2024/10/HindmarshRose2D.png)
+
+## Practice & Solutions
+
+- [Supplementary exercises — restricted PDF](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/wp-content/uploads/2024/11/Lecture16-problemSet.pdf)
+
+[Restricted reading copies in the PDF companion](https://github.com/gregconradismith/cellular-biophysics-and-modeling-private/blob/main/docs/_materials/lecture-14.md) — private repository access required.
+
+{% include restricted-resources.html lecture=page.lecture_number %}
+
+{% include practice-links.html %}
+
+## Continue Exploring
+
+[Practice & Solutions](../practice/) · [Models & Games](../games/)

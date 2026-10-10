@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Lectures",
+    "url": "/pages/lectures/"
+  },
+  {
+    "title": "Practice & Solutions",
+    "url": "/pages/practice/"
+  },
+  {
+    "title": "Models & Games",
+    "url": "/pages/games/"
+  },
+  {
+    "title": "About",
+    "url": "/pages/about/"
+  }
+]
