@@ -11,6 +11,7 @@ Use these tools alongside the lecture readings and examples. Change parameters, 
 <a href="https://gregconradismith.github.io/polyqual-game/">PolyQual Game</a>
 <a href="https://gregconradismith.github.io/current-voltage-relation-game/">Current–Voltage Relation Game</a>
 <a href="https://gregconradismith.github.io/voltage-clamp-game/">Voltage Clamp Game</a>
+<a href="https://gregconradismith.github.io/morris-lecar-simulator/">Morris–Lecar Simulator</a>
 </nav>
 
 ## Membrane Models

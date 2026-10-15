@@ -165,3 +165,8 @@ sed -n '1,220p' .github/workflows/jekyll.yml
 - Reordered shared navigation; removed lecture file catalogs, homework/solution links, practice-exam sections, their data/includes, and Blackboard-specific access prose. Practice retains interactive tools and references to supplementary lecture exercises.
 - Private GitHub PDF companion and publisher/library links are retained: these do not require Blackboard. The public Unit 2 whiteboard remains hosted in this repository.
 - Validation: source inspection, link/reference search, YAML/JSON parsing, and git diff --check; no local Jekyll build. Commit/push and production build verification follow.
+
+## 2026-10-15 Morris–Lecar simulator link
+
+- Added the public Morris–Lecar Simulator to the Models & Games page button list (`docs/_materials/games.md`), linking to https://gregconradismith.github.io/morris-lecar-simulator/.
+- Validation: inspected the scoped source diff and ran `git diff --check`; no local Jekyll build, following `AGENTS.md`. Publication uses the existing GitHub Actions workflow after pushing main.
