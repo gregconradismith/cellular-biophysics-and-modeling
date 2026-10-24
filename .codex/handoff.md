@@ -177,3 +177,5 @@ sed -n '1,220p' .github/workflows/jekyll.yml
 - Updated all seven standalone simulation links in `docs/_materials/games.md` and `docs/_materials/practice.md` to the verified copies under the academic site’s `/simulations/` directory: PolyQual, current–voltage relations, voltage clamp, and Morris–Lecar.
 - Preserved the historical Morris–Lecar addition above with a non-hyperlinked repository identifier and immutable source commit; its live destination now points to the academic copy.
 - Read repository instructions and inspected Markdown/HTML and existing deployment generation. No local Jekyll build or server per AGENTS.md. `git diff --check` passed; deployment and public link checks follow the authorized main push.
+
+- Published link update commit `916c00896806e2aeb11aa3cee8e62914f69d0ddf`; GitHub Actions run `40117770623` succeeded. Live `/pages/games/` has all four canonical links and `/pages/practice/` has all three; each points under the academic `/simulations/` directory.
