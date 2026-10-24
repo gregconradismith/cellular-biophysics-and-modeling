@@ -168,5 +168,12 @@ sed -n '1,220p' .github/workflows/jekyll.yml
 
 ## 2026-10-15 Morris–Lecar simulator link
 
-- Added the public Morris–Lecar Simulator to the Models & Games page button list (`docs/_materials/games.md`), linking to https://gregconradismith.github.io/morris-lecar-simulator/.
+- Added the public Morris–Lecar Simulator to the Models & Games page button list (`docs/_materials/games.md`), originally linking to the standalone app (repository identifier `gregconradismith/morris-lecar-simulator`; source commit `eea0175ccea0322eb775d388e1f50ad2160a7b1b`). The current destination is https://gregconradismith.github.io/simulations/morris-lecar-simulator/.
 - Validation: inspected the scoped source diff and ran `git diff --check`; no local Jekyll build, following `AGENTS.md`. Publication uses the existing GitHub Actions workflow after pushing main.
+
+
+## 2026-10-24 Academic simulation destinations
+
+- Updated all seven standalone simulation links in `docs/_materials/games.md` and `docs/_materials/practice.md` to the verified copies under the academic site’s `/simulations/` directory: PolyQual, current–voltage relations, voltage clamp, and Morris–Lecar.
+- Preserved the historical Morris–Lecar addition above with a non-hyperlinked repository identifier and immutable source commit; its live destination now points to the academic copy.
+- Read repository instructions and inspected Markdown/HTML and existing deployment generation. No local Jekyll build or server per AGENTS.md. `git diff --check` passed; deployment and public link checks follow the authorized main push.

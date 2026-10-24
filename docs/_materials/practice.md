@@ -11,8 +11,8 @@ Supplementary exercise PDFs are linked from the [relevant lectures](../lectures/
 
 ## Interactive Practice
 
-- [PolyQual Game](https://gregconradismith.github.io/polyqual-game/): identify qualitative features of graphs.
-- [Current–Voltage Relation Game](https://gregconradismith.github.io/current-voltage-relation-game/): reason about ionic currents.
-- [Voltage Clamp Game](https://gregconradismith.github.io/voltage-clamp-game/): interpret recordings and channel behavior.
+- [PolyQual Game](https://gregconradismith.github.io/simulations/polyqual-game/): identify qualitative features of graphs.
+- [Current–Voltage Relation Game](https://gregconradismith.github.io/simulations/current-voltage-relation-game/): reason about ionic currents.
+- [Voltage Clamp Game](https://gregconradismith.github.io/simulations/voltage-clamp-game/): interpret recordings and channel behavior.
 
 For preparation advice, see [How to Use These Materials](../philosophy/).
